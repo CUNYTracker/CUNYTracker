@@ -3,8 +3,8 @@ project:
 
 website:
   title: "CUNY Tracker"
+  page-navigation: true
   sidebar:
-    style: "docked"
     contents:
       - href: index.qmd
         text: About
