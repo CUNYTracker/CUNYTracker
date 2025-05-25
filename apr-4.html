@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.30">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>apr-4 – CUNY Tracker</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-7b1b06e26e1e2798ccde3208f86b5bbd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar docked quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./apr-4.html">Apr 4</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">CUNY Tracker</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./may-23.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">May 23</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./may-16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">May 16</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./may-9.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">May 9</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apr-25.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Apr 25</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apr-18.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Apr 18</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apr-11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Apr 11</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apr-4.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Apr 4</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mar-28.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mar 28</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mar-21.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mar 21</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mar-14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mar 14</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#apr-4" id="toc-apr-4" class="nav-link active" data-scroll-target="#apr-4">Apr 4</a>
+  <ul class="collapse">
+  <li><a href="#days-of-action" id="toc-days-of-action" class="nav-link" data-scroll-target="#days-of-action">Days of action</a></li>
+  <li><a href="#letters" id="toc-letters" class="nav-link" data-scroll-target="#letters">Letters</a></li>
+  <li><a href="#senate-resolutions" id="toc-senate-resolutions" class="nav-link" data-scroll-target="#senate-resolutions">Senate resolutions</a></li>
+  <li><a href="#cuny" id="toc-cuny" class="nav-link" data-scroll-target="#cuny">CUNY</a></li>
+  <li><a href="#foeacademic-freedom" id="toc-foeacademic-freedom" class="nav-link" data-scroll-target="#foeacademic-freedom">FOE/Academic Freedom</a></li>
+  <li><a href="#funding" id="toc-funding" class="nav-link" data-scroll-target="#funding">Funding</a></li>
+  <li><a href="#ice-deportations" id="toc-ice-deportations" class="nav-link" data-scroll-target="#ice-deportations">ICE / deportations</a></li>
+  <li><a href="#bent" id="toc-bent" class="nav-link" data-scroll-target="#bent">Bent</a></li>
+  <li><a href="#unbent" id="toc-unbent" class="nav-link" data-scroll-target="#unbent">Unbent</a></li>
+  <li><a href="#blowback" id="toc-blowback" class="nav-link" data-scroll-target="#blowback">Blowback</a></li>
+  <li><a href="#coming-attractions" id="toc-coming-attractions" class="nav-link" data-scroll-target="#coming-attractions">Coming attractions</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<section id="apr-4" class="level1">
+<h1>Apr 4</h1>
+<p>Dear All,</p>
+<p>Please find a partial summary of some of the actions taken by the federal government as relates to Higher Education in general and CUNY in specific in the past week. Sadly, there is too much to track faithfully and the pace seems to be increasing.</p>
+<section id="days-of-action" class="level2">
+<h2 class="anchored" data-anchor-id="days-of-action">Days of action</h2>
+<ul>
+<li>SSJ Emergency Faculty Townhall (4/3) (Scholars for Social Justice)</li>
+</ul>
+<p><a href="https://us02web.zoom.us/webinar/register/WN_VmK3TVTVRJOae5wUO95EZA#/registration">https://us02web.zoom.us/webinar/register/WN_VmK3TVTVRJOae5wUO95EZA#/registration</a></p>
+<ul>
+<li>Kill the cuts (Labor for Higher Education) (4/8) – thanks Kimora</li>
+</ul>
+<p><a href="https://airtable.com/appMQQqeVbCYe7DJM/pagJwN43Y1R1v0dlL/form">https://airtable.com/appMQQqeVbCYe7DJM/pagJwN43Y1R1v0dlL/form</a></p>
+<p><a href="https://www.killthecuts.org/?link_id=2&amp;can_id=127bffecb752852b771f344a52f4e76c&amp;source=email-today-aaup-member-meeting-to-kill-the-cuts-and-defend-higher-ed-3&amp;email_referrer=email_2677743&amp;email_subject=nationwide-higher-ed-protests-on-april-8-join-the-planning-call-tomorrow&amp;&amp;">https://www.killthecuts.org/?link_id=2&amp;can_id=127bffecb752852b771f344a52f4e76c&amp;source=email-today-aaup-member-meeting-to-kill-the-cuts-and-defend-higher-ed-3&amp;email_referrer=email_2677743&amp;email_subject=nationwide-higher-ed-protests-on-april-8-join-the-planning-call-tomorrow&amp;&amp;</a></p>
+<ul>
+<li>We are higher ed (Not sure who this is)</li>
+</ul>
+<p><a href="https://www.wearehighered.org/events">https://www.wearehighered.org/events</a></p>
+<p>(lists some events on 4/5, 4/8, /4/17)</p>
+<ul>
+<li>AAUP: 4/17 fight for higher education</li>
+</ul>
+<p><a href="https://www.dayofactionforhighered.org/">https://www.dayofactionforhighered.org/</a></p>
+<ul>
+<li>TEACH-IN: Academic Freedom, Resistance, and Empowerment Tuesday, April 8, 2025 12:30 – 2:00 PM Lehman College Leonard Lief Library Periodicals Room – Concourse level</li>
+</ul>
+<p>FEATURING</p>
+<p>Rhyse Weiss, FIRE Foundation for Individual Rights and Expression Ellen Schrecker, Yeshiva University Rodrigo Patta Sa Motta, Federal University Minas Gerais, Brazil Brandon Begarly, Research Administration and Strategy, Lehman College</p>
+<p>(Thanks BE)</p>
+</section>
+<section id="letters" class="level2">
+<h2 class="anchored" data-anchor-id="letters">Letters</h2>
+<ul>
+<li>National Academies letter on Science</li>
+</ul>
+<p><a href="https://docs.google.com/document/d/13gmMJOMsoNKC4U-A8rhJrzu_xhgS51PEfNMPG9Q_cmE/edit?tab=t.0">https://docs.google.com/document/d/13gmMJOMsoNKC4U-A8rhJrzu_xhgS51PEfNMPG9Q_cmE/edit?tab=t.0</a></p>
+<blockquote class="blockquote">
+<p>The undersigned are elected members of the National Academies of Sciences, Engineering, and Medicine, representing some of the nation’s top scientists, engineers, and medical researchers. We are speaking out as individuals.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>The quest for truth—the mission of science—requires that scientists freely explore new questions and report their findings honestly, independent of special interests. The administration is engaging in censorship, destroying this independence. It is using executive orders and financial threats to manipulate which studies are funded or published, how results are reported, and which data and research findings the public can access. The administration is blocking research on topics it finds objectionable, such as climate change, or that yields results it does not like, on topics ranging from vaccine safety to economic trends.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>We call on the administration to cease its wholesale assault on U.S. science, and we urge the public to join this call.</p>
+</blockquote>
+<ul>
+<li>Harvard faculty letter</li>
+</ul>
+<p>(https://docs.google.com/document/d/1DkzY8JnLyC8-vhPk2-RXfrLKvYbDjJ2ugAQBmCDQIk0/edit?tab=t.0)</p>
+<ul>
+<li>Constitutional law scholars letter on Columbia</li>
+</ul>
+<p><a href="https://www.nybooks.com/online/2025/03/20/a-statement-from-constitutional-law-scholars-on-columbia/">https://www.nybooks.com/online/2025/03/20/a-statement-from-constitutional-law-scholars-on-columbia/</a></p>
+<ul>
+<li>UCLA Law Faculty letter</li>
+</ul>
+<p><a href="https://sites.google.com/view/letter-ucla-law-students">https://sites.google.com/view/letter-ucla-law-students</a></p>
+<ul>
+<li>“Not in our name” open letter</li>
+</ul>
+<p><a href="https://docs.google.com/document/u/0/d/e/2PACX-1vRt_jMNTlIH7ABX_s7fQFuspYWf_yN2OGzfbrVzhNoO87YWlCyPQzhaq2VcWYDGYvWJRfLq7lNtpnd4/pub?pli=1&amp;urp=gmail_link">https://docs.google.com/document/u/0/d/e/2PACX-1vRt_jMNTlIH7ABX_s7fQFuspYWf_yN2OGzfbrVzhNoO87YWlCyPQzhaq2VcWYDGYvWJRfLq7lNtpnd4/pub?pli=1&amp;urp=gmail_link</a></p>
+<p>(Thanks VAC)</p>
+</section>
+<section id="senate-resolutions" class="level2">
+<h2 class="anchored" data-anchor-id="senate-resolutions">Senate resolutions</h2>
+<ul>
+<li>Resolution to Establish a Mutual Defense Compact for the Universities of the Big Ten Academic Alliance in Defense of Academic Freedom, Institutional Integrity, and the Research Enterprise</li>
+</ul>
+<p><a href="https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf">https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf</a></p>
+<p>This is the NATO style of defense, when the come for one, they come for all. (Thanks PL)</p>
+</section>
+<section id="cuny" class="level2">
+<h2 class="anchored" data-anchor-id="cuny">CUNY</h2>
+<ul>
+<li>Brian Lehrer’s show hadCUNY colleagues respond (Thanks BE)</li>
+</ul>
+<p>“Trump’s targeting of the press is directly affecting us as students of journalism and as active journalists. Our school is, thankfully, making more of an effort to protect us more than Columbia’s J School has, but the fear and pressures remain. Our international students are especially impacted because of threats to their VISAs, but it feels like we are all on the frontlines. As a community-focused health and addiction journalist, I feel a growing sense of urgency in the face of impending doom every day. It is scary.”</p>
+<ul>
+<li>Willa, Brooklyn, CUNY Newmark Graduate School for Journalism</li>
+</ul>
+<p>“Because I work with an historically large Hispanic student population, policies like the attempted recission of DACA has created an anxious atmosphere among many of our undocumented students. Under some of our previous college presidents, our enrollment of students from other countries was pretty good. Now under the Trump administration, changes in visa policies will more than likely discourage international students from enrolling.”</p>
+<ul>
+<li>LaRoi, Queens, Bronx Community College</li>
+</ul>
+</section>
+<section id="foeacademic-freedom" class="level2">
+<h2 class="anchored" data-anchor-id="foeacademic-freedom">FOE/Academic Freedom</h2>
+<ul>
+<li>Utah Lawmakers Mandate a University Refocus Gen-Ed Courses on Civics and Viewpoint Diversity</li>
+</ul>
+<p><a href="https://www.chronicle.com/article/utah-lawmakers-mandate-a-university-refocus-gen-ed-courses-on-civics-and-viewpoint-diversity">https://www.chronicle.com/article/utah-lawmakers-mandate-a-university-refocus-gen-ed-courses-on-civics-and-viewpoint-diversity</a></p>
+<blockquote class="blockquote">
+<p>Under a new law, signed by Republican Gov.&nbsp;Spencer Cox on Monday, Utah State University will create an independent academic unit called the “Center for Civic Excellence” that will serve as a new general-education hub. The gen-ed curriculum itself, which faculty will control, must be revised to help students “understand opposing points of view” and ponder “enduring questions of meaning, purpose, and value.” The center is a pilot program that lawmakers want to expand to other Utah colleges in the coming years.</p>
+</blockquote>
+<ul>
+<li>No Noncitizen Professor at My Institution Can Speak About Politics Ever Again</li>
+</ul>
+<p><a href="https://www.chronicle.com/article/no-noncitizen-professor-at-my-institution-can-speak-about-politics-ever-again">https://www.chronicle.com/article/no-noncitizen-professor-at-my-institution-can-speak-about-politics-ever-again</a></p>
+<blockquote class="blockquote">
+<p>Two months into Trump’s second term, [Jason] Stanley has decided to leave Yale for the University of Toronto. He will follow two prominent colleagues, Timothy Snyder and Marci Shore, both history professors, to Toronto’s Munk School of Global Affairs and Public Policy.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>There’s a complete failure to see that the far right is not trying to have a debate. They’re not trying to have an argument. The ‘institutional neutrality’ stuff, it’s a strategy. There’s no reasonable conversation that’s being had.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>They have a set of strategies to take down our institutions. The main part is to get all these concerned liberals on board, to trick them, because they don’t realize they’re going to come for the institutions no matter what. You want to show to the right wing that you’re a reasonable liberal, you can debate them. But they don’t care.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>I saw mistake after mistake. It’s not going to affect me, but no noncitizen professor at my institution can speak about politics ever again. Half my colleagues are not U.S. citizens. They can never speak about politics again.</p>
+</blockquote>
+<ul>
+<li>Legal Industry Responses to Fascist Attacks Tracker (Public) - Google Drive</li>
+</ul>
+<p><a href="https://docs.google.com/spreadsheets/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview?gid=287708862#gid=287708862">https://docs.google.com/spreadsheets/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview?gid=287708862#gid=287708862</a></p>
+<p>(This is an excellent census of firms and reactions. Thanks VAC)</p>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<ul>
+<li>Trump Administration to Review Billions in Grants to Harvard - Bloomberg</li>
+</ul>
+<p><a href="https://www.bloomberg.com/news/articles/2025-03-31/trump-administration-to-review-billions-in-grants-to-harvard">https://www.bloomberg.com/news/articles/2025-03-31/trump-administration-to-review-billions-in-grants-to-harvard</a></p>
+<p><a href="https://www.insidehighered.com/news/government/politics-elections/2025/03/31/trump-investigates-harvards-federal-funding">https://www.insidehighered.com/news/government/politics-elections/2025/03/31/trump-investigates-harvards-federal-funding</a></p>
+<p><a href="https://www.chronicle.com/article/trump-administration-to-review-9-billion-in-federal-funding-to-harvard">https://www.chronicle.com/article/trump-administration-to-review-9-billion-in-federal-funding-to-harvard</a></p>
+<blockquote class="blockquote">
+<p>The Trump administration has threatened universities’ grants and contracts not only over allegations of antisemitism but also over transgender athletes’ participation in sports. The administration has paused $175 million in federal funding to the University of Pennsylvania amid an investigation into its athletics policies. And it temporarily paused more than $100 million in funding to the University of Maine system after the state’s Democratic governor, Janet Mills, said she would not observe the president’s executive order on transgender athletes, which does not carry the force of law.</p>
+</blockquote>
+<ul>
+<li>NYTimes: Professors Pushed Harvard to Resist Trump. Now Billions Are on the Line.</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/01/us/republicans-harvard-funding.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/01/us/republicans-harvard-funding.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<p>(NY Times blaming the victims in the headline…again)</p>
+<blockquote class="blockquote">
+<p>“The sharks circle when they smell blood in the water,” said Kenneth Roth, a former director of Human Rights Watch and a fellow at Harvard, who wants Harvard to fight better to allow robust debate and academic freedom.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“That every-man-for-themselves response is about to cost us our democracy,” said Dr.&nbsp;Levitsky, who studies authoritarian regimes.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>As President Trump’s inauguration approached, Harvard hired Ballard Partners, a lobbying firm with deep ties to Mr.&nbsp;Trump. On the first full day of the Trump presidency, the university announced it was adopting a highly debated definition of antisemitism — which labels certain criticisms of Israel, such as calling its existence racist, as antisemitic — a move encouraged by the new administration but slammed by free speech advocates.</p>
+</blockquote>
+<ul>
+<li>NYTimes: Trump Pauses Dozens of Federal Grants to Princeton</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/01/us/trump-federal-grants-princeton.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/01/us/trump-federal-grants-princeton.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>The Trump administration moved this week to suspend dozens of federal grants to Princeton University, the fourth Ivy League school that has seen its financial support from Washington reduced or explicitly threatened since March.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>According to Princeton’s most recent financial report, the university received more than $455 million through government grants and contracts during the fiscal year that ended in June 2024. That money accounted for roughly 18 percent of the university’s revenues.</p>
+</blockquote>
+<ul>
+<li>Who Is on Trump’s Antisemitism Task Force?</li>
+</ul>
+<p><a href="https://www.insidehighered.com/news/government/politics-elections/2025/04/02/who-trumps-antisemitism-task-force?utm_source=Inside+Higher+Ed&amp;utm_campaign=d776e1ff03-DNU_2021_COPY_02&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-d776e1ff03-197464749&amp;mc_cid=d776e1ff03&amp;mc_eid=50634a26f0">https://www.insidehighered.com/news/government/politics-elections/2025/04/02/who-trumps-antisemitism-task-force?utm_source=Inside+Higher+Ed&amp;utm_campaign=d776e1ff03-DNU_2021_COPY_02&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-d776e1ff03-197464749&amp;mc_cid=d776e1ff03&amp;mc_eid=50634a26f0</a></p>
+<ul>
+<li>Staff and Funding Cuts at the NEH Loom</li>
+</ul>
+<p><a href="https://www.insidehighered.com/news/government/politics-elections/2025/04/03/staff-and-funding-cuts-neh-loom">https://www.insidehighered.com/news/government/politics-elections/2025/04/03/staff-and-funding-cuts-neh-loom</a></p>
+<blockquote class="blockquote">
+<p>Humanities advocates don’t know exactly how large the cuts to NEH’s approximately 180-person staff or $78.25 million grant budget will be, but they note that “patterns at other agencies” provide a solid hint. The impact on colleges and universities, they say, would be crushing.</p>
+</blockquote>
+<ul>
+<li>Researchers, Higher Ed Union Fight NIH Grant Terminations</li>
+</ul>
+<p><a href="https://www.insidehighered.com/news/government/science-research-policy/2025/04/02/researchers-higher-ed-union-fight-nih-grant">https://www.insidehighered.com/news/government/science-research-policy/2025/04/02/researchers-higher-ed-union-fight-nih-grant</a></p>
+<blockquote class="blockquote">
+<p>Individual university researchers, a public health advocacy organization and a union representing more than 120,000 higher education workers are suing the National Institutes of Health after the agency terminated more than $2.4 billion in grants it claims support “non-scientific” projects that “no longer” effectuate agency priorities.</p>
+</blockquote>
+<ul>
+<li>NYTimes: The Next Generation of American Scientists Is Losing Faith</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/03/opinion/young-american-scientists.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/03/opinion/young-american-scientists.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>Most American scientists understood a second Trump term was unlikely to be friendly to their kind, but few anticipated such a rapid bulldozing. The N.I.H. — the largest public funder of biomedical and behavioral research in the world — announced it would slash funding to universities for overhead, or indirect, costs, which often covers laboratories’ operational needs. …The agency has lost nearly one-fourth of its 18,000 employees because of job cuts, buyouts and some employees’ choosing early retirement, according to reporting by NPR.</p>
+</blockquote>
+<ul>
+<li>NYTimes: I Led Harvard’s Medical School, and I Fear for What’s to Come</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/04/opinion/harvard-medicine-higher-education.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/04/opinion/harvard-medicine-higher-education.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<ul>
+<li>NYTimes: Trump Administration Sends Harvard a List of Demands to Protect Federal Funds</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/03/us/politics/trump-harvard-funding-demands.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/03/us/politics/trump-harvard-funding-demands.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>In both instances, the government asked Harvard and Columbia to impose bans, with few exemptions, on masking.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>The Trump administration also pressured the universities to intensify efforts to hold student groups “accountable,” cease admissions practices based on race, color or national origin and revamp policies on campus protests.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>it said that Harvard’s “programs and departments that fuel antisemitic harassment must be reviewed and necessary changes made to address bias, improve viewpoint diversity, and end ideological capture.”</p>
+</blockquote>
+<ul>
+<li>NYTimes: Trump Administration Set to Pause $510 Million for Brown University</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/03/us/trump-administration-brown-university-funding-pause.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/03/us/trump-administration-brown-university-funding-pause.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<p>This adds Brown to the list that includes now: Columbia, Princeton, Harvard, UPenn</p>
+</section>
+<section id="ice-deportations" class="level2">
+<h2 class="anchored" data-anchor-id="ice-deportations">ICE / deportations</h2>
+<ul>
+<li>A militant Zionist group threatens activists online with a ‘deport list’</li>
+</ul>
+<p><a href="https://www.washingtonpost.com/technology/2025/03/29/zionist-palestinians-deportations-x/">https://www.washingtonpost.com/technology/2025/03/29/zionist-palestinians-deportations-x/</a></p>
+<blockquote class="blockquote">
+<p>Almost six weeks before federal immigration officials detained Columbia University graduate student Mahmoud Khalil, a group called Betar US said on its X account that it had put the pro-Palestinian activist on “our deport list.”</p>
+</blockquote>
+<ul>
+<li>ICE Revoking Students’ Immigration Statuses Without Their or the University’s Knowledge</li>
+</ul>
+<p><a href="https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east">https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east</a></p>
+<blockquote class="blockquote">
+<p>Three university officials, who were given anonymity so they could speak freely, across the country report that, in recent days, student residency statuses in the Student and Exchange Visitor Information System – SEVIS, a database where residency statuses of foreign students are managed – are being changed without their knowledge.</p>
+</blockquote>
+<p>[This source is not well known, here is a similar article from inside higher ed]</p>
+<p><a href="https://www.insidehighered.com/news/global/international-students-us/2025/04/03/how-trump-wreaking-havoc-student-visa-system">https://www.insidehighered.com/news/global/international-students-us/2025/04/03/how-trump-wreaking-havoc-student-visa-system</a></p>
+<ul>
+<li>ICE tracker</li>
+</ul>
+<p><a href="https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map">https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map</a></p>
+<p>(Shared from the FGL list)</p>
+<ul>
+<li>NYTimes: Unmarked Vans. Secret Lists. Public Denunciations. Our Police State Has Arrived.</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/02/opinion/trump-ice-immigrants.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/02/opinion/trump-ice-immigrants.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>[CUNY Faculty write] When the range of factors that can get a person arrested stretches from political speech to a paperwork error, we are in territory described by the Russian saying, “Give us a person and we’ll find the infraction.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>The state appears to have outsourced surveillance … Last Friday, mere minutes after Columbia announced the name of its new interim president, Claire Shipman, an entity that calls itself Documenting Jew Hatred on Campus addressed Shipman on X: “We have identified faculty members” who, the group believes, should be purged. The self-appointed enforcers are vigilant. This, too, is a hallmark of a secret-police state.</p>
+</blockquote>
+<ul>
+<li>NYTimes: Cornell Student Facing Deportation Felt Drawn to Protest</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/03/28/us/cornell-student-deportation-protest.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/03/28/us/cornell-student-deportation-protest.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+</section>
+<section id="bent" class="level2">
+<h2 class="anchored" data-anchor-id="bent">Bent</h2>
+<ul>
+<li>NYTimes: How Colleges Are Cracking Down on Students Now</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/03/29/us/universities-students-search-warrants.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/03/29/us/universities-students-search-warrants.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>After reviewing security footage, the university police obtained warrants to search a student’s car and cellphone. The investigator found photos of the statue covered in paint, and the student was charged with two counts of criminal mischief.</p>
+</blockquote>
+<p>(On April 14th, the board will vote on the use of body-worn cameras by select peace officers with policies related to data retention and data sharing inherited from other policies, and perhaps in need of review.)</p>
+<ul>
+<li>NYTimes: Leaders of Harvard’s Middle Eastern Studies Center Will Leave</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/03/28/us/leaders-of-harvards-middle-eastern-studies-center-will-leave.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/03/28/us/leaders-of-harvards-middle-eastern-studies-center-will-leave.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>The university has also been under pressure from Republicans to be more welcoming to conservative viewpoints.</p>
+</blockquote>
+<ul>
+<li>Montreal doctor says NYU cancelled her presentation</li>
+</ul>
+<p><a href="https://www.ctvnews.ca/montreal/article/climate-of-fear-montreal-doctor-says-nyu-cancelled-her-presentation/">https://www.ctvnews.ca/montreal/article/climate-of-fear-montreal-doctor-says-nyu-cancelled-her-presentation/</a></p>
+<blockquote class="blockquote">
+<p>A couple of the slides in her presentation touched on the casualties in Gaza during the Israel-Hamas war as well as the cuts at the United States Agency for International Development (USAID). Liu said she was told the slides about Gaza “could be perceived as antisemitic” while the USAID section might be perceived as “anti governmental.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Liu, who was already in New York when she got the call, offered to make edits to those slides but then three hours later, after some deliberations, she said the university apologized and said they had to cancel.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>A McGill University professor told CTV News last week that he cancelled three visits to the U.S. due to the current political climate and what he believes is the “breakdown of the rule of law” south of the border. He said other colleagues are also avoiding visits to the U.S.</p>
+</blockquote>
+<p>Also reported on at the NY Times:</p>
+<p><a href="https://www.nytimes.com/2025/04/02/nyregion/nyu-doctor-speech-canceled.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/02/nyregion/nyu-doctor-speech-canceled.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+</section>
+<section id="unbent" class="level2">
+<h2 class="anchored" data-anchor-id="unbent">Unbent</h2>
+<ul>
+<li>NYTimes: I’m Cornell’s President. We’re Not Afraid of Debate and Dissent.</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/03/31/opinion/ideas-universities-controversey-protest.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/03/31/opinion/ideas-universities-controversey-protest.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>If Cornell were a business, we might have called the event a failure: The news coverage displayed only the disruption, and ignored the rest. Fortunately for our students, Cornell is not a business. We are a university. And universities, despite rapidly escalating political, legal and financial risks, cannot afford to cede the space of public discourse and the free exchange of ideas.</p>
+</blockquote>
+<ul>
+<li>NYTimes: If Powerful Places Like Harvard Don’t Stand Up to Trump, Who Can?</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/03/opinion/larry-summers-harvard-trump.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/03/opinion/larry-summers-harvard-trump.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>But the Trump administration is not acting in good faith in its purported antisemitism concerns, nor is it following the law in its approach to universities.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Universities facing those threats should make clear they are willing to negotiate with government officials only over matters covered by statute and through the procedures laid out in the law.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>[Though, not really a faculty senate champion] That will not happen through universities’ usual deliberative processes, which give too much power to faculty members who have political agendas. It will require strong, determined leaders backed by confident and competent trustees.</p>
+</blockquote>
+</section>
+<section id="blowback" class="level2">
+<h2 class="anchored" data-anchor-id="blowback">Blowback</h2>
+<ul>
+<li>Columbia University’s President Resigns - The New York Times</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/03/28/us/columbia-universitys-president-resigns.html">https://www.nytimes.com/2025/03/28/us/columbia-universitys-president-resigns.html</a></p>
+<ul>
+<li>NYTimes: Columbia Campus Occupation Could Have Ended Without Police, Report Says</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/01/nyregion/columbia-protests-police.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/01/nyregion/columbia-protests-police.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<blockquote class="blockquote">
+<p>The new details of the final hours of the occupation of Hamilton Hall on April 30 were among the key revelations of the 335-page report, which was written by a group within the senate, a Columbia policymaking body that includes faculty members, students and administrators, with faculty in the majority. The senate is independent from the administration and has been critical of its protest response.</p>
+</blockquote>
+</section>
+<section id="coming-attractions" class="level2">
+<h2 class="anchored" data-anchor-id="coming-attractions">Coming attractions</h2>
+<ul>
+<li>‘It reminds you of a fascist state’: Smithsonian Institution braces for Trump rewrite of US history</li>
+</ul>
+<p><a href="https://www.theguardian.com/us-news/2025/mar/30/smithsonian-institution-trump-executive-order">https://www.theguardian.com/us-news/2025/mar/30/smithsonian-institution-trump-executive-order</a></p>
+<blockquote class="blockquote">
+<p>“It is a five-alarm fire for public history, science and education in America,” said Samuel Redman, a history professor at the University of Massachusetts Amherst. “While the Smithsonian has faced crisis moments in the past, it has not been directly attacked in quite this way by the executive branch in its long history. It’s troubling and quite scary.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>As in so many other ways, however, Trump’s second term is a whole different beast. The president believes there has been a “concerted and widespread effort to rewrite our nation’s history, replacing objective facts with a distorted narrative driven by ideology rather than truth”, according to the White House executive order.</p>
+</blockquote>
+<ul>
+<li>400 Books Removed From Naval Academy Library</li>
+</ul>
+<p><a href="https://www.insidehighered.com/news/quick-takes/2025/04/03/400-books-removed-naval-academy-library">https://www.insidehighered.com/news/quick-takes/2025/04/03/400-books-removed-naval-academy-library</a></p>
+<blockquote class="blockquote">
+<p>That list included The Autobiography of Martin Luther King Jr., Einstein on Race and Racism, and a biography of Jackie Robinson. A list of the books that were ultimately removed has not been released.</p>
+</blockquote>
+<ul>
+<li>NYTimes: ‘What Is Our Country Becoming?’ Four Columnists Map Out Where Trump Is Taking America.</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/04/opinion/trump-ice-detentions.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/04/opinion/trump-ice-detentions.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<p>(A sad, but informative conversation including CUNY’s J-School member)</p>
+<blockquote class="blockquote">
+<p>Gessen: When universities and individual researchers lose funding because the White House doesn’t like their academic policies or because their grant applications include words like “diversity” (even if it’s “genetic diversity”), we have entered a period when the speech space is rapidly shrinking.</p>
+</blockquote>
+<ul>
+<li>NYTimes: The Failed Ideas That Drive Elon Musk</li>
+</ul>
+<p><a href="https://www.nytimes.com/2025/04/04/opinion/elon-musk-doge-technocracy.html?smid=nytcore-ios-share&amp;referringSource=articleShare">https://www.nytimes.com/2025/04/04/opinion/elon-musk-doge-technocracy.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<p>(An origin story on Elon Musk)</p>
+<blockquote class="blockquote">
+<p>Mr.&nbsp;Musk’s grandfather was also a flamboyant leader of the political movement known as technocracy. Leading technocrats proposed replacing democratically elected officials and civil servants — indeed, all of government — with an army of scientists and engineers under what they called a technate.</p>
+</blockquote>
+<p>:::</p>
+<p>Links: Some of these links are available to CUNY faculty, not all. For example, the Chronicle.com is available through your library, but the link above does not assume you are logged on so.</p>
+<p>Any Washington Post link with a shortened url is a gift article; but there are only so many a month to gift.</p>
+<p>I tried to use <a href="https://12ft.io">https://12ft.io</a> to create links, but that is not very reliable. Ditto with the wayback machine at <a href="https://web.archive.org">https://web.archive.org</a>.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/CUNYTracker\.github\.io\/CUNYTracker\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
