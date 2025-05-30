@@ -8,6 +8,8 @@ website:
     contents:
       - href: index.qmd
         text: About
+      - href: may-30.qmd
+        text: "May 30"
       - href: may-23.qmd
         text: "May 23"
       - href: may-16.qmd
