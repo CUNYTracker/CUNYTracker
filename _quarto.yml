@@ -8,6 +8,9 @@ website:
     contents:
       - href: index.qmd
         text: About
+      - text: "----"
+      - href: jun-6.qmd
+        text "Jun 6"
       - href: may-30.qmd
         text: "May 30"
       - href: may-23.qmd
@@ -16,6 +19,7 @@ website:
         text: May 16
       - href: may-9.qmd
         text: May 9
+      - text: "----"
       - href: apr-25.qmd
         text: Apr 25
       - href: apr-18.qmd
@@ -24,6 +28,7 @@ website:
         text: Apr 11
       - href: apr-4.qmd
         text: Apr 4
+      - text: "----"
       - href: mar-28.qmd
         text: Mar 28
       - href: mar-21.qmd
