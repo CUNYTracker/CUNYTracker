@@ -10,7 +10,7 @@ website:
         text: About
       - text: "----"
       - href: jun-6.qmd
-        text "Jun 6"
+        text: "Jun 6"
       - href: may-30.qmd
         text: "May 30"
       - href: may-23.qmd
