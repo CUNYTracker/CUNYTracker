@@ -1,4 +1,4 @@
 /.quarto/
 /_site/
-/.qmd_raw/
+/qmd_raw/
 process_qmd_file.jl
