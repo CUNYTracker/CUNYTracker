@@ -7,7 +7,12 @@ website:
   sidebar:
     contents:
       - href: index.qmd
-        text: About
+        text: "About"
+      - href: bytopic.qmd
+        text: "List by topic"
+      - text: "----"
+      - href: jul-4.qmd
+        text: "Jul 4"
       - text: "----"
       - href: jun-27.qmd
         text: "Jun 27"
