@@ -6,6 +6,7 @@ format:
 ---
 
 ## Testimony on the hill
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -45,6 +46,10 @@ format:
 
 
 ## How best to describe the times we are in
+
+<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
+
+
 * What Trump’s Bombast Reveals About His Vision for Higher Ed
 
 [https://www.insidehighered.com/news/government/politics-elections/2025/07/15/how-public-attacks-harvard-harm-all-higher-ed](https://www.insidehighered.com/news/government/politics-elections/2025/07/15/how-public-attacks-harvard-harm-all-higher-ed)
@@ -156,6 +161,7 @@ format:
 
 
 ### Anti-woke/anti-DEI is simply racism
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -170,6 +176,7 @@ format:
 
 
 ## Shared governance
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -187,6 +194,7 @@ format:
 
 
 ## Freedom of expression
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -289,6 +297,7 @@ format:
 
 
 ### Anti-woke/anti-DEI is simply racism
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -381,6 +390,7 @@ format:
 
 
 ## Visas
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -500,6 +510,7 @@ format:
 
 
 ## Funding cuts
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -869,6 +880,7 @@ format:
 
 
 ### NSF
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -967,6 +979,7 @@ format:
 
 
 ### DOE
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1033,6 +1046,7 @@ format:
 
 
 ### NIH
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -1120,6 +1134,7 @@ format:
 
 
 ### EPA
+
 <i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
 
 
@@ -1129,6 +1144,7 @@ format:
 
 
 ### DOD
+
 <i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
 
 
@@ -1138,6 +1154,7 @@ format:
 
 
 ### Fulbright
+
 <i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
 
 
@@ -1164,12 +1181,17 @@ format:
 
 
 ### NEA
+
+<i class='bi bi-calendar2-range'></i> [5/30/2025](may-30.qmd)
+
+
 * Trump Cancels Federal Research Grants. What Are the Consequences?
 
 [https://www.nea.org/nea-today/all-news-articles/trump-cancels-federal-research-grants-what-are-consequences](https://www.nea.org/nea-today/all-news-articles/trump-cancels-federal-research-grants-what-are-consequences)
 
 
 ### NEH
+
 <i class='bi bi-calendar2-range'></i> [5/23/2025](may-23.qmd)
 
 
@@ -1214,6 +1236,7 @@ format:
 
 
 ### House bills
+
 <i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
 
 
@@ -1251,6 +1274,7 @@ format:
 
 
 ### Executive orders
+
 <i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
 
 
@@ -1260,6 +1284,10 @@ format:
 
 
 ### Research funding
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
 * Bridge the gap’: After federal grant freeze, CUNY union seeks city funding lifeline to continue research | amNewYork
 
 [https://www.amny.com/education/federal-grant-freeze-cuny-union-funding/](https://www.amny.com/education/federal-grant-freeze-cuny-union-funding/)
@@ -1271,12 +1299,17 @@ format:
 
 
 ### DOGE
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
 * The hidden ways Trump, DOGE are shutting down parts of the U.S. government
 
 [https://www.washingtonpost.com/nation/2025/05/11/trump-government-operations-halt-funding-cuts/](https://www.washingtonpost.com/nation/2025/05/11/trump-government-operations-halt-funding-cuts/)
 
 
 ### Proposed executive budget
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -1286,6 +1319,7 @@ format:
 
 
 ## Congressional actions
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1339,6 +1373,7 @@ format:
 
 
 ## State actions
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1366,6 +1401,7 @@ format:
 
 
 ## Institutional assaults
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1449,6 +1485,7 @@ format:
 
 
 ### Accreditation
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1463,6 +1500,10 @@ format:
 
 
 ### Harvard
+
+<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
+
+
 * NYTimes: As Harvard and Trump Head to Court, the Government Piles on the Pressure
 
 [https://www.nytimes.com/2025/07/18/us/harvard-trump-head-to-trial.html](https://www.nytimes.com/2025/07/18/us/harvard-trump-head-to-trial.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -1809,6 +1850,7 @@ format:
 
 
 ### Columbia
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1910,6 +1952,7 @@ format:
 
 
 ### George Mason
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1940,6 +1983,7 @@ format:
 
 
 ### UVA
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1981,6 +2025,7 @@ format:
 
 
 ### Title VI
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1990,6 +2035,7 @@ format:
 
 
 ### Indiana
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2037,6 +2083,7 @@ format:
 
 
 ### UPenn
+
 <i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
 
 
@@ -2048,6 +2095,7 @@ format:
 
 
 ### Others
+
 <i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
 
 
@@ -2105,6 +2153,7 @@ format:
 
 
 ### Alliances
+
 <i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
 
 
@@ -2114,6 +2163,7 @@ format:
 
 
 ## Blowback
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -2407,6 +2457,7 @@ format:
 
 
 ## AI misdeeds
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -2478,6 +2529,7 @@ format:
 
 
 ## Testimony
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2492,6 +2544,10 @@ format:
 
 
 ## Protests
+
+<i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
+
+
 * PSC Resolution Condemns Retaliatory Firing of CUNY Faculty
 
 [https://psc-cuny.org/news-events/week/psc-condemns-retaliatory-firing-of-cuny-faculty-retro-for-part-timers/](https://psc-cuny.org/news-events/week/psc-condemns-retaliatory-firing-of-cuny-faculty-retro-for-part-timers/)
@@ -2563,6 +2619,7 @@ format:
 
 
 ## Letters
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2692,6 +2749,7 @@ format:
 
 
 ## Statements
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2709,6 +2767,7 @@ format:
 
 
 ## Financial aid
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2718,7 +2777,12 @@ format:
 
 
 ## Federal Agencies
+
 ### DOE/OCR
+
+<i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
+
+
 * Court Filing Sheds Light on Civil Rights Complaints Under Trump
 
 [https://www.insidehighered.com/news/government/politics-elections/2025/07/08/trump-admin-dismisses-34k-civil-rights-complaints-3](https://www.insidehighered.com/news/government/politics-elections/2025/07/08/trump-admin-dismisses-34k-civil-rights-complaints-3)
@@ -2733,6 +2797,7 @@ format:
 
 
 ### OMB
+
 <i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
 
 
@@ -2742,6 +2807,7 @@ format:
 
 
 ### State actions
+
 <i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
 
 
@@ -2770,6 +2836,7 @@ format:
 
 
 ## Academic freedom
+
 <i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
 
 
@@ -2938,6 +3005,7 @@ format:
 
 
 ### Anti-woke/anti-DEI is simply racism
+
 <i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
 
 
@@ -2998,6 +3066,7 @@ format:
 
 
 ## Alliances
+
 <i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
 
 
@@ -3099,6 +3168,7 @@ format:
 
 
 ## Survey results
+
 <i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
 
 
@@ -3108,6 +3178,7 @@ format:
 
 
 ## Op eds
+
 <i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
 
 
@@ -3133,6 +3204,7 @@ format:
 
 
 ## Tracking projects
+
 <i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
 
 
@@ -3150,6 +3222,7 @@ format:
 
 
 ## Off topic
+
 <i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
 
 
@@ -3159,6 +3232,7 @@ format:
 
 
 ## Loss of expertise
+
 <i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
 
 
@@ -3168,6 +3242,10 @@ format:
 
 
 ## Coming attractions?
+
+<i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
+
+
 * Trump preparing large-scale cancellation of federal funding for California, sources say | CNN Politics
 
 [https://www.cnn.com/2025/06/06/politics/trump-california-federal-funding](https://www.cnn.com/2025/06/06/politics/trump-california-federal-funding)
@@ -3265,6 +3343,7 @@ format:
 
 
 ## Undocuments students
+
 <i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
 
 
@@ -3274,13 +3353,19 @@ format:
 
 
 ## Agencies
+
 ### DOE OCR
+
+<i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
+
+
 * Senate Dems Grill Trump’s Pick to Lead the Office for Civil Rights
 
 [https://www.insidehighered.com/news/diversity/sex-gender/2025/06/06/senate-dems-grill-trumps-pick-lead-civil-rights-office](https://www.insidehighered.com/news/diversity/sex-gender/2025/06/06/senate-dems-grill-trumps-pick-lead-civil-rights-office)
 
 
 ## ICE
+
 <i class='bi bi-calendar2-range'></i> [5/23/2025](may-23.qmd)
 
 
@@ -3365,6 +3450,7 @@ format:
 
 
 ## The long game
+
 <i class='bi bi-calendar2-range'></i> [5/23/2025](may-23.qmd)
 
 
@@ -3407,6 +3493,10 @@ format:
 
 
 ## Something good for a change
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
 * Rapid Response Bridge Funding Program
 
 [https://www.spencer.org/grant_types/rapid-response-bridge-funding-program](https://www.spencer.org/grant_types/rapid-response-bridge-funding-program)
@@ -3418,12 +3508,17 @@ format:
 
 
 ## Ownership of content
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
 * Morelle’s Statement on Abrupt Firing of Shira Perlmutter, Register of Copyrights | Committee on House Administration
 
 [http://democrats-cha.house.gov/media/press-releases/morelles-statement-abrupt-firing-shira-perlmutter-register-copyrights](http://democrats-cha.house.gov/media/press-releases/morelles-statement-abrupt-firing-shira-perlmutter-register-copyrights)
 
 
 ## Can't we all just get along?
+
 <i class='bi bi-calendar2-range'></i> [5/1/2025](may-1.qmd)
 
 
@@ -3489,6 +3584,7 @@ format:
 
 
 ### Harvard
+
 <i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
 
 
@@ -3573,6 +3669,7 @@ format:
 
 
 ### Columbia
+
 <i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
 
 
@@ -3610,6 +3707,7 @@ format:
 
 
 ### Dartmouth
+
 <i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
 
 
@@ -3619,12 +3717,17 @@ format:
 
 
 ### Penn State
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
 * Facing  20 M Loss, Penn State Declares Support for Lawsuit Against NSF Over Research Funding Cut (Thanks MP)
 
 [https://www.statecollege.com/articles/psu-news/facing-20m-loss-penn-state-declares-support-for-lawsuit-against-nsf-over-research-funding-cut/#google_vignette](https://www.statecollege.com/articles/psu-news/facing-20m-loss-penn-state-declares-support-for-lawsuit-against-nsf-over-research-funding-cut/#google_vignette)
 
 
 ### U Penn
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -3634,12 +3737,20 @@ format:
 
 
 ### knee flexion is exceptional
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * Why I Chose the University of Florida
 
 [https://www.insidehighered.com/opinion/views/2025/05/08/why-i-chose-university-florida-santa-ono-opinion](https://www.insidehighered.com/opinion/views/2025/05/08/why-i-chose-university-florida-santa-ono-opinion)
 
 
 ## Letters/Statements
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * Several CUNY senates have passed alliance resolutions
 
 [https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/ABqQBAimqk Markdown.Italic(Any["KN5t-EsUG8Ds/1.Mutual%20Defense%20Statements](https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/ABqQBAimqk_KN5t-EsUG8Ds/1.Mutual%20Defense%20Statements?dl=0&rlkey=zvsqtp7ev781y4rqqjti8xaho&subfolder_nav_tracking=1)
@@ -3712,6 +3823,7 @@ format:
 
 
 ## SEVIS VISA uncancellation
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -3754,6 +3866,7 @@ format:
 
 
 ## DOT, NEA
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -3773,6 +3886,10 @@ format:
 
 
 ### DOE
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * The Trump administration will put millions of defaulted student-loan borrowers into collections starting Monday and is threatening to confiscate their wages and federal benefits
 
 [https://www.wsj.com/personal-finance/student-loans-debt-payments-collections-6fd28ed3](https://www.wsj.com/personal-finance/student-loans-debt-payments-collections-6fd28ed3?st=fgHqWY&reflink=article_gmail_share)
@@ -3794,6 +3911,10 @@ format:
 
 
 ## Funding un-cuts
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * NYTimes: Mellon Foundation Announces  15  Million for Humanities Councils
 
 [https://www.nytimes.com/2025/04/29/arts/mellon-foundation-humanities-endowment.html](https://www.nytimes.com/2025/04/29/arts/mellon-foundation-humanities-endowment.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -3805,6 +3926,10 @@ format:
 
 
 ## Hitting replay
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * NYTimes: Congress Grills College Presidents With an Old Script and New Threats
 
 [https://www.nytimes.com/2025/05/07/us/congress-hearing-college-presidents-haverford.html](https://www.nytimes.com/2025/05/07/us/congress-hearing-college-presidents-haverford.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -3816,6 +3941,10 @@ format:
 
 
 ## Alternate Reality
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
 * NYTimes: On California’s State Bar Exam, More Questions Than Answers
 
 [https://www.nytimes.com/2025/04/30/us/california-state-bar-exam.html](https://www.nytimes.com/2025/04/30/us/california-state-bar-exam.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -3843,6 +3972,7 @@ format:
 
 
 ## Tracking web sites
+
 <i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
 
 
@@ -3853,6 +3983,7 @@ format:
 
 
 ## Free Speech/Free Expression/Protests
+
 <i class='bi bi-calendar2-range'></i> [5/1/2025](may-1.qmd)
 
 
@@ -3867,6 +3998,10 @@ format:
 
 
 ## Accreditation
+
+<i class='bi bi-calendar2-range'></i> [5/1/2025](may-1.qmd)
+
+
 * ED Announces Further Changes to Accreditation
 
 [https://www.insidehighered.com/news/governance/accreditation/2025/05/02/ed-announces-further-changes-accreditation](https://www.insidehighered.com/news/governance/accreditation/2025/05/02/ed-announces-further-changes-accreditation)
@@ -3916,18 +4051,30 @@ format:
 
 
 ## Resources
+
+<i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
+
+
 * American Historical Association Statements on Academic Freedom and International Scholars (Thanks EST)
 
 [https://www.historians.org/why-history-matters/aha-advocacy/resources-for-foreign-scholars/](https://www.historians.org/why-history-matters/aha-advocacy/resources-for-foreign-scholars/?_zs=30dma&_zl=5RoT4)
 
 
 ## Free Speech
+
+<i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
+
+
 * Anti-DEI Guidance Letter Put On Hold, for Now
 
 [https://www.insidehighered.com/news/government/politics-elections/2025/04/24/education-departments-anti-dei-guidance-blocked](https://www.insidehighered.com/news/government/politics-elections/2025/04/24/education-departments-anti-dei-guidance-blocked)
 
 
 ## Other EOs
+
+<i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
+
+
 * EO on foreign monies
 
 [https://www.whitehouse.gov/presidential-actions/2025/04/transparency-regarding-foreign-influence-at-american-universities/](https://www.whitehouse.gov/presidential-actions/2025/04/transparency-regarding-foreign-influence-at-american-universities/)
@@ -3939,6 +4086,10 @@ format:
 
 
 ## Behind the curtain
+
+<i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
+
+
 * Trump’s destructive war on academia
 
 [https://www.washingtonpost.com/opinions/2025/04/19/trump-harvard-irs-nixon-universities/](https://www.washingtonpost.com/opinions/2025/04/19/trump-harvard-irs-nixon-universities/)
@@ -3953,6 +4104,7 @@ format:
 
 
 ## Bent
+
 <i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
 
 
@@ -3991,6 +4143,7 @@ format:
 
 
 ### Cornell
+
 <i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
 
 
@@ -4000,6 +4153,10 @@ format:
 
 
 ## Unbent
+
+<i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
+
+
 * Trump and Vance fear universities for a reason
 
 [https://wapo.st/4juE7ow](https://wapo.st/4juE7ow)
@@ -4086,6 +4243,7 @@ format:
 
 
 ### Harvard
+
 <i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
 
 
@@ -4194,6 +4352,7 @@ format:
 
 
 ### Columbia
+
 <i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
 
 
@@ -4211,6 +4370,10 @@ format:
 
 
 ### Cornell
+
+<i class='bi bi-calendar2-range'></i> [4/18/2025](apr-18.qmd)
+
+
 * Cornell Sues DOE for ‘Unlawful’ Cuts to Indirect Costs for Research Grants - The Cornell Daily Sun
 
 [https://www.cornellsun.com/article/2025/04/breaking-cornell-sues-doe-following-1-billion-funding-freeze](https://www.cornellsun.com/article/2025/04/breaking-cornell-sues-doe-following-1-billion-funding-freeze)
@@ -4222,12 +4385,17 @@ format:
 
 
 ### Brown
+
+<i class='bi bi-calendar2-range'></i> [4/18/2025](apr-18.qmd)
+
+
 * Brown Takes Out  300  Million Loan
 
 [https://www.insidehighered.com/news/quick-takes/2025/04/17/brown-takes-out-300-million-loan](https://www.insidehighered.com/news/quick-takes/2025/04/17/brown-takes-out-300-million-loan)
 
 
 ## Coming attractions
+
 <i class='bi bi-calendar2-range'></i> [4/25/2025](apr-25.qmd)
 
 
@@ -4291,6 +4459,7 @@ format:
 
 
 ## Freedom of Speech
+
 <i class='bi bi-calendar2-range'></i> [4/18/2025](apr-18.qmd)
 
 
@@ -4305,6 +4474,7 @@ format:
 
 
 ## Public statements by Colleges and Universities
+
 <i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
 
 
@@ -4314,6 +4484,10 @@ format:
 
 
 ## Academic Freedom
+
+<i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
+
+
 * Add John Jay to the list of campuses speaking out about academic freedom violations by endorsing the UFS Letter in Defense of Academic Freedom.
 
 [https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/AO9WLNUUIorJRhgTO1SupgY](https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/AO9WLNUUIorJRhgTO1SupgY?rlkey=zvsqtp7ev781y4rqqjti8xaho&e=1&dl=0)
@@ -4380,6 +4554,7 @@ format:
 
 
 ## DEI
+
 <i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
 
 
@@ -4389,12 +4564,20 @@ format:
 
 
 ## DOE
+
+<i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
+
+
 * NYTimes: When Trump Is Done, What Will Remain of Public Education?
 
 [https://www.nytimes.com/2025/04/08/opinion/trump-k-12-education.html](https://www.nytimes.com/2025/04/08/opinion/trump-k-12-education.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 
 ## Vindictiveness
+
+<i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
+
+
 * NYTimes: List: Who Trump Has Targeted for Retribution
 
 [https://www.nytimes.com/interactive/2025/04/07/us/trump-revenge-list.html](https://www.nytimes.com/interactive/2025/04/07/us/trump-revenge-list.html?smid=nytcore-ios-share&referringSource=articleShare)
@@ -4406,6 +4589,7 @@ format:
 
 
 ## Days of action
+
 <i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
 
 
@@ -4435,12 +4619,20 @@ format:
 
 
 ## Senate resolutions
+
+<i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
+
+
 * Resolution to Establish a Mutual Defense Compact for the Universities of the Big Ten Academic Alliance in Defense of Academic Freedom, Institutional Integrity, and the Research Enterprise
 
 [https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf](https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf)
 
 
 ## CUNY
+
+<i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
+
+
 * Brian Lehrer's show hadCUNY colleagues respond (Thanks BE)
 
 
@@ -4454,6 +4646,10 @@ format:
 
 
 ## FOE/Academic Freedom
+
+<i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
+
+
 * Utah Lawmakers Mandate a University Refocus Gen-Ed Courses on Civics and Viewpoint Diversity
 
 [https://www.chronicle.com/article/utah-lawmakers-mandate-a-university-refocus-gen-ed-courses-on-civics-and-viewpoint-diversity](https://www.chronicle.com/article/utah-lawmakers-mandate-a-university-refocus-gen-ed-courses-on-civics-and-viewpoint-diversity)
@@ -4470,6 +4666,10 @@ format:
 
 
 ## Funding
+
+<i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
+
+
 * Trump Administration to Review Billions in Grants to Harvard - Bloomberg
 
 [https://www.bloomberg.com/news/articles/2025-03-31/trump-administration-to-review-billions-in-grants-to-harvard](https://www.bloomberg.com/news/articles/2025-03-31/trump-administration-to-review-billions-in-grants-to-harvard)
@@ -4580,6 +4780,7 @@ format:
 
 
 ## ICE / deportations
+
 <i class='bi bi-calendar2-range'></i> [4/4/2025](apr-4.qmd)
 
 
@@ -4610,6 +4811,7 @@ format:
 
 
 ## CUNY Guidance
+
 <i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
 
 
@@ -4629,6 +4831,10 @@ format:
 
 
 ## Hunter College
+
+<i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
+
+
 * EI continues to update his archive of statements made by campuses and organizations in support of Academic Freedom as relates to its infringement at Hunter College.
 
 [https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/AO9WLNUUIorJRhgTO1SupgY](https://www.dropbox.com/scl/fo/my5g55jprx5o64r4vzus0/AO9WLNUUIorJRhgTO1SupgY?rlkey=zvsqtp7ev781y4rqqjti8xaho&dl=0)
@@ -4640,6 +4846,10 @@ format:
 
 
 ## Freedom of Expression
+
+<i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
+
+
 * NYTimes: Immigrants and Freedom of Speech
 
 [https://www.nytimes.com/2025/03/24/briefing/immigration-trump-constitution.html](https://www.nytimes.com/2025/03/24/briefing/immigration-trump-constitution.html)
@@ -4693,6 +4903,7 @@ format:
 
 
 ## Bent knee
+
 <i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
 
 
@@ -4728,6 +4939,10 @@ format:
 
 
 ## Un-bent knee
+
+<i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
+
+
 * How a University Fights an Authoritarian Regime
 
 [https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime](https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime)
@@ -4769,12 +4984,17 @@ format:
 
 
 ## Deportations
+
+<i class='bi bi-calendar2-range'></i> [3/28/2025](mar-28.qmd)
+
+
 * NYTimes: U.S. Lodges New Accusations Against Detained Columbia Protest Leader
 
 [https://www.nytimes.com/2025/03/23/nyregion/mahmoud-khalil-trump-allegations.html](https://www.nytimes.com/2025/03/23/nyregion/mahmoud-khalil-trump-allegations.html)
 
 
 ## Diversity, equity, and inclusion
+
 <i class='bi bi-calendar2-range'></i> [3/21/2025](mar-21.qmd)
 
 
@@ -4784,6 +5004,10 @@ format:
 
 
 ## DOE/OCR
+
+<i class='bi bi-calendar2-range'></i> [3/21/2025](mar-21.qmd)
+
+
 * "Education Department Investigates Dozens of Colleges for Discrimination"
 
 [https://www.insidehighered.com/news/diversity/race-ethnicity/2025/03/15/education-department-accuses-51-colleges-discrimination](https://www.insidehighered.com/news/diversity/race-ethnicity/2025/03/15/education-department-accuses-51-colleges-discrimination)
@@ -4805,12 +5029,20 @@ format:
 
 
 ### Dear Colleague
+
+<i class='bi bi-calendar2-range'></i> [3/21/2025](mar-21.qmd)
+
+
 * Trump is setting the US on a path to educational authoritarianism (thanks EI)
 
 [https://www.theguardian.com/commentisfree/2025/mar/17/trump-us-path-educational-authoritarianism](https://www.theguardian.com/commentisfree/2025/mar/17/trump-us-path-educational-authoritarianism)
 
 
 ## Students
+
+<i class='bi bi-calendar2-range'></i> [3/21/2025](mar-21.qmd)
+
+
 * Georgetown University graduate student detained by immigration authorities
 
 [https://www.nbcnews.com/news/us-news/georgetown-university-graduate-student-detained-immigration-authoritie-rcna197206](https://www.nbcnews.com/news/us-news/georgetown-university-graduate-student-detained-immigration-authoritie-rcna197206)
@@ -4822,12 +5054,17 @@ format:
 
 
 ## Tell me why
+
+<i class='bi bi-calendar2-range'></i> [3/21/2025](mar-21.qmd)
+
+
 * Why might higher education be under
 
 [https://www.nytimes.com/2025/03/18/opinion/andreessen-musk-trump-silicon-valley.html](https://www.nytimes.com/2025/03/18/opinion/andreessen-musk-trump-silicon-valley.html?unlocked_article_code=1.404.W7Cu.Mm09erVCtF7P&smid=nytcore-ios-share&referringSource=articleShare)
 
 
 ## Funding removal
+
 <i class='bi bi-calendar2-range'></i> [3/14/2025](mar-14.qmd)
 
 
@@ -4849,6 +5086,10 @@ format:
 
 
 ## DOE/Civil rights
+
+<i class='bi bi-calendar2-range'></i> [3/14/2025](mar-14.qmd)
+
+
 * 60 campuses targeted yesterday by the DOE
 
 [https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-sends-letters-60-universities-under-investigation-antisemitic-discrimination-and-harassment](https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-sends-letters-60-universities-under-investigation-antisemitic-discrimination-and-harassment)
