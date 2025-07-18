@@ -39,6 +39,19 @@ function show_content(year, month, day, h1, h2, h3, item, urlio)
     (;year, month, day, h1, h2, h3, item, url), IOBuffer()
 end
 
+function _content(i)
+    i.content
+end
+
+function _content(i::Markdown.List)
+    return _content(i.items[1][1])
+    @show :content, i, fieldnames(typeof(i))
+    @show i.items[1][1].content
+    error("")
+    [""]
+end
+
+
 # parse and add to d (d = DataFrame())
 function parse_file!(d, f)
     year, month, day = get_date(f)
@@ -73,9 +86,8 @@ function parse_file!(d, f)
             push!(d, rec; promote=true)
             item = nothing
 
-
             ## structure is
-            item = strip(join(i.items[1][1].content, " "))
+            item = strip(join(_content(i.items[1][1]), " "))
         elseif isa(i, Markdown.Paragraph)
             for ii in i.content
                 if isa(ii, Markdown.Link)
