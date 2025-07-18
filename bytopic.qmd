@@ -9,10 +9,6 @@ format:
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
-* I thought Stefanik's questioning on Abda had such a faulty premise  –  she had worked at CAIR so shouldn't be employable  –  needed some push back. There was not a hint of suggestion that her work for CUNY has been problematic or compromised, yet people should be fired. Plus, the NYT reported her characterization of CAIR is wholly unfounded.
-
-
-
 * 3 College Presidents Went to Congress. Here’s What They Talked About.
 
 [https://www.chronicle.com/article/3-college-presidents-went-to-congress-heres-what-they-talked-about](https://www.chronicle.com/article/3-college-presidents-went-to-congress-heres-what-they-talked-about)
@@ -301,7 +297,7 @@ format:
 [https://www.washingtonpost.com/technology/2025/07/12/marc-andreessen-private-chat-universities-diversity/](https://www.washingtonpost.com/technology/2025/07/12/marc-andreessen-private-chat-universities-diversity/)
 
 
-* NYTimes: Inside the Conservative Campaign That Took Down the U.Va. President
+* 
 
 [https://www.nytimes.com/2025/07/14/us/politics/university-virginia-president-trump-dei-jefferson-council.html](https://www.nytimes.com/2025/07/14/us/politics/university-virginia-president-trump-dei-jefferson-council.html?smid=nytcore-ios-share&referringSource=articleShare)
 

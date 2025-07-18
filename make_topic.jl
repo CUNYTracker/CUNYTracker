@@ -44,11 +44,8 @@ function _content(i)
 end
 
 function _content(i::Markdown.List)
-    return _content(i.items[1][1])
-    @show :content, i, fieldnames(typeof(i))
-    @show i.items[1][1].content
-    error("")
-    [""]
+    return [""]
+#    return _content(i.items[1][1])
 end
 
 
