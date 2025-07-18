@@ -4,7 +4,7 @@ Dear All,
 
 Please find a partial summary of some of the actions taken by the federal government as relates to Higher Education in general and CUNY in specific in the past week.
 
-Thanks to JC, VAC, BE for sharing links and thoughts.
+Thanks to JC, VAC, BE, and IA for sharing links and thoughts.
 
 ## Testimony on the hill
 
@@ -584,7 +584,7 @@ If any good came out of this, hopefully it will be the republican majority reali
 [https://www.wsj.com/tech/ai/white-house-prepares-executive-order-targeting-woke-ai-e68e8e24?st=eqQBGd&reflink=article_gmail_share](https://www.wsj.com/tech/ai/white-house-prepares-executive-order-targeting-woke-ai-e68e8e24?st=eqQBGd&reflink=article_gmail_share)
 
 
-(As Krugman noted in a recent news letter: "So in modern Republican rhetoric, anything to the left of MAGA ideology is communist extremism. And here’s the thing: The answers you get from AI generally don’t adhere to the right-wing party line. ... it all goes back to Stephen Colbert’s dictum, almost 20 years ago, that “reality has a well-known liberal bias.”
+(As Krugman noted in a recent newsletter: "So in modern Republican rhetoric, anything to the left of MAGA ideology is communist extremism. And here’s the thing: The answers you get from AI generally don’t adhere to the right-wing party line. ... it all goes back to Stephen Colbert’s dictum, almost 20 years ago, that “reality has a well-known liberal bias.”
 )
 
 > The order would dictate that AI companies getting federal contracts be politically neutral and unbiased in their AI models, an effort to combat what administration officials see as liberal bias in some models, the people said.
