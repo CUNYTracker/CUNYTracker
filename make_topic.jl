@@ -121,18 +121,20 @@ end
 function hierarchical(io::IO, d)
     h2s = unique(d.h2)
     h3s = unique(vcat(nothing, unique(d.h3)))
-    year′ = month′ = day′ = nothing
     for h2 ∈ h2s
-        !isnothing(h2) && println(io, "## ", h2)
+        !isnothing(h2) && println(io, "## ", h2, "\n")
         for h3 ∈ h3s
+            year′ = month′ = day′ = nothing
+
             di = subset(d, :h2 => ByRow(==(h2)), :h3 => ByRow(==(h3)))
             iszero(size(di)[1]) && continue
 
-            !isnothing(h3) && println(io, "### ", h3)
+            !isnothing(h3) && println(io, "### ", h3, "\n")
 
             sort!(di, [:year, :month, :day]; rev=true)
+            @show di
+
             for r in eachrow(di)
-                @show di
                 (; year, month, day, item, url) = r
                 isnothing(item) && continue
                 isnothing(url) && continue
