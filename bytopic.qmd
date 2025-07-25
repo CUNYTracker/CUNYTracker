@@ -1054,6 +1054,11 @@ format:
 [https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused](https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused)
 
 
+* Federal Grant Cuts Don’t Spare Red States, New Report Shows
+
+[https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds](https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds)
+
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1626,6 +1631,11 @@ format:
 [https://www.wsj.com/us-news/education/harvard-trump-court-lawsuit-analysis-6022851b](https://www.wsj.com/us-news/education/harvard-trump-court-lawsuit-analysis-6022851b?st=MuZSoj&reflink=article_gmail_share)
 
 
+* “Harvard Creates New Public Service Program as Trump Administration Slashes Federal Jobs.”.
+
+[https://www.nytimes.com/2025/07/17/us/harvard-american-service-fellowship-trump.html](https://www.nytimes.com/2025/07/17/us/harvard-american-service-fellowship-trump.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
 <i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
 
 
@@ -1992,6 +2002,7 @@ format:
 * Columbia Expels, Suspends Student Protesters
 
 [https://www.insidehighered.com/news/government/politics-elections/2025/07/22/columbia-expels-suspends-student-protesters https://www.insidehighered.com/news/government/politics-elections/2025/07/22/columbia-expels-suspends-student-protesters](https://www.insidehighered.com/news/government/politics-elections/2025/07/22/columbia-expels-suspends-student-protesters https://www.insidehighered.com/news/government/politics-elections/2025/07/22/columbia-expels-suspends-student-protesters)
+[https://apnews.com/article/campus-protests-columbia-discipline-trump-administration-f009b90113fe0ba7847c54ffc9197bd1](https://apnews.com/article/campus-protests-columbia-discipline-trump-administration-f009b90113fe0ba7847c54ffc9197bd1)
 
 
 * The University That Chose Surrender: Columbia’s capitulation proves higher ed can’t save itself.
