@@ -1,3 +1,11 @@
+## to make this page
+## edit _quarto.yml to point to new file
+## run julia make.jl; push to github
+## fix typos
+## run julia make_topic.jl
+## push to github
+
+
 # julia -e process_qmd_file.jl
 function (@main)(args...)
     fs = readdir("qmd_raw")
