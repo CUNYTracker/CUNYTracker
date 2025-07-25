@@ -97,9 +97,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 
 > The NASA letter follows similar letters of criticism by federal employees at the National Institutes of Health and the Environmental Protection Agency. Dr. Jay Bhattacharya, the N.I.H. director, said he welcomed respectful dissent, but the E.P.A. placed 144 employees who signed that agency’s letter on leave.
 
-
-## Alliances
-
 ## Statements
 
 * Science and Democracy Under Siege | Union of Concerned Scientists
@@ -117,8 +114,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 [https://www.ucs.org/sites/default/files/2025-07/6-Months-Trump-summary.pdf](https://www.ucs.org/sites/default/files/2025-07/6-Months-Trump-summary.pdf)
 
 (The report has charts on Extreme Rise in Documented Attacks on Science; Staff Cuts in Science Agencies; Steep Decline in New Research Grants Awarded by the National Institutes of Health; Industrial Facilities Eligible for Air Pollution Regulation Exemptions; Disruptions and Terminations of Federal Advisory Committees at Science Agencies; Removal of Government Webpages and Information Related to Climate Change and Environmental Justice; Major Trump Administration Attacks on Climate and Clean Energy Policies and Investments. Off to read the whole thing)
-
-## Protests
 
 ## Op eds
 
@@ -162,8 +157,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 
 
 
-## How best to describe the times we are in
-
 ## Shared governance
 
 * Report: Faculty Often Missing From University Decisions on AI
@@ -182,8 +175,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 
 > To avoid some of those potential downsides, the report recommended that universities gather input from faculty, staff and students before making deals with tech companies—and write liability clauses into the contracts they do procure. It also called for institutions to give faculty members, staff and students the right to opt-out of technology use without negatively affecting their working or learning conditions, as well as allowing faculty to challenge the implementation of certain ed tech products if the benefit isn’t clear.
 
-
-## Academic freedom
 
 ## Freedom of expression
 
@@ -267,8 +258,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 
 
 
-## Loss of expertise
-
 ## Funding cuts
 
 * Inside the powerful task force spearheading Trump’s assault on colleges, DEI
@@ -321,13 +310,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 
 > The Senate Committee on Appropriations voted 19-10 on Thursday to keep funding for the National Science Foundation and other federal science agencies nearly intact for the 2026 fiscal year.
 
-### NIH
-
-### NEH
-
-### NEA
-
-
 ### DOE
 
 * Federal investigations target college aid to immigrants and minorities - The Washington Post
@@ -341,16 +323,6 @@ This letter references one sent by the UFS XC and co-chairs of the UFS AF commit
 > Conservative activists and Republican state leaders have pushed colleges to abandon scholarships earmarked for underrepresented groups, arguing that the same principles underlying the Supreme Court’s ban on colleges considering an applicant’s race as a factor in admissions apply to financial aid.
 
 > The Equal Protection Project, led by Cornell University clinical law professor William Jacobson, has been at the forefront of that movement by filing dozens of complaints against race-conscious scholarships with the Office for Civil Rights. The group has expanded its effort by taking a look at institutional aid provided to foreign-born students.
-
-### Fulbright
-
-## Federal Agencies
-
-### DOE/OCR
-
-## Congressional actions
-
-## State actions
 
 
 ## Institutional assaults
@@ -643,8 +615,6 @@ NYTimes: Columbia’s Administrators Are Fooling Themselves
 > The White House hopes to extract hundreds of millions of dollars from Harvard, in a deal that would make Columbia’s $200 million payment look like peanuts, the person said.
 
 
-### Indiana
-
 ### UVA
 
 (These come from EI via Rutgers)
@@ -730,11 +700,6 @@ A statement by Jewish UVA staff and faculty on antisemitism and DEI at UVA
 > In Washington’s email on Friday, he maintained that diversity is integral to GMU’s mission. “Any attempt to artificially redefine our diversity, as one of race-based exclusivity, is doomed to fail no matter who ends up being excluded.”
 
 
-### Others
-
-## The long game
-
-
 ## Blowback
 
 * Staffing Shortages at ED Hurt College Operations
@@ -761,11 +726,6 @@ A statement by Jewish UVA staff and faculty on antisemitism and DEI at UVA
 
 
 
-## Coming attractions?
-
-
-## Tracking projects
-
 ## AI misdeeds
 
 * NIH to Limit AI Use, Cap P.I. Grant Applications at 6 per Year
@@ -784,8 +744,6 @@ A statement by Jewish UVA staff and faculty on antisemitism and DEI at UVA
 
 > Some worry that integrating AI into the grading and course-planning process might eliminate the need for adjunct instructors and could expand class sizes. Ruediger noted that in online courses, there is already “a level of technology mediating between instructors and their students,” a gap that might only widen and make it more difficult for students to know if their instructor has personally evaluated their work.
 
-
-## And just because it is fun
 
 ----
 
