@@ -27,6 +27,8 @@ function (@main)(args...)
                 !seen___ && continue
 
                 if startswith(l, "http")
+                    l = replace(l, "www-chronicle-com.csi.ezproxy.cuny.edu" =>
+                                "www.chronicle.com")
                     println(io, "[", l, "](",  l, ")")
                 else
                     println(io, l)
