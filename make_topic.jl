@@ -82,9 +82,9 @@ function parse_file!(d, f)
             rec, urlio = show_content(year, month, day, h1, h2, h3, item, urlio)
             push!(d, rec; promote=true)
             item = nothing
-
-            ## structure is
-            item = strip(join(_content(i.items[1][1]), " "))
+            if !isempty(i.items[1])
+                item = strip(join(_content(i.items[1][1]), " "))
+            end
         elseif isa(i, Markdown.Paragraph)
             for ii in i.content
                 if isa(ii, Markdown.Link)
