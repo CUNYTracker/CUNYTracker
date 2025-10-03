@@ -5,6 +5,17 @@
 ## run julia make_topic.jl
 ## push to github
 
+function canonicalize_links!(f)
+    ls = readlines(f)
+    open(f, "w") do io
+        for l in ls
+            l = replace(l, "www-chronicle-com.csi.ezproxy.cuny.edu" => "www.chronicle.com")
+            # others?
+            println(io, l)
+        end
+    end
+end
+
 
 # julia -e process_qmd_file.jl
 function (@main)(args...)
@@ -13,6 +24,8 @@ function (@main)(args...)
         @show "process $g"
         @show "Add to _quarto.yml"
         f = "qmd_raw/$g"
+        canonicalize_links!(f)
+
         m,d = split(replace(g,".qmd"=>""), "-")
         m = uppercasefirst(m)
         open(g, "w") do io

@@ -1,0 +1,694 @@
+# Oct 3
+
+Dear All,
+
+Please find a partial summary of some of the actions taken by the federal government as relates to Higher Education in general and CUNY in specific in the past week.
+
+Thanks KB and BE for sharing links this week.
+
+Quote of the week (on Berkeley and turning over names):
+
+> “But perhaps,” Professor Butler remembered replying, “it’s your job to defend the highest ideals of the university.”
+
+Well, maybe this too (on the "compact"):
+
+> This is extortion, plain and simple. ... It is not hyperbole to say that the future of higher education in America requires that every university reject it. If any schools capitulate, the pressure will be enormous on all to fold. The only solution is solidarity and collective action against this effort at federal control over higher education.
+
+(It was a far too busy week!)
+
+
+## Academic freedom
+
+* NYTimes: Texas Tech Moves to Limit Academic Discussion to 2 Genders
+
+[https://www.nytimes.com/2025/09/26/us/politics/texas-tech-gender.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/26/us/politics/texas-tech-gender.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The Texas Tech University system, one of the largest in the state, took steps to restrict academic discussions of gender, directing faculty in a letter circulated on Friday that they “must comply” with an executive order from President Trump recognizing only male and female genders.
+
+> The move, apparently a first among large institutions of higher education, raised alarm among professors and advocates of academic freedom across Texas. It signaled that an effort to restrict teaching about transgender people and other gender topics in K-12 classrooms — explicitly prohibited by Texas law — was expanding to colleges and universities, where no such ban exists.
+
+
+
+> The [letter](https://www.texastech.edu/downloads/9-25-25-memo-to-university-presidents-regarding-compliance.pdf) ricocheted across the state’s universities, far beyond Texas Tech’s hub in Lubbock. It followed the rapid firing this month of a professor at Texas A&M over her handling of a debate with a conservative student in her classroom, who objected to a discussion of gender identity and then shared a video of the encounter with a Republican lawmaker. The university’s president, Mark Welsh, resigned soon after.
+
+> “I’m emotionally shellshocked right now,” said one professor in the Texas Tech system. “What does it say about academic freedom? It says we don’t have it.” ... The professor spoke by phone from the inside of a car to avoid being overheard by colleagues.
+
+(Also)
+
+[https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/30/texas-ban-transgender-course-content-sows-chaos](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/30/texas-ban-transgender-course-content-sows-chaos)
+
+> Officials at several public universities in Texas have instructed faculty to review their syllabi and course content and remove anything that does not comply with current federal and state laws and executive orders. What type of content is noncompliant? It depends on whom you ask.
+
+> The college does not intend to create a formal policy prohibiting faculty members from teaching about transgender identity, she said.
+
+> By Friday, one directive was clear: Employees of the Texas Tech system may not teach about, discuss or acknowledge transgender identity. Tedd Mitchell, chancellor of the Texas Tech system, wrote in an email to the five universities’ leaders that they must comply with federal and state laws that “recognize only two human sexes: male and female.”
+
+> “They’re pointing to an executive order from Trump and this letter from the governor, but … those are not intended to create a speech code for public universities. If they apply to a public university in this fashion, it wouldn’t just be Texas Tech doing it,” said Adam Steinbaugh, a senior attorney at the Foundation for Individual Rights and Expression who is communicating with Texas faculty about the new directives. “So this is really just a voluntary effort to go out and censor, and it’s not supported by the executive order, and it’s certainly contradictory to the First Amendment.”
+
+(Also)
+
+[https://www.chronicle.com/article/tracking-higher-eds-dismantling-of-dei](https://www.chronicle.com/article/tracking-higher-eds-dismantling-of-dei)
+
+(Also; thanks KB)
+
+[https://thedailytexan.com/2025/09/30/ut-system-announces-audit-of-gender-studies-courses/](https://thedailytexan.com/2025/09/30/ut-system-announces-audit-of-gender-studies-courses/)
+
+> The University of Texas System announced Tuesday it will audit courses related to gender studies to ensure compliance with state law at all its academic institutions, including UT Austin.
+
+> This move comes as many Texas higher education institutions have moved to comply with recently passed legislative bills, such as Senate Bill 37. The bill, which went into effect Sept. 1, allows public institutions to review curriculum and degree programs, and it prompted the UT System to abolish faculty councils and senates in August.
+
+
+* Texas Tech Clarified Anti-Trans Policies in FAQ—Then Removed It
+
+[https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/10/03/texas-tech-clarified-anti-trans-policies-faq-then](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/10/03/texas-tech-clarified-anti-trans-policies-faq-then)
+
+* Cornell Cut Classes by a Pro-Palestinian Professor After an Israeli Student’s Discrimination Complaint | The Nation
+
+[https://www.thenation.com/article/society/cornell-pro-palestinian-professor-classes-cancelled/#](https://www.thenation.com/article/society/cornell-pro-palestinian-professor-classes-cancelled/#)
+
+> Dr. Eric Cheyfitz, a professor of American studies at Cornell, said the university has canceled the two classes he was set to teach this semester. It comes as the provost is recommending that he be suspended for two semesters without pay on the grounds that he violated federal antidiscrimination laws, The Nation has learned.
+
+> “We believe that a student came to the course for the sole reason of surveilling and potentially harming students in the class,” Droubi said. “That ended up proving itself to be true because multiple students came forward and shared their concerns with Professor Cheyfitz.” Cheyfitz said one Palestinian student quit the class after telling him she felt upset and frightened.
+
+> According to Cheyfitz, the graduate student often steered conversations away from the assigned readings—which at that point mostly focused on definitions of genocide and international law on Indigenous rights—to defend Israel’s conduct in the war in Gaza and argue with others in the class. “He clearly had not done the readings,” Cheyfitz said. “It was disruptive.”
+
+(As described, this student stepped on the Professor's academic freedom in the classroom and  worked to create a hostile learning environment. But wait there's more...)
+
+> The student recorded the conversation the two had and later used the audio as evidence in a discrimination complaint against Cheyfitz. Cheyfitz said he hadn’t been told he was being recorded.
+
+> Cornell’s Office of Institutional Equity and Title IX—which has since been relaunched as the Cornell Office of Civil Rights—reviewed the case in April. Cheyfitz claims that the office didn’t recommend discipline but did find him “responsible” for the discrimination charge. Katie King, associate vice president of the Cornell Office of Civil Rights, didn’t respond to requests for comment.
+
+(Governor Hochul has required all colleges have a Title VI coordinator)
+
+> According to Cheyfitz, the office referred the matter to the dean of Cornell’s College of Arts and Sciences, Peter John Loewen, who recommended to the provost that Cheyfitz be suspended for two semesters without pay. Loewen declined to comment.
+
+> Cheyfitz appealed the case to the Faculty Senate’s Committee on Academic Freedom and Professional Status of the Faculty. In June, the six-person panel, which is tasked with investigating matters of academic freedom, found unanimously that there was insufficient evidence to back up Renard’s [a PhD candidate in computer science whose identity was confirmed by other students in the class, previously served in Israel’s elite military surveillance agency, Unit 8200] discrimination claim, according to a committee report obtained by The Nation. ... the Faculty Senate panel wrote in its report that sanctions that had been recommended by Loewen were “no longer warranted.”
+
+> Cheyfitz and Droubi argued that should have been the end of the disciplinary process. According to Cornell policy, the dean “must accept the Committee’s findings of fact and conclusions.”
+
+> In Cheyfitz and Droubi’s view, the case cuts to the heart of academic freedom, particularly at a time when the Trump administration has stripped funding from some elite colleges over allegations they let antisemitism, anti-Israel prejudice, and liberal bias go unchecked on campus. The New York Times has reported that talks between Cornell and the White House to restore hundreds of millions of dollars in federal funding have stalled in recent weeks.
+
+
+* Discretion Is Not the Better Part of Academic Freedom
+
+[https://www.insidehighered.com/opinion/columns/debatable-ideas/2025/09/29/discretion-not-better-part-academic-freedom](https://www.insidehighered.com/opinion/columns/debatable-ideas/2025/09/29/discretion-not-better-part-academic-freedom)
+
+> Whittington is incorrect. Professors need to generally teach their classes in ways that are germane to the subject and competent (the [standard](https://www.aaup.org/reports-publications/aaup-policies-reports/policy-statements/1940-statement-principles-academic#6) is “avoid persistently intruding material which has no relation to their subject”). But it does not follow that professors must always “limit themselves to speech that is both germane and competent.” This view that uttering one word deemed off-topic or incorrect in the classroom would subject a professor to punishment and they would have “little defense” is a standard far too restrictive under any meaningful sense of academic freedom.
+
+> Academic freedom is an important right because it contributes to intellectual honesty, and truth, not imagined reductions in political polarization, is the goal. We protect academic freedom for everyone in academia as a fundamental right even when an individual professor says something terrible or stupid. We don’t revoke the First Amendment because one idiot says something awful, and the same approach should apply to the right of academic freedom. What justifies academic freedom is not the brilliance and inoffensiveness of all professors, but the importance of free expression to academic work and a free society.
+
+* UNC Professor on Leave After Alleged Advocacy of Political Violence
+
+[https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/10/02/unc-professor-leave-after-alleged-advocacy](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/10/02/unc-professor-leave-after-alleged-advocacy)
+
+> Dixon, an associate professor of Asian and Middle Eastern studies, used to be a member of Silver Valley Redneck Revolt, a chapter of the antifascist, antiracist, anticapitalist political group Redneck Revolt. The group was formed in 2016 and some members, including Dixon, were present at the 2017 Unite the Right rally in Charlottesville, Va., to provide armed security and medical assistance to counterprotesters. Redneck Revolt disbanded in 2019 and has no active chapters, according to its website.
+
+> On Sept. 24, Andrew Kolvet, a spokesperson for the late Charlie Kirk’s Turning Point USA, posted on X a photo of a flier on the Georgetown campus in Washington, D.C., that read, “Hey Fascist! Catch!”—a nod to engraving on the casing of bullets left behind by Kirk’s suspected killer—and “The only political group that celebrates when Nazis die.” The flier also included a QR code to a Google form for a potential Georgetown chapter of the John Brown Gun Club, a Redneck Revolt affiliate organization known as a “leftist gun-rights group” with multiple independent chapters, including one in the D.C. area, according to the Counter Extremism Project. It “arms itself to defend against far-right violence and often appears as a security force at protests to protect against expected far-right violence,” the CEP wrote. Google has since removed the form for violating its terms of service.
+
+> Kolvet posted again, this time linking to a recent Fox News article that cited Dixon’s involvement in Redneck Revolt based on an old blog post that has since been taken down. “I posted this flyer our team spotted at Georgetown University, and now we find out professors at ‘elite’ schools are members of this group and its offshoots,” Kolvet wrote. “This professor must be immediately fired and the group/network investigated.”
+
+> “Right-wing activists are attacking Dixon for prior membership in a group that has been inactive since 2019, and are baselessly connecting him to flyers allegedly posted by a different group on a different campus outside of North Carolina.
+
+## Freedom of expression
+
+* NYTimes: The Right Didn’t Catch Cancel Culture From the Left
+
+[https://www.nytimes.com/2025/09/30/opinion/charlie-kirk-jd-vance-cancel-culture.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/30/opinion/charlie-kirk-jd-vance-cancel-culture.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+(You only need to read the bio: Dr. Hemmer, a historian who studies the rise of right-wing media and the Republican Party, is the author of “Partisans: The Conservative Revolutionaries Who Remade American Politics in the 1990s." to know there are receipts to back up what you already knew.)
+
+* NYTimes: She Was Fired for a Comment on Her Private Facebook Account
+
+[https://www.nytimes.com/2025/09/29/us/charlie-kirk-free-speech.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/29/us/charlie-kirk-free-speech.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> Ms. Swierc (pronounced swirtz) discovered that the barrage stemmed from something she had posted on Facebook the day before: “If you think Charlie Kirk was a wonderful person, we can’t be friends.” Her Facebook settings were private, but one of her followers must have taken a screen shot and sent it on without her knowledge.
+
+> Within hours, Libs of TikTok, a social media account known for transphobic content and smear campaigns against schools, hospitals and libraries, posted it publicly on its popular X account. Ms. Swierc got her first message 19 minutes later. Elon Musk posted about it. So did Rudy Giuliani. Indiana’s Attorney General, Todd Rokita, also mentioned it on X, calling her comments “vile,” and saying that they “should make people question someone’s ability to be in a leadership position.”
+
+> Five days later, Ms. Swierc was fired from her job as the director of health and advocacy at Ball State, one of more than 145 people around the country who’ve lost their jobs for posting negatively about Mr. Kirk. Mr. Rokita, the attorney general, noted the firing approvingly.
+
+> Ms. Swierc’s was the first submission in the Charlie Kirk section of Eyes on Education. As of Saturday, 32 others in education were listed as targets for firing. Mr. Rokita declined to be interviewed for this article.
+
+> University faculty in Indiana were already on edge after last year’s law exposed them to anonymous complaints.
+
+(CUNY's portal for complaints also allows anonymous complaints)
+
+> On Sept. 22, the American Civil Liberties Union filed suit on her behalf against the university president, Geoffrey Mearns, on the grounds that her firing violated her First Amendment rights. Her last full paycheck came on Friday, and her health insurance ends Sept. 30.
+
+* Professor Fired for “Inciting Violence” to Be Reinstated
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/29/professor-fired-inciting-violence-be-reinstated](https://www.insidehighered.com/news/quick-takes/2025/09/29/professor-fired-inciting-violence-be-reinstated)
+
+> A district court judge on Friday ordered that Thomas Alter, a recently tenured associate professor of history at Texas State University, be reinstated, The Texas Tribune reported. Hays County District Judge Alicia Key granted an injunction 16 days after Alter was terminated for allegedly inciting violence during a speech he gave at a virtual socialism conference. Alter sued, claiming that the university violated his free speech and due process rights and breached his employment contract.
+
+* In Defense of Distasteful Faculty Speech (opinion)
+
+[https://www.insidehighered.com/opinion/views/2025/09/29/defense-distasteful-faculty-speech-opinion](https://www.insidehighered.com/opinion/views/2025/09/29/defense-distasteful-faculty-speech-opinion)
+
+> Kirk and I disagreed on virtually every policy issue. His rhetoric often struck me as divisive, and his positions frequently ran counter to my own deeply held beliefs. Nevertheless, I advised the campus chapter of his organization because I passionately believe that universities must be places where competing ideas can clash, where students can hear from voices across the political spectrum and where the marketplace of ideas remains vibrant and open.
+
+> The wave of faculty terminations sweeping across American institutions in response to Kirk’s death represents a dangerous moment for academic freedom and constitutional principles.
+
+> I’m not defending the wisdom or sensitivity of the statements made about Kirk by those being fired. In point of fact, I believe that most if not all were ill-timed, crude, callous and deeply hurtful to those mourning Kirk’s death. But constitutional principles protect speech that offends, disturbs and challenges our sensibilities.
+
+> The irony here is particularly acute. Conservative activists and politicians who claim to champion free speech principles are now leading coordinated campaigns to silence critics through organized pressure and doxing efforts. Meanwhile, university administrators—those who should be the staunchest defenders of academic freedom—are capitulating to political pressure rather than standing up for constitutional principles.
+
+> For public university professors like me, this represents an especially troubling erosion of academic freedom. The Supreme Court has long recognized that universities occupy a special place in our constitutional framework as centers of free inquiry and debate. The Pickering balancing test that governs government employee speech also typically weighs heavily in favor of faculty members discussing matters of public policy, precisely because such discourse is central to the university’s educational mission.
+
+> We’re witnessing universities abandon their constitutional obligations to appease a political pressure campaign, one often led by Republican members of government.
+
+* NYTimes: When Silence Is the Only Logical Choice, Are We Really Free?
+
+[https://www.nytimes.com/2025/10/01/opinion/charlie-kirk-media-truth-trump.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/01/opinion/charlie-kirk-media-truth-trump.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+(Too much insight to summarize, so just this one quote)
+
+> The president of the United States has both direct coercive power of the state and, by and large, indirect power over communication institutions. He has shown how he will use that power. He will punish enemies, yes. And if you agree that teachers, librarians, professors, left-leaning journalists and anyone who isn’t white, conservative and Christian are enemies, you may enjoy this comeuppance. But he has also shown that he will punish people who agree with him — but not enough or not in the right way or just because it is a Tuesday.
+
+* How Free Is Free Speech? | The New Yorker
+
+[https://www.newyorker.com/magazine/2025/10/06/review-free-speech-books](https://www.newyorker.com/magazine/2025/10/06/review-free-speech-books)
+
+(Paywall...bummer)
+
+### Anti-woke/anti-DEI is simply racism
+
+* Mike Gavin Resigns to Lead DEI Defense Coalition
+
+[https://www.insidehighered.com/news/quick-takes/2025/10/03/mike-gavin-resigns-lead-dei-defense-coalition](https://www.insidehighered.com/news/quick-takes/2025/10/03/mike-gavin-resigns-lead-dei-defense-coalition)
+
+> Since the early days of the second Trump administration, Gavin has been a leading voice in defending DEI work in higher ed, especially at community colleges. Participation in Education for All surged at the beginning of the year as college leaders sought advice on protecting programs and navigating compliance with Trump administration mandates.
+
+> “My scholarship rests on the great thinkers of our past, from Benjamin Franklin to James Baldwin. It is also grounded in the belief that our country depends on a higher education sector that must be free from partisan interference, in order to democratize higher education for all,” Gavin wrote in a letter to the Delta College community.
+
+* NYTimes: Duke Was Paring Back Diversity Programs. Trump Targeted It Anyway.
+
+[https://www.nytimes.com/2025/10/03/us/duke-was-paring-back-diversity-programs-trump-targeted-it-anyway.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/03/us/duke-was-paring-back-diversity-programs-trump-targeted-it-anyway.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> Leaders of the school, North Carolina’s largest private university, embraced a stealth strategy as other elite colleges fell into the Trump administration’s cross hairs, avoiding showy standoffs with the government for interfering in academic affairs. The campus is a relatively conservative place, protests over the war in Gaza were muted and it had begun dialing back some diversity efforts. ... The Trump administration came for it anyway.
+
+> It appears Trump officials targeted Duke based at least partly on news reports, as they have at other institutions. Officials cited reporting from The Washington Free Beacon, a conservative newspaper, in outlining its complaints about the Duke Law Journal.
+
+## Visas
+
+* Judge excoriates Trump in blistering decision calling efforts to deport pro-Palestinian academics illegal
+
+[https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114](https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114)
+
+> A federal judge ruled Tuesday that the Trump administration’s effort to deport pro-Palestinian academics is a deliberate attack on free speech meant to “strike fear” into non-citizen students and chill campus protests.
+
+> “The effect of these targeted deportation proceedings continues unconstitutionally to chill freedom of speech to this day,” U.S. District Judge William Young concluded, in a scathing, 161-page opinion that he described as the most crucial he’s delivered in his 30 years on the bench.
+
+[https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf](https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf)
+
+(Begins with a response to an anonymous troll)
+
+```
+Dear Mr. or Ms. Anonymous,
+     Alone, I have nothing but my
+sense of duty.
+     Together, We the People of the
+United States –- you and me --
+have our magnificent Constitution.
+     Here’s how that works out in a
+specific case –-
+```
+
+and ends where it started
+
+```
+I hope you found this
+helpful. Thanks for writing.
+It shows you care. You
+should.
+
+     Sincerely & respectfully,
+        Bill Young
+```
+
+(In between are many passages of interest. In the closing section V. JUSTICE IN THE TRUMP ERA we find)
+
+> Freedom is a fragile thing and it’s  never more than one generation away from extinction. It is not ours by way of inheritance; it must be fought for and defended constantly by each generation, for it comes only once to a people.
+
+(With commentary)
+
+> As I’ve read and re-read the record in this case, listened widely, and reflected extensively, I’ve come to believe that President Trump truly understands and appreciates the full import of President Reagan’s inspiring message –- yet I fear he has drawn from it a darker, more cynical message. I fear President Trump believes the American people are so divided that today they will not stand up, fight for, and defend our most precious constitutional values so long as they are lulled into thinking their own personal interests are not affected.
+
+> Is he correct?
+
+(Also)
+
+[https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal](https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal)
+
+
+* U.S. assigned a specialized immigration team to target campus protesters
+
+[https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/](https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/)
+
+> U.S. officials used the immigration system in unprecedented ways to covertly research and detain noncitizen students, relying on an investigative arm of the Department of Homeland Security whose work traditionally has focused on crimes such as drug smuggling and human trafficking.
+
+> On Tuesday, U.S. District Judge William Young in Boston ruled that the push to target Ozturk and other students was blatantly unconstitutional. The White House vowed to appeal the decision.
+
+> Among the findings: White House Deputy Chief of Staff Stephen Miller, a top ally of President Donald Trump and architect of his mass deportation campaign, spoke with senior officials at the State Department and DHS more than a dozen times in March to discuss student visa revocations.
+
+> Homeland Security Investigations, an arm of U.S. Immigration and Customs Enforcement that investigates transnational crime, took the lead. HSI researched the protesters and referred dozens of cases to the State Department, sometimes citing an obscure statute^[A person is deportable if the secretary of state determines they are a threat to U.S. foreign policy. That power has been invoked just 15 times in three decades.] for revoking visas. Then it carried out the arrests.
+
+> HSI analysts compiled more than 100 reports on protesters, a first, according to the official who oversaw the process. In at least two cases, including Ozturk’s, the HSI supervisory agents involved in the arrests sought additional legal guidance because they had never detained students whose immigration status had changed.
+
+> While the Trump administration publicly accused Ozturk of engaging in activities “in support of Hamas,” an internal State Department memo noted that there was no evidence that Ozturk had engaged in any antisemitic activity or indicated any support for terrorism.
+
+> For this unusual assignment [a so-called “tiger team” devoted to the effort], one source above all was key: The team relied heavily on the website of Canary Mission, an opaque, anonymous pro-Israel group that says it documents individuals who “promote hatred of the USA, Israel and Jews,” focusing primarily on college campuses.
+
+> The HSI tiger team ultimately generated between 100 to 200 reports on protesters, Hatch said, with many of the names coming from Canary Mission. Some came from Betar US, a militant Zionist organization that the Anti-Defamation League considers an extremist group. Several names also came directly from DHS leadership, Hatch said, as well as the office of White House border czar Tom Homan.
+
+> The White House showed keen interest in the process. John Armstrong, the senior consular official at the State Department, testified that he spoke with Miller more than a dozen times on conference calls that discussed student visa revocations.
+
+> Cunningham said that in his 17 years at HSI, he couldn’t recall another time when he had received a “top-down” instruction to surveil and arrest someone solely due to a visa revocation. So he reached out separately to an HSI lawyer “to ensure that we were on solid legal ground.”
+
+## Funding cuts
+
+* Trump May Attempt to Tie Grant Allocation to Capitulation
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/30/trump-may-attempt-tie-grant-allocation-capitulation](https://www.insidehighered.com/news/quick-takes/2025/09/30/trump-may-attempt-tie-grant-allocation-capitulation)
+
+> The Trump administration may be moving away from using individual investigations to try to force colleges into compliance with the president’s agenda and instead encourage compliance by giving institutions that demonstrate adherence to his policies a competitive advantage in obtaining research funding, according to The Washington Post.
+
+> If the plan takes effect, the Trump administration will no longer have to go after universities one by one through investigations and corresponding penalties, but rather can induce compliance from hundreds of institutions at once. “It’s time to effect change nationwide, not on a one-off basis,” one official told the Post.
+
+> The current award-selection process for federal research grants is based primarily on scientific merit. Critics say that overriding such a standard would be a demonstrable example of executive overreach and a violation of academic freedom.
+
+(Original reporting)
+
+[https://www.washingtonpost.com/education/2025/09/28/trump-university-research-grants-funding-preference/](https://www.washingtonpost.com/education/2025/09/28/trump-university-research-grants-funding-preference/)
+
+> Ted Mitchell, president of the American Council on Education, said the outlines of the proposal amounted to an “assault … on institutional autonomy, on ideological diversity, on freedom of expression and academic freedom.”
+
+> “Suddenly, to get a grant, you need to not demonstrate merit, but ideological fealty to a particular set of political viewpoints. That’s not merit,” he said. “I can’t imagine a university in America that would be supportive of this.”
+
+* White House Asks Colleges to Sign Sweeping Agreement to Get Funding Advantage
+
+[https://www.wsj.com/us-news/education/trump-universities-compact-federal-funds-agreement-df158493?st=eN5HhT&reflink=article_gmail_share](https://www.wsj.com/us-news/education/trump-universities-compact-federal-funds-agreement-df158493?st=eN5HhT&reflink=article_gmail_share)
+
+(Thanks KB and BE. Also)
+
+[https://www.nytimes.com/2025/10/02/us/politics/trump-college-funding.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/02/us/politics/trump-college-funding.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The White House on Wednesday sent letters to nine of the nation’s top public and private universities, urging campus leaders to pledge support for President Trump’s political agenda to help ensure access to federal research funds.
+
+> The compact would require colleges to freeze tuition for five years, cap the enrollment of international students and commit to strict definitions of gender. Among other steps, universities would also be required to change their governance structures to prohibit anything that would “punish, belittle and even spark violence against conservative ideas.”
+
+> Colleges that sign the agreement would receive “multiple positive benefits," according to a letter included with the compact signed by Education Secretary Linda McMahon; Vince Haley, the director of the White House Domestic Policy Council; and May Mailman, the White House’s senior adviser for special projects.
+
+> Colleges that agree would get priority access to federal funds and looser restraints on overhead costs. Signed compacts would also serve as assurance to the government that schools are complying with civil rights laws. Federal civil rights investigations have been used to halt much of the research funding that the administration has blocked so far this year.
+
+> Letters were sent on Wednesday to the University of Arizona, Brown University, Dartmouth College, Massachusetts Institute of Technology, the University of Pennsylvania, the University of Southern California, the University of Texas, Vanderbilt University and the University of Virginia.
+
+> “The University of Texas system is honored that our flagship — the University of Texas at Austin — has been named as one of only nine institutions in the U.S. selected by the Trump administration for potential funding advantages under its new Compact for Academic Excellence in Higher Education,” Kevin P. Eltife, the chairman of the University of Texas Board of Regents, said in a statement on Thursday. “We enthusiastically look forward to engaging with university officials and reviewing the compact immediately.”
+
+> “Today it’s these things,” said Ted Mitchell, the president of the American Council on Education, who served in the Obama administration. “Next week, it may be a whole new set. This is a power play, and it’s designed to divide the higher education community.”
+
+> Ms. Mailman, who has orchestrated much of the Trump administration’s higher education strategy, said the compact could ultimately be extended to all colleges and universities ... “We hope all universities ultimately are able to have a conversation with us”.
+
+(The "compact")
+
+[https://www.washingtonexaminer.com/wp-content/uploads/2025/10/Compact-for-Academic-Excellence-in-Higher-Education-10.1.pdf](https://www.washingtonexaminer.com/wp-content/uploads/2025/10/Compact-for-Academic-Excellence-in-Higher-Education-10.1.pdf)
+
+(These didn't get reported that I saw:)
+
+> Universities shall be responsible for ensuring that they do not knowingly: (1) permit actions by the university, university employees, university students, or individuals external to the university community to delay or disrupt class instruction or disrupt libraries or other traditional study locations; ( allow demonstrators to heckle or accost individual students or groups of students; or (3) allow  of access to parts of campus based on students’ race, ethnicity, nationality, or religion.1  Signatories commit to using lawful force if necessary to prevent these violations and to swift, serious, and consistent sanctions for those who commit them.
+
+> While universities should protect debate and academic freedom, harassment falls outside permissible bounds. Signatories shall adopt policies prohibiting incitement to violence, including calls for murder or genocide or support for entities designated by the U.S. government as terrorist organizations.
+
+> Signatories shall maintain institutional neutrality at all levels of their administration. This requires policies that all university employees, in their capacity as university representatives, will abstain from actions or speech relating to societal and political events except in cases in which external events have a direct impact upon the university.
+
+> Signatories acknowledge that universities that receive federal funds have a duty to reduce administrative costs as far as reasonably possible and streamline or eliminate academic programs that fail to serve students.
+
+> Signatories shall responsibly deploy their endowments to the public good. Any university with an endowment exceeding $2 million per undergraduate student will not charge tuition for admitted students pursuing hard science programs (with exceptions, as desired, for families of substantial means).
+
+(Also)
+
+[https://www.insidehighered.com/news/government/science-research-policy/2025/10/02/white-house-floats-compact-preferential](https://www.insidehighered.com/news/government/science-research-policy/2025/10/02/white-house-floats-compact-preferential)
+
+[https://www.wsj.com/us-news/education/trump-college-compact-funding-reactions-79f45f91?st=hwEgVA&reflink=article_gmail_share](https://www.wsj.com/us-news/education/trump-college-compact-funding-reactions-79f45f91?st=hwEgVA&reflink=article_gmail_share)
+
+[https://www.washingtonpost.com/education/2025/10/03/trump-administration-college-funding-compact/](https://www.washingtonpost.com/education/2025/10/03/trump-administration-college-funding-compact/)
+
+[https://www.chronicle.com/article/trumps-proposed-compact-asks-colleges-to-show-theyre-pursuing-federal-priorities](https://www.chronicle.com/article/trumps-proposed-compact-asks-colleges-to-show-theyre-pursuing-federal-priorities)
+
+* Gov. Newsom threatens to withhold billions from California colleges that sign Trump's 'compact'
+
+[https://www.kcra.com/article/gov-newsom-threatens-to-withhold-billions-from-california-colleges-that-sign-trumps-compact/68366652](https://www.kcra.com/article/gov-newsom-threatens-to-withhold-billions-from-california-colleges-that-sign-trumps-compact/68366652)
+
+> "IF ANY CALIFORNIA UNIVERSITY SIGNS THIS RADICAL AGREEMENT, THEY’LL LOSE BILLIONS IN STATE FUNDING — INCLUDING CAL GRANTS — INSTANTLY. CALIFORNIA WILL NOT BANKROLL SCHOOLS THAT SELL OUT THEIR STUDENTS, PROFESSORS, RESEARCHERS, AND SURRENDER ACADEMIC FREEDOM,"
+
+(Also)
+
+[https://www.sfchronicle.com/politics/article/newsom-trump-education-funding-21081560.php](https://www.sfchronicle.com/politics/article/newsom-trump-education-funding-21081560.php)
+
+
+* Universities Must Reject Trump Admin "Loyalty Oath" Compacts | AAUP
+
+[https://www.aaup.org/news/universities-must-reject-trump-admin-loyalty-oath-compacts](https://www.aaup.org/news/universities-must-reject-trump-admin-loyalty-oath-compacts)
+
+> The Trump administration’s offer to give preferential treatment to colleges and universities in exchange for allegiance to a partisan ideological agenda stinks of favoritism, patronage, and bribery. It is entirely corrupt. White House Policy Strategist May Mailman reportedly hopes that “a lot of schools see that” government control of their institution is “highly reasonable.” In reality, adherence to Mailman’s loyalty oath would usher in a new era of thought policing in American higher education. Mailman’s compacts would steer tax payer money in ways that violate core principles of US higher education and democracy and cripple innovation. They would reward campuses that toe the party line and punish those that cherish their independence. In doing so, it would commit the very viewpoint discrimination it claims to redress.
+
+* A Defining Choice for Higher Ed (opinion)
+
+[https://www.insidehighered.com/opinion/views/2025/10/03/defining-choice-higher-ed-opinion](https://www.insidehighered.com/opinion/views/2025/10/03/defining-choice-higher-ed-opinion)
+
+> As I see it, there really is no choice. Colleges and universities must say no. They should do so now, when resistance might dissuade the administration from going any further with its plan.
+
+> If colleges relent, they will forfeit whatever moral capital they have left and send the message that the pursuit of truth matters less than loyalty to a political agenda and that colleges and universities can be made to give up their independence if the price of freedom is high enough.
+
+> The very idea that the Trump administration is seeking to compel universities to adhere to the values and policies that it prefers suggests how little regard it has for either knowledge or education. Post gets it right when he says, “Democracy would become a farce, and the value of self-government meaningless, if the state could manipulate the knowledge available to its citizens.”
+
+
+
+* NYTimes: Trump Offered Universities an Invitation for a Deal. Some See a Trap.
+
+[https://www.nytimes.com/2025/10/02/us/trump-universities-compact-funding.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/02/us/trump-universities-compact-funding.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+("Some", I mean come on. And hasn't the consideration that if *every* campus signed, any advantage would be lost?)
+
+> “This is a real inflection point,” said Jonathan Zimmerman, a professor of the history of education at the University of Pennsylvania.
+
+> Dr. Zimmerman argued that the compact was another example of a split screen in the Trump administration’s priorities. Government officials are on the one hand seeking to reduce federal power over education by gutting the Department of Education, while “at the same time they’ve been orchestrating an unprecedented centralization of power.”
+
+> The Foundation for Individual Rights and Expression, a free speech advocacy group, said the requirement that universities monitor the speech of employees could violate the First Amendment.
+
+* NYTimes: Trump’s ‘Compact’ With Universities Is Just Extortion
+
+[https://www.nytimes.com/2025/10/02/opinion/trump-compact-universities-constitution.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/02/opinion/trump-compact-universities-constitution.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> This is extortion, plain and simple.
+
+> It is not hyperbole to say that the future of higher education in America requires that every university reject it. If any schools capitulate, the pressure will be enormous on all to fold. The only solution is solidarity and collective action against this effort at federal control over higher education.
+
+> President Trump is trying to circumvent the legislative and judicial branches of our government by presenting this as a deal with schools. Nothing in the Constitution or federal law authorizes the president to do this unilaterally. The Supreme Court has been clear that Congress can set conditions on federal funds so long as the requirements are constitutional, clearly stated, related to the purpose of the program and not unduly coercive. Mr. Trump’s compact fails every part of that test.
+
+> Moreover, there is a basic principle of constitutional law — the unconstitutional conditions doctrine — that the government cannot condition a benefit on a recipient having to give up a constitutional right. But that is exactly what the compact would do. When it calls for universities to effectively ban anything deemed to punish or belittle conservative ideas, it tramples the right to freedom of speech.
+
+* Opinion | Autocracy Is Eroding Higher Education
+
+[https://www.chronicle.com/article/autocracy-is-eroding-higher-education](https://www.chronicle.com/article/autocracy-is-eroding-higher-education)
+
+
+### NIH
+
+* NIH is spending its grant money, but leaving thousands of projects unfunded - The Washington Post
+
+[https://www.washingtonpost.com/science/2025/09/26/nih-funding-research-grants/](https://www.washingtonpost.com/science/2025/09/26/nih-funding-research-grants/)
+
+> A senior leader at the National Institutes of Health wrote an impassioned email to staff on the last Friday in August, lauding them for pulling off a “near-miracle.” The round-the clock work of officials inside NIH, according to the letter, helped put the agency on track to get all of its grant money out to labs across the country, the majority of its nearly $48 billion budget.
+
+> The scramble ensured the money flowed to labs and science, instead of returning the unspent funds to government coffers. NIH shifted its budgeting strategy in June toward awarding more grants their entire multiyear budget up front. But the budgeting technique comes at a cost. Hundreds of grants deemed excellent by peer review are being left on the table, leaving strong research on cancer, aging and diabetes unfunded.
+
+> NIH has awarded nearly 3,000 fewer research project grants than it did the previous year, according to an analysis by Michael Lauer, the former deputy director of extramural research at NIH, using publicly available data downloaded two weeks before the end of the fiscal year.
+
+> “We were on our way to making over 700 awards this year, but … we had to drastically change that prediction,” said Douglas Lowy, principal deputy director of the National Cancer Institute at a meeting in September. “It looks like we’ll end up funding more on the order of 400 awards.”
+
+* Researchers Map Out Possible Impacts of a Smaller NIH
+
+[https://www.insidehighered.com/news/government/science-research-policy/2025/09/30/researchers-map-out-possible-impacts-smaller-nih](https://www.insidehighered.com/news/government/science-research-policy/2025/09/30/researchers-map-out-possible-impacts-smaller-nih)
+
+> ince the mid-1940s, the National Institutes of Health has sent billions of dollars to university researchers whose work has led to the creation of scores of lifesaving treatments for a range of diseases, including cancer, Alzheimer’s and heart disease. By one estimate, NIH-funded research was linked to roughly 99 percent of drugs that the U.S. Food and Drug Administration approved between 2010 and 2019.
+
+>  A new peer-reviewed paper published in Science last week found that more than half of the drugs approved in the 21st century are linked to research that would have been at risk of never getting funded if the NIH had been operating with a 40 percent smaller budget.
+
+[https://www.science.org/doi/10.1126/science.aeb1564](https://www.science.org/doi/10.1126/science.aeb1564)
+
+> We identified at-risk grants using the actual scores received by NIH grants, which were provided to one of the authors for the 1980 to 2007 period. At NIH, grant applications are funded according to two key factors: the priority score and the institute responsible for potentially funding it. Broadly speaking, each NIH institute funds the applications it is assigned in order of priority scores until its budget is exhausted (5). Because we have information on a grant’s score and its assigned institute, we could closely recreate this rank ordering and identify which applications would not have been funded, had the budget been 40% smaller.
+
+> Next, we linked these at-risk grants to FDA-approved drugs. ... The Bayh-Dole Act requires patent-holders who received government funding to add a “government-interest statement” to their patents and report their patents back to the funding agency.
+
+> Of the 557 drugs that were approved between 2000 and 2023, we found that 40 (or 7.1%) drugs have at least one patent that directly acknowledges NIH extramural funding. Of this set, 14 acknowledge funding from an at-risk grant (see the first table). These include Cerdelga (generic name Eliglustat, approved by the FDA in 2014),
+
+>  Of the 557 drug approvals in our sample, 331 (59.4%) have a patent that cites at least one research publication acknowledging NIH support. Indeed, more than half of approved drugs (286, or 51.4%) are linked to at-risk research—research funded by grants that would have been cut under a 40% budget reduction. A flagship example is Gleevec...
+
+* Scientific Publishing Industry Faces Federal Scrutiny
+
+[https://www.insidehighered.com/news/government/science-research-policy/2025/10/02/scientific-publishing-industry-faces-federal](https://www.insidehighered.com/news/government/science-research-policy/2025/10/02/scientific-publishing-industry-faces-federal)
+
+> In recent months, Robert F. Kennedy Jr., secretary of the Department of Health and Human Services, and Jayanta Bhattacharya, director of the National Institutes of Health, have taken aim at the scientific publishing industry, changing policies and using their platforms to lodge their own criticisms. They’ve pledged to address concerns about bias, misinformation and access. In August, Bhattacharya wrote in a memo that part of his strategy to rebuild public trust in science will include focusing on “replicable, reproducible, and generalizable research” as “the basis for truth in biomedical science.” The “publish or perish” culture, he added, “favors the promotion of only favorable results, and replication work is little valued or rewarded.”
+
+> While numerous experts Inside Higher Ed interviewed said some of the government’s grievances about scientific publishing are real, they’re skeptical that the solutions the HHS and NIH have proposed so far will yield meaningful reforms. And one warned that the Trump administration—which continues to promote misinformation about vaccines, among other things—is exploiting that reality to further its own ideological agenda.
+
+>  the Trump administration’s quest to reshape academic publishing could end up giving the government more control over journals that have long acted as the gatekeepers of validated scientific research.
+
+> In April, then-interim U.S. attorney for the District of Columbia Edward R. Martin Jr. sent letters to numerous journals, including The Journal of the American Medical Association and CHEST (a journal published by the American College of Chest Physicians), questioning them about what he called political bias.
+
+> And before taking his post, Bhattacharya and Martin Kulldorff, a former Harvard University biostatistician, launched their own journal—The Journal of the Academy of Public Health, which is linked to the right-wing news site RealClearPolitics—as a counter to mainstream journals.
+
+* NIH Fires 4 Directors After Putting Them on Leave
+
+[https://www.insidehighered.com/news/quick-takes/2025/10/03/nih-fires-4-directors-after-putting-them-leave](https://www.insidehighered.com/news/quick-takes/2025/10/03/nih-fires-4-directors-after-putting-them-leave)
+
+> The ousted leaders led the National Institute of Allergy and Infectious Diseases, the National Institute of Child Health and Human Development, the National Institute on Minority Health and Health Disparities, and the National Institute of Nursing Research. Tara Schwetz, the deputy director for program coordination, planning and strategic initiatives, was also fired. The directors were put on leave in the spring around the same time that the administration laid off thousands at the Department of Health and Human Services.
+
+> Science reported that the directors felt they were targeted as part of the administration’s crackdown on diversity, equity and inclusion and for political reasons. Jeanne Marrazzo, the former NIAID director, took over for Anthony Fauci, a frequent target for Republicans who took issue with his approach to the COVID-19 pandemic. Marrazzo filed a whistleblower complaint in early September that in part accused NIH leadership of downplaying the value of vaccines, The New York Times reported.
+
+### NEH
+
+* White House fires much of the National Council on the Humanities
+
+[https://www.washingtonpost.com/entertainment/2025/10/01/national-council-on-the-humanities-fired-white-house/](https://www.washingtonpost.com/entertainment/2025/10/01/national-council-on-the-humanities-fired-white-house/)
+
+> The White House on Wednesday abruptly fired a large share of the council members advising the National Endowment for the Humanities, retaining only four appointees of President Donald Trump, according to terminated members reached by The Washington Post and an updated list on the agency’s website.
+
+> The National Council on the Humanities, a board of 26 scholars and humanities leaders appointed by the president to six-year terms, advises the chair of the NEH on grantmaking, policy and funding decisions. Members are not salaried but receive some compensation for travel and time spent in meetings.
+
+> One member who was fired noted that the board now consists only of White men. “I’m not totally shocked,” said the person, who spoke on the condition of anonymity to discuss a personnel matter. “But at a time where we’re about to celebrate the country’s 250th birthday … we now have a council that does not reflect all Americans.”
+
+> The statute establishing the council says the president “shall give due regard to equitable representation of women, minorities, and individuals with disabilities” when selecting members.
+
+(Also)
+
+[https://www.insidehighered.com/news/quick-takes/2025/10/02/most-humanities-advisory-council-fired](https://www.insidehighered.com/news/quick-takes/2025/10/02/most-humanities-advisory-council-fired)
+
+
+## Federal Agencies
+
+### DOE/OCR
+
+* OCR Can Move Forward With RIFs, Appeals Court Says
+
+[https://www.insidehighered.com/news/quick-takes/2025/10/01/ocr-can-move-forward-rifs-appeals-court-says](https://www.insidehighered.com/news/quick-takes/2025/10/01/ocr-can-move-forward-rifs-appeals-court-says)
+
+> After months of uncertainty, a federal appeals court ruled Monday that the Education Department can move forward with firing half of the 550 employees at its Office for Civil Rights.
+
+> “We note the district court’s careful analysis concluding that the Department’s decision to reduce by half the staff of OCR, a statutorily-created office, imperils Congress’s mandate that OCR ‘enforce federal civil rights laws that ban discrimination based on race, sex, and disability in the public education system,’” the court’s opinion read. “In this stay posture and at this preliminary stage of the litigation, however, we cannot conclude that this case differs enough from McMahon to reach a contrary result to the Supreme Court's order staying the injunction in McMahon.”
+
+### HHS
+
+* HHS Looks to Block Harvard From Federal Funds
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/29/hhs-looks-block-harvard-federal-funds](https://www.insidehighered.com/news/quick-takes/2025/09/29/hhs-looks-block-harvard-federal-funds)
+
+> The U.S. Department of Health and Human Services’ Office for Civil Rights announced Monday that it’s moving to cut off Harvard University’s eligibility to receive federal funding.
+
+> Now HHS OCR has recommended cutting off federal funding to Harvard “to protect the public interest” through a suspension and debarment process operated by the HHS Office of the Assistant Secretary for Financial Resources. Suspension would be temporary and debarment would last “for a specified period as a final determination that an entity is not responsible enough to do business with the federal government because of the wrongdoing,” according to the agency. The move comes less than two weeks after the Education Department placed Harvard on heightened cash monitoring—a highly unusual move given the university’s significant resources.
+
+(Also)
+
+[https://www.nytimes.com/2025/09/29/us/politics/trump-administration-harvard-research-grants.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/29/us/politics/trump-administration-harvard-research-grants.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The Health and Human Services Department on Monday started the process for blocking Harvard University from receiving future research grants, three months after finding that the university violated civil rights law by failing to address the harassment of Jewish students on campus.
+
+("finding" might more accurately be "asserting")
+
+> Judge Allison D. Burroughs of Federal District Court in Boston sided with Harvard, the nation’s oldest and wealthiest university, when she ruled earlier this month that the administration had broken the law by freezing billions in research dollars in the name of stamping out antisemitism. She left open the possibility that the government could seek to use its “constitutional, statutory or regulatory authority” to try to challenge Harvard again.
+
+
+(Also)
+
+[https://www.wsj.com/us-news/education/harvard-trump-debarment-federal-funds-32023931?st=VnsuwQ&reflink=article_gmail_share](https://www.wsj.com/us-news/education/harvard-trump-debarment-federal-funds-32023931?st=VnsuwQ&reflink=article_gmail_share)
+
+
+## Institutional assaults
+
+* NYTimes: Give In or Fight Back? Colleges Are Torn on How to Respond to Trump.
+
+[https://www.nytimes.com/2025/09/27/us/trump-university-california-berkeley-tactics.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/27/us/trump-university-california-berkeley-tactics.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The Trump administration has attacked the University of California system’s research funding, launched a swarm of investigations and demanded that it pay more than $1 billion.
+
+> But people across the 10-campus system are at odds over how to fight back, stirring a war within about countering President Trump’s tactics.
+
+> California administrators have tried to negotiate with the same government that professors have sued. The university system’s regents have huddled behind closed doors while one, Gov. Gavin Newsom, has publicly called for defiance. And system leaders have clashed with campus-level officials over giving the Trump administration the names of scores of students and employees connected to complaints about antisemitism.
+
+> “I did ask him [Berkeley lawyer who signed the announcement about the California system’s disclosures to the government] about whether he had thought about not complying, and he said no,” Dr. Butler, a gender theorist who joined Berkeley’s faculty in the early 1990s, recalled in an interview.
+
+> Professor Butler said the lawyer, who declined to comment, responded that his job was to defend the university.
+
+> “But perhaps,” Professor Butler remembered replying, “it’s your job to defend the highest ideals of the university.”
+
+### Accreditation
+
+* Texas Supreme Court Weighs Changes to Law School Oversight
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/30/texas-supreme-court-weighs-changes-law-school-oversight](https://www.insidehighered.com/news/quick-takes/2025/09/30/texas-supreme-court-weighs-changes-law-school-oversight)
+
+> The Texas Supreme Court has issued a tentative opinion that the American Bar Association “should no longer have the final say on whether a law school’s graduates are eligible to sit for the Texas bar exam and become licensed to practice law,” according to a recent order.
+
+(CUNY's Law School is accredited by the ABA.)
+
+### Harvard
+
+* NYTimes: Trump Says a Deal With Harvard Is Close
+
+[https://www.nytimes.com/2025/09/30/us/trump-harvard-deal.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/30/us/trump-harvard-deal.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+(The same 3-name byline is back with a similar story ... a deal is near. Not holding breath)
+
+> President Trump said Tuesday that his administration was close to reaching a multimillion-dollar agreement with Harvard University, which would end a monthslong standoff that had come to symbolize the resistance to the White House’s efforts to reshape higher education.
+
+> “They are going be teaching people to do A.I. and a lot of other things — engines, lots of things,” he said. “We need people in trade schools.”
+
+(A new character has entered the stage though)
+
+> Harvard and the government spent much of the summer in talks before the negotiations stalled. But the president’s comments on Tuesday followed multiple phone calls to Mr. Trump from Stephen A. Schwarzman, the billionaire chief executive of the Blackstone Group, a huge investment firm that manages more than $1 trillion in assets. Mr. Schwarzman is a graduate of Harvard Business School.
+
+> Mr. Schwarzman spoke with Mr. Trump once during the past weekend and again in a phone call on Tuesday, acting as an emissary between the White House and Harvard, according to three people familiar with the conversations who spoke on the condition of anonymity because they were not authorized to discuss them.
+
+> Mr. Schwarzman’s involvement was an attempt by Harvard to pierce a division inside the administration between advisers eager to deliver a deal for Mr. Trump and more ideologically driven aides who viewed the terms as too favorable to the university.
+
+(ideologically driven aides == Stephen Miller + May Mailman?)
+
+> Some Trump advisers have argued behind closed doors that one way to strengthen the agreement would be to subject Harvard to an independent monitor who would ensure compliance. Harvard has consistently opposed that idea.
+
+(Also)
+
+[https://www.wsj.com/us-news/education/harvard-trump-deal-500-million-trade-school-d79aa624?st=sEYtGQ&reflink=article_gmail_share](https://www.wsj.com/us-news/education/harvard-trump-deal-500-million-trade-school-d79aa624?st=sEYtGQ&reflink=article_gmail_share)
+
+
+* NYTimes: Harvard Blasts Administration Over ‘Distorted’ Civil Rights Investigation
+
+[https://www.nytimes.com/2025/09/30/us/politics/harvard-response-trump.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/30/us/politics/harvard-response-trump.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The Trump administration’s move this week to choke off Harvard University’s access to future federal funding came after a scathing letter from the college accusing the administration of distorting evidence to show that the school violated civil rights laws by allowing antisemitism to persist on campus.
+
+> In a strongly worded, 163-page letter with attachments on Sept. 19, which has not been previously reported, Harvard assailed the government’s findings. The university accused investigators at the Health and Human Services Department of relying on “inaccurate and incomplete facts,” failing to meet a single legal requirement to prove discrimination and drawing sweeping conclusions from a survey of one-half of 1 percent of the student body.
+
+> Harvard painted a picture of a chaotic Trump administration rushing to leverage federal power against the university. For instance, it noted that the health department had chided the college for failing to produce certain records. But Harvard’s documents showed that the records in question had been provided in response to a request from the Education Department. Harvard said the health department never asked for those records.
+
+> Harvard said the health department’s decision to refer its findings to the Justice Department was “based on a fabricated and distorted interpretation of the record.”
+
+> The only specific incident in the health department’s report that would show antisemitism disrupted a student’s access to education, Harvard lawyers wrote, was not a firsthand account.
+
+> “It is an anonymous account from one student,” according to Harvard’s letter. This student had said that “other students stopped going to a class because those other students did not feel safe.”
+
+> Another example of antisemitism cited by the health department was of a Jewish student who reported that her mezuza had gone missing. But Harvard noted that the decorative symbol of Jewish faith had been found by the university police in the hallway, three doors down from the student’s room. That suggested the mezuza “may have fallen because the adhesive tape used to affix it to the doorway had given way, and not because it was deliberately vandalized.”
+
+(Also)
+
+[https://www.washingtonpost.com/education/2025/09/30/harvard-trump-administration-antisemitism-findings/](https://www.washingtonpost.com/education/2025/09/30/harvard-trump-administration-antisemitism-findings/)
+
+(Which includes two more empty examples made by HHS)
+
+* The Trump Agenda: The Federal Government Moves to Prevent Harvard From Receiving Future Research Funding
+
+[https://www.chronicle.com/blogs/the-trump-agenda/the-federal-government-moves-to-prevent-harvard-from-receiving-future-research-funding](https://www.chronicle.com/blogs/the-trump-agenda/the-federal-government-moves-to-prevent-harvard-from-receiving-future-research-funding)
+
+> The U.S. Department of Health and Human Services (HHS) announced on Monday that it referred Harvard University for suspension and debarment proceedings, the latest creative research-funding threat the government has employed to pressure the university into policy changes.
+
+> The referral begins a process that could result in Harvard being barred from receiving grants for some time. The Chronicle wrote to several former directors of the HHS’s civil-rights office, which announced the move, seeking expert guidance on understanding it. Only Roger Severino, who served during the first Trump administration, responded on the record. “Debarment puts grant recipients on a blacklist that prohibits them from having any more contracts with the federal government,” he wrote in an emailed statement. “It is reserved for bad actors that refuse to comply with the law and Harvard has proven entirely unwilling to come into compliance with civil-rights law.”
+
+("bad actors"...)
+
+> Monday’s announcement said both a suspension and debarment would have “government-wide effect,” suggesting they would block Harvard’s eligibility for all government grants, not just those issued by HHS, which includes the National Institutes of Health.
+
+### California State University System
+
+* The Trump Agenda: With New Cal State Investigations, Trump Widens Scrutiny of Higher Ed in California
+
+[https://www.chronicle.com/blogs/the-trump-agenda/with-new-cal-state-investigations-trump-administration-widens-its-scrutiny-of-higher-ed-in-california](https://www.chronicle.com/blogs/the-trump-agenda/with-new-cal-state-investigations-trump-administration-widens-its-scrutiny-of-higher-ed-in-california)
+
+> The California State University system told its 22 institutions Friday that the Trump administration had opened investigations into alleged antisemitism and racial discrimination — an escalation of the government’s scrutiny of the state’s vast higher-ed enterprise.
+
+> In an email to the Cal State community, Chancellor Mildred García said that the Equal Employment Opportunity Commission had started direct outreach to some faculty and staff across the university system to “review allegations of antisemitism and to speak with them about their experiences on campus.”
+
+> In a separate federal subpoena, EEOC requested the personal phone numbers and email addresses of all former and current employees at Cal State’s Los Angeles campus since 2023, a university spokesperson confirmed to The Chronicle.
+
+## Blowback
+
+* University of Maine Cancels Wind Power Summit
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/30/university-maine-cancels-wind-power-summit](https://www.insidehighered.com/news/quick-takes/2025/09/30/university-maine-cancels-wind-power-summit)
+
+> The University of Maine cancelled its annual summit on floating offshore wind power as federal support for renewable energy wanes, Maine Public reported.
+
+* Indian Students Look Elsewhere After H-1B Visa Price Shock
+
+[https://www.insidehighered.com/news/global/international-students-us/2025/10/03/indian-students-look-elsewhere-after-h-1b-visa](https://www.insidehighered.com/news/global/international-students-us/2025/10/03/indian-students-look-elsewhere-after-h-1b-visa)
+
+> “The queries and applications for U.S. universities have seen a significant drop, and students are considering alternatives. Destinations such as the U.K., Germany and Australia are being explored, and Canada is proposing a dedicated work permit for current and potential U.S. H-1B holders. All these initiatives and policy changes are sure to bring about a massive shift in demand for the U.S. as a destination.”
+
+> Andrew Morran, head of politics and international relations at London Metropolitan University, said the policy would “particularly hit Indian students, who last year made up 71 percent of international student applications, according to U.S. government statistics.”
+
+## Coming attractions?
+
+* Spending Soars, Rankings Fall at New College of Florida
+
+[https://www.insidehighered.com/news/governance/state-oversight/2025/10/01/spending-soars-rankings-fall-new-college-florida](https://www.insidehighered.com/news/governance/state-oversight/2025/10/01/spending-soars-rankings-fall-new-college-florida)
+
+> More than two years into a conservative takeover of New College of Florida, spending has soared and rankings have plummeted, raising questions about the efficacy of the overhaul.
+
+> Those metrics are down even as New College spends more than 10 times per student what the other 11 members of the State University System spend, on average.  ... New College is an outlier, with a head count under 900 and a $118.5 million budget, which adds up to roughly $134,000 per student.
+
+> “It’s kind of like a Ponzi scheme: Students keep leaving, so they have to recruit bigger and bigger cohorts of students, and then they say, ‘Biggest class ever’ because they have to backfill all the students who have left,” they [anonymous New College of Florida faculty member] said.
+
+> “I think that the Senate and the House are increasingly sensitive to the costs and the outcomes,” Allen [on-time vice president of strategy at NCF] said. “Academically, Richard’s [New College's president] running a Motel 6 on a Ritz-Carlton budget, and it makes no sense.”
+
+> Since the takeover, NCF has dropped nearly 60 spots among national liberal arts colleges in the U.S. News & World Report Best Colleges rankings, from 76th in 2022 to 135th this year.
+
+## AI misdeeds
+
+* Students Who Lack Academic Confidence More Likely to Use AI
+
+[https://www.insidehighered.com/news/student-success/academic-life/2025/09/30/students-who-lack-academic-confidence-more-likely-use](https://www.insidehighered.com/news/student-success/academic-life/2025/09/30/students-who-lack-academic-confidence-more-likely-use)
+
+> Colleges and universities have sought to equip students with the skills to use generative artificial intelligence tools thoughtfully and ethically, but a recent study finds students often outsource thinking to chatbots.
+
+> Research from the University of Southern California Center for Generative AI and Society found that the average student who uses generative AI services does so to get a direct answer, not to learn. Students who feel less confident in a course or who do not engage with their peers are also more likely to turn to technology for help.
+
+> students who were averse to asking peers for support or perceived themselves as less competent were much more likely to engage with generative AI. Students who trusted generative AI, similarly, were more likely to use the tools to find answers.
+
+* Can Colleges Be Run Using AI?
+
+[https://www.chronicle.com/article/can-colleges-be-run-using-ai](https://www.chronicle.com/article/can-colleges-be-run-using-ai)
+
+> The speed with which AI is developing and spreading further complicates efforts to measure its impact. A survey of college business officers conducted in late 2024 by the National Association of College and University Business Officers, known as NACUBO, found that only a third of respondents were using the technology to support their operations. A year later, said Lindsay K. Wayt, senior director for business intelligence at the organization, “my gut would tell me that number is higher.”
+
+(CUNY is using AI tools in enrollment management)
+
+> AI can save time, and thus money. Generative AI has become known for its near-magical speed. Ask it to write an email, and seconds later it has. That speed can increase the efficiency of rote administrative work, Low said.
+
+(Quoted because I love how sending an email become simply a rote task to some)
+
+* NYTimes: I Sued Anthropic, and the Unthinkable Happened
+
+[https://www.nytimes.com/2025/09/29/opinion/anthropic-chatbot-lawsuit-books.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/09/29/opinion/anthropic-chatbot-lawsuit-books.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The despair didn’t last long. In August 2024, I became one of three named plaintiffs leading a class-action lawsuit against the A.I. company Anthropic for pirating my books and hundreds of thousands of other books to train its A.I. The fight felt daunting, almost preposterous: me — a queer, female thriller writer — versus a company now worth $183 billion?
+
+> Thanks to the relentless work of everyone on my legal team, the unthinkable happened: Anthropic agreed to pay authors and publishers $1.5 billion in the largest copyright settlement in history. A federal judge preliminarily approved the agreement last week.
+
+> The settlement isn’t perfect. It’s absurd that it took an army of lawyers to demonstrate what any 10-year-old knows is true: Thou shalt not steal. At around $3,000 per work, shared by the author and publisher, the damages are far from life-changing (and, some argue, a slap on the wrist for a company flush with cash). I also disagree with the judge’s ruling that, had Anthropic acquired the books legally, training its chatbot on them would have been “fair use.” I write my novels to engage human minds — not to empower an algorithm to mimic my voice and spit out commodity knockoffs to compete directly against my originals in the marketplace, nor to make that algorithm’s creators unfathomably wealthy and powerful.
+
+
+## Online education
+
+* NYTimes: What’s Lost When Community Colleges Go Virtual
+
+[https://www.nytimes.com/2025/10/03/opinion/community-college-campus-online.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2025/10/03/opinion/community-college-campus-online.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+> The students I advise are diligently completing coursework, but in many cases, they just aren’t getting the three-dimensional experience of college life that would help them become well-rounded professionals. In our increasingly digital world, online classes are here to stay, but there’s no substitute for being on campus.
+
+
+----
+
+Again, some links are behind paywalls. The shortened wapo links are gift articles; the Chronicle links should be available through a CUNY library. I have online access to the WSJ articles through CUNY.
+
+These digests are now archived at
+
+[https://cunytracker.github.io/CUNYTracker/](https://cunytracker.github.io/CUNYTracker/)
