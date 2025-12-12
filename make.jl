@@ -42,6 +42,7 @@ function (@main)(args...)
                 if startswith(l, "http")
                     l = replace(l, "www-chronicle-com.csi.ezproxy.cuny.edu" =>
                                 "www.chronicle.com")
+                    l = first(split(l, "?utm_source"))
                     println(io, "[", l, "](",  l, ")")
                 else
                     println(io, l)
