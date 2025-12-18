@@ -5,7 +5,110 @@ format:
     toc: true
 ---
 
+## Shared governance
+
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* Faculty Want Answers on Oklahoma’s Suspension Policies
+
+[https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/12/18/faculty-want-answers-oklahomas-suspension-policies](https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/12/18/faculty-want-answers-oklahomas-suspension-policies)
+
+
+<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
+
+
+* On Title VI, Discrimination, and Academic Freedom
+
+[https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/title-vi-discrimination-and-academic](https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/title-vi-discrimination-and-academic?link_id=1&can_id=7972d9c8790a906a068fba11ce31c6a1&source=email-new-report-on-title-vi-out-today&email_referrer=email_2898804&email_subject=new-report-on-title-vi-out-today&&)
+
+
+* Is the AAUP Too Partisan? Its President Doesn’t Think So.
+
+[https://www.chronicle.com/article/is-the-aaup-too-partisan-its-president-doesnt-think-so](https://www.chronicle.com/article/is-the-aaup-too-partisan-its-president-doesnt-think-so)
+
+
+<i class='bi bi-calendar2-range'></i> [9/12/2025](sep-12.qmd)
+
+
+* After a Messy Shared-Governance Effort, U. of Oregon Spares Programs and Some Faculty
+
+[https://www.chronicle.com/article/after-a-messy-shared-governance-effort-u-of-oregon-spares-programs-and-some-faculty](https://www.chronicle.com/article/after-a-messy-shared-governance-effort-u-of-oregon-spares-programs-and-some-faculty)
+
+
+<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
+
+
+* University of Texas System ends faculty senates to comply with SB 37
+
+[https://www.statesman.com/news/education/article/university-texas-system-faculty-senate-abolish-20822502.php](https://www.statesman.com/news/education/article/university-texas-system-faculty-senate-abolish-20822502.php)
+
+
+<i class='bi bi-calendar2-range'></i> [8/22/2025](aug-22.qmd)
+
+
+* Tex. Boards Abolish Faculty Senates, Create Toothless Councils
+
+[https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/08/22/tex-boards-abolish-faculty-senates-create](https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/08/22/tex-boards-abolish-faculty-senates-create)
+
+
+<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
+
+
+* Texas State U System Lets Law End Faculty Senates, for Now
+
+[https://www.insidehighered.com/news/quick-takes/2025/08/11/texas-state-u-system-lets-law-end-faculty-senates-now](https://www.insidehighered.com/news/quick-takes/2025/08/11/texas-state-u-system-lets-law-end-faculty-senates-now)
+
+
+<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
+
+
+* Report: Faculty Often Missing From University Decisions on AI
+
+[https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/07/22/faculty-often-missing-university-decisions-ai](https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/07/22/faculty-often-missing-university-decisions-ai)
+[https://engageai.org/wp-content/uploads/sites/125/2025/04/An-AI-Bill-of-Rights-for-Educators-Revision-2025.03.28-2.pdf](https://engageai.org/wp-content/uploads/sites/125/2025/04/An-AI-Bill-of-Rights-for-Educators-Revision-2025.03.28-2.pdf)
+
+
+<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
+
+
+* New Report on the State of Academic Governance in Community Colleges
+
+[https://www.aaup.org/news/new-report-state-academic-governance-community-colleges](https://www.aaup.org/news/new-report-state-academic-governance-community-colleges)
+
+
+<i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
+
+
+* Ohio Budget Bill Could Enact Even More Higher Ed Changes
+
+[https://www.insidehighered.com/news/quick-takes/2025/04/08/ohio-budget-bill-could-enact-even-more-higher-ed-changes](https://www.insidehighered.com/news/quick-takes/2025/04/08/ohio-budget-bill-could-enact-even-more-higher-ed-changes)
+
+
 ## Academic freedom
+
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* The Classroom, Caught on Camera – -Professors and students are increasingly worried what they say in class could end up on the internet.
+
+[https://www.chronicle.com/article/the-surveilled-classroom](https://www.chronicle.com/article/the-surveilled-classroom)
+
+
+* When Everyone Can See Your Syllabus
+
+[https://www.chronicle.com/article/when-everyone-can-see-your-syllabus](https://www.chronicle.com/article/when-everyone-can-see-your-syllabus)
+
+
+* Is Your Course Content ‘Relevant’ and ‘Necessary’? – -Texas Tech faculty are having to scrutinize lessons on race, gender, and even ‘The Great Gatsby.’
+
+[https://www.chronicle.com/article/is-your-course-content-relevant-and-necessary](https://www.chronicle.com/article/is-your-course-content-relevant-and-necessary)
+
+
+* The Man Behind Texas Tech’s Controversial Curriculum Crackdown – -Brandon Creighton believes colleges should focus on careers and salaries — not contested ideas about race, gender, and sexuality.
+
+[https://www.chronicle.com/article/the-man-behind-texas-techs-controversial-curriculum-crackdown](https://www.chronicle.com/article/the-man-behind-texas-techs-controversial-curriculum-crackdown)
+
 
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
 
@@ -618,6 +721,20 @@ format:
 
 ## Freedom of expression
 
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* He Went on a Hunger Strike for Palestine. Did He ‘Misuse’ the Classroom?
+
+[https://www.chronicle.com/article/he-went-on-a-hunger-strike-for-palestine-did-he-misuse-the-classroom](https://www.chronicle.com/article/he-went-on-a-hunger-strike-for-palestine-did-he-misuse-the-classroom)
+[https://regents.universityofcalifornia.edu/governance/policies/2301.html](https://regents.universityofcalifornia.edu/governance/policies/2301.html)
+
+
+* NYTimes: PEN America Elects New President at Fraught Time for Free Speech
+
+[https://www.nytimes.com/2025/12/17/arts/dinaw-mengestu-pen-america-new-president.html](https://www.nytimes.com/2025/12/17/arts/dinaw-mengestu-pen-america-new-president.html?smid=nytcore-ios-share)
+
+
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
 
 
@@ -1059,6 +1176,15 @@ format:
 
 ### Anti-woke/anti-DEI is simply racism
 
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* Johns Hopkins U. Pares Back Diversity Programs, Limits Mentoring Efforts Aimed at Minority Students
+
+[https://www.chronicle.com/article/tracking-higher-eds-dismantling-of-dei](https://www.chronicle.com/article/tracking-higher-eds-dismantling-of-dei)
+[https://www.thebanner.com/education/higher-education/johns-hopkins-university-diversity-programs-2CQCQZSV2JAM3DVYADYEIWJSPA/](https://www.thebanner.com/education/higher-education/johns-hopkins-university-diversity-programs-2CQCQZSV2JAM3DVYADYEIWJSPA/)
+
+
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
 
 
@@ -1287,323 +1413,6 @@ format:
 * Why the Unlikely Leader of Trump’s Antisemitism Task Force May Be the Perfect Man for the Job
 
 [https://www.chronicle.com/article/the-improbable-warrior https://www.chronicle.com/article/the-improbable-warrior](https://www.chronicle.com/article/the-improbable-warrior https://www.chronicle.com/article/the-improbable-warrior?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_14759912_nl_Academe-Today_date_20250828)
-
-
-## Visas
-
-<i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
-
-
-* University, ICE Clash Over Details of Student’s Arrest
-
-[https://www.insidehighered.com/news/quick-takes/2025/12/10/university-ice-clash-over-details-students-arrest](https://www.insidehighered.com/news/quick-takes/2025/12/10/university-ice-clash-over-details-students-arrest)
-
-
-<i class='bi bi-calendar2-range'></i> [11/21/2025](nov-21.qmd)
-
-
-* NYTimes: New International Student Enrollments Plummeted This Fall, Survey Finds
-
-[https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html](https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html?smid=nytcore-ios-share&referringSource=articleShare)
-[https://insidehighered.com/news/global/international-students-us/2025/11/17/fewer-international-students-came-us-fall](https://insidehighered.com/news/global/international-students-us/2025/11/17/fewer-international-students-came-us-fall)
-[https://www.chronicle.com/article/international-students-were-already-shunning-u-s-colleges-before-trump-new-data-show](https://www.chronicle.com/article/international-students-were-already-shunning-u-s-colleges-before-trump-new-data-show)
-
-
-<i class='bi bi-calendar2-range'></i> [10/31/2025](oct-31.qmd)
-
-
-* ASSOCIATION OF AMERICAN UNIVERSITIES and CHAMBER OF COMMERCE OF THEUNITED STATES OF AMERICA join forces to sue over H1-B visa changes
-
-[https://www.documentcloud.org/documents/26197067-chamberaauamendcomp102425/](https://www.documentcloud.org/documents/26197067-chamberaauamendcomp102425/)
-
-
-* DeSantis to Fla. Universities: Pull the Plug on H-1B Workers
-
-[https://www.insidehighered.com/news/faculty-issues/2025/10/29/desantis-fla-universities-pull-plug-h-1b-workers](https://www.insidehighered.com/news/faculty-issues/2025/10/29/desantis-fla-universities-pull-plug-h-1b-workers)
-
-
-<i class='bi bi-calendar2-range'></i> [10/10/2025](oct-10.qmd)
-
-
-* International Student Arrivals Drop 19%
-
-[https://www.insidehighered.com/news/global/international-students-us/2025/10/07/international-student-arrivals-drop-19](https://www.insidehighered.com/news/global/international-students-us/2025/10/07/international-student-arrivals-drop-19)
-
-
-* AAUP, Other Unions Sue Trump Admin Over H-1B Fee
-
-[https://www.insidehighered.com/news/quick-takes/2025/10/08/aaup-other-unions-sue-trump-admin-over-h-1b-fee](https://www.insidehighered.com/news/quick-takes/2025/10/08/aaup-other-unions-sue-trump-admin-over-h-1b-fee)
-
-
-<i class='bi bi-calendar2-range'></i> [10/3/2025](oct-3.qmd)
-
-
-* Judge excoriates Trump in blistering decision calling efforts to deport pro-Palestinian academics illegal
-
-[https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114](https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114)
-[https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf](https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf)
-[https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal](https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal)
-
-
-* U.S. assigned a specialized immigration team to target campus protesters
-
-[https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/](https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/)
-
-
-<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
-
-
-* Are CUNY visa applicants being told no?
-
-
-
-* Trump administration to add  100 ,000 fee for H-1B visas - CBS News
-
-[https://www.cbsnews.com/news/trump-h1b-visa-bill-100000-fee/](https://www.cbsnews.com/news/trump-h1b-visa-bill-100000-fee/)
-[https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html](https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html)
-[https://www.chronicle.com/article/what-trumps-100-000-fee-for-skilled-worker-visas-could-mean-for-higher-ed](https://www.chronicle.com/article/what-trumps-100-000-fee-for-skilled-worker-visas-could-mean-for-higher-ed)
-
-
-* International-student enrollment is sagging at many U.S. universities, particularly at the master’s level
-
-[https://www.wsj.com/us-news/education/international-student-enrollment-decline-college-ad13f943](https://www.wsj.com/us-news/education/international-student-enrollment-decline-college-ad13f943?st=FSLVfk&reflink=article_gmail_share)
-[https://www.insidehighered.com/news/global/international-students-us/2025/09/23/international-enrollment-down-small-regional](https://www.insidehighered.com/news/global/international-students-us/2025/09/23/international-enrollment-down-small-regional)
-
-
-<i class='bi bi-calendar2-range'></i> [9/12/2025](sep-12.qmd)
-
-
-* Even as Classes Begin, Some Foreign Students Are Still in Visa Limbo
-
-[https://www.chronicle.com/article/even-as-classes-begin-some-foreign-students-are-still-in-visa-limbo](https://www.chronicle.com/article/even-as-classes-begin-some-foreign-students-are-still-in-visa-limbo)
-
-
-* Supporting Our Students: Part Four
-
-[https://www1.cuny.edu/sites/cunyufs/2025/09/08/supporting-our-students-part-four/](https://www1.cuny.edu/sites/cunyufs/2025/09/08/supporting-our-students-part-four/)
-
-
-<i class='bi bi-calendar2-range'></i> [9/5/2025](sep-5.qmd)
-
-
-* DOJ Sues Illinois Over In-State Tuition for Noncitizens
-
-[https://www.insidehighered.com/news/quick-takes/2025/09/04/doj-sues-illinois-over-state-tuition-noncitizens](https://www.insidehighered.com/news/quick-takes/2025/09/04/doj-sues-illinois-over-state-tuition-noncitizens)
-
-
-<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
-
-
-* After Texas relents, Trump seeks to widen ban on in-state tuition for noncitizens
-
-[https://www.washingtonpost.com/education/2025/08/25/in-state-tuition-undocumented-students-texas/](https://www.washingtonpost.com/education/2025/08/25/in-state-tuition-undocumented-students-texas/)
-
-
-* Visa Delays Persist, Causing Some Students to Defer to Spring
-
-[https://www.insidehighered.com/news/global/international-students-us/2025/08/27/international-students-face-visa-issues-fall](https://www.insidehighered.com/news/global/international-students-us/2025/08/27/international-students-face-visa-issues-fall)
-
-
-* rump Deals A New Immigration Blow To International Students
-
-[https://www.forbes.com/sites/stuartanderson/2025/08/28/trump-deals-a-new-immigration-blow-to-international-students/](https://www.forbes.com/sites/stuartanderson/2025/08/28/trump-deals-a-new-immigration-blow-to-international-students/)
-
-
-* NYTimes: International Student Enrollments Stay Steady at Columbia and Princeton
-
-[https://www.nytimes.com/2025/08/29/us/international-students-race-affirmative-action-princeton-columbia.html](https://www.nytimes.com/2025/08/29/us/international-students-race-affirmative-action-princeton-columbia.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-<i class='bi bi-calendar2-range'></i> [8/22/2025](aug-22.qmd)
-
-
-* Many U.S. Colleges May Close Without Immigrants And International Students, Report Finds
-
-[https://www.forbes.com/sites/stuartanderson/2025/08/14/many-colleges-may-close-without-immigrants-and-international-students/](https://www.forbes.com/sites/stuartanderson/2025/08/14/many-colleges-may-close-without-immigrants-and-international-students/)
-
-
-* Trump administration has revoked 6,000 student visas, official says - The Washington Post
-
-[https://www.washingtonpost.com/education/2025/08/19/student-visas-revoked-6000-trump/](https://www.washingtonpost.com/education/2025/08/19/student-visas-revoked-6000-trump/)
-
-
-* NYTimes: Trump’s Tactics Mean Many International Students Won’t Make It to Campus
-
-[https://www.nytimes.com/2025/08/20/us/trump-visa-vetting-international-students.html](https://www.nytimes.com/2025/08/20/us/trump-visa-vetting-international-students.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-* More Barriers on the Horizon for International Students
-
-[https://www.insidehighered.com/news/global/international-students-us/2025/08/20/more-barriers-horizon-international-students](https://www.insidehighered.com/news/global/international-students-us/2025/08/20/more-barriers-horizon-international-students)
-
-
-<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
-
-
-* Trump “Chipping Away” at DACA and Other Protections
-
-[https://www.insidehighered.com/news/government/politics-elections/2025/08/14/trump-chipping-away-daca-and-other-protections](https://www.insidehighered.com/news/government/politics-elections/2025/08/14/trump-chipping-away-daca-and-other-protections)
-
-
-<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
-
-
-* This new  250  visa fee applies to international student visas too.
-
-[https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html](https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html)
-
-
-* A Trial Over Campus Protest Ends with Conflicting Views of Foreign Students’ Free-Speech Rights
-
-[https://www.chronicle.com/article/a-trial-over-campus-protest-ends-with-conflicting-views-of-foreign-students-free-speech-rights](https://www.chronicle.com/article/a-trial-over-campus-protest-ends-with-conflicting-views-of-foreign-students-free-speech-rights)
-
-
-* NYTimes: Trump’s Student Arrests, and the Lawsuit Fighting Them, Tread New Ground
-
-[https://www.nytimes.com/2025/07/22/us/politics/trump-student-arrests-immigration-trial.html](https://www.nytimes.com/2025/07/22/us/politics/trump-student-arrests-immigration-trial.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-* NYTimes: State Dept. Opens Investigation Into Harvard’s Use of International Visas
-
-[https://www.nytimes.com/2025/07/23/us/politics/state-department-trump-harvard.html](https://www.nytimes.com/2025/07/23/us/politics/state-department-trump-harvard.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
-
-
-* State Department official defends canceling visas of pro-Palestinian academics - POLITICO
-
-[https://www.politico.com/news/2025/07/11/state-official-testimony-trump-deportations-00449634](https://www.politico.com/news/2025/07/11/state-official-testimony-trump-deportations-00449634)
-[https://knightcolumbia.org/cases/aaup-v-rubio](https://knightcolumbia.org/cases/aaup-v-rubio)
-
-
-<i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
-
-
-* Chinese Students’ Vulnerable Status Has a History — and an Impact on the Future
-
-[https://www.chronicle.com/article/chinese-students-vulnerable-status-has-a-history-and-an-impact-on-the-future](https://www.chronicle.com/article/chinese-students-vulnerable-status-has-a-history-and-an-impact-on-the-future)
-
-
-<i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
-
-
-* How many international students attend NY colleges? Here’s what to know
-
-[https://www.democratandchronicle.com/story/news/2025/06/12/how-many-international-students-attend-ny-colleges-what-to-know/84050603007/](https://www.democratandchronicle.com/story/news/2025/06/12/how-many-international-students-attend-ny-colleges-what-to-know/84050603007/)
-
-
-* State Department pauses or delays interviews and approvals for student and exchange visitor visas
-
-[https://www.epi.org/policywatch/state-department-pauses-interviews-for-student-and-exchange-visitor-visas-to-do-additional-vetting-of-social-media-accounts/](https://www.epi.org/policywatch/state-department-pauses-interviews-for-student-and-exchange-visitor-visas-to-do-additional-vetting-of-social-media-accounts/)
-
-
-* State Dept. restarts student visa interviews with tougher social media rules
-
-[https://www.washingtonpost.com/national-security/2025/06/18/student-visas-social-media-vetting-state-department/](https://www.washingtonpost.com/national-security/2025/06/18/student-visas-social-media-vetting-state-department/)
-[https://www.politico.com/news/2025/06/18/social-media-screening-student-visas-00413160](https://www.politico.com/news/2025/06/18/social-media-screening-student-visas-00413160)
-[https://www.nytimes.com/2025/06/18/us/politics/student-visa-applications.html](https://www.nytimes.com/2025/06/18/us/politics/student-visa-applications.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-* DOJ Targets In-State Tuition for Noncitizens in Kentucky as Texas Students Fight Back
-
-[https://www.insidehighered.com/news/government/politics-elections/2025/06/20/after-texas-doj-targets-kentuckys-state-tuition](https://www.insidehighered.com/news/government/politics-elections/2025/06/20/after-texas-doj-targets-kentuckys-state-tuition)
-
-
-<i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
-
-
-* NYTimes: Chinese Students Reconsider the U.S. as Republicans Threaten Their Visas
-
-[https://www.nytimes.com/2025/06/07/us/politics/trump-chinese-students-visas.html](https://www.nytimes.com/2025/06/07/us/politics/trump-chinese-students-visas.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-<i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
-
-
-* Attacks on Chinese Students Could Wreak Havoc on Higher Ed
-
-[https://www.insidehighered.com/news/global/international-students-us/2025/05/30/trump-targets-chinese-students-harsh-blow-higher](https://www.insidehighered.com/news/global/international-students-us/2025/05/30/trump-targets-chinese-students-harsh-blow-higher)
-[https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students](https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students)
-
-
-* Trump administration claims Chinese students ‘exploit’ U.S. universities
-
-[https://www.washingtonpost.com/national-security/2025/06/01/china-us-students-national-security-threat/](https://www.washingtonpost.com/national-security/2025/06/01/china-us-students-national-security-threat/)
-
-
-* What the New Travel Ban Means for Higher Ed
-
-[https://www.chronicle.com/article/what-the-new-travel-ban-means-for-higher-ed](https://www.chronicle.com/article/what-the-new-travel-ban-means-for-higher-ed)
-
-
-<i class='bi bi-calendar2-range'></i> [5/30/2025](may-30.qmd)
-
-
-* The U.S. has more than 1 million foreign students. Here’s who they are.
-
-[https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/](https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/)
-
-
-* Trump team orders stop to new student visa interviews, as it weighs expanding social media vetting
-
-[https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501](https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501)
-
-
-* New Visa Policies Put America First, Not China - United States Department of State
-
-[https://www.state.gov/releases/office-of-the-spokesperson/2025/05/new-visa-policies-put-america-first-not-china/](https://www.state.gov/releases/office-of-the-spokesperson/2025/05/new-visa-policies-put-america-first-not-china/)
-[https://www.washingtonpost.com/immigration/2025/05/28/chinese-visas-applicants-trump-rubio/](https://www.washingtonpost.com/immigration/2025/05/28/chinese-visas-applicants-trump-rubio/)
-[https://www.nytimes.com/2025/05/28/us/politics/china-student-visas-revoke.html](https://www.nytimes.com/2025/05/28/us/politics/china-student-visas-revoke.html?smid=nytcore-ios-share&referringSource=articleShare)
-[https://www.wsj.com/us-news/education/state-department-marco-rubio-chinese-student-visas-fc8b7828](https://www.wsj.com/us-news/education/state-department-marco-rubio-chinese-student-visas-fc8b7828?st=StJhwo&reflink=article_gmail_share)
-
-
-* NYTimes: Trump Says Harvard Should Limit Acceptance of International Students
-
-[https://www.nytimes.com/2025/05/28/us/politics/trump-harvard-international-students.html](https://www.nytimes.com/2025/05/28/us/politics/trump-harvard-international-students.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-* Colleges Across U.S. Fear Chill on Enrollments of Foreign Students
-
-[https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students](https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students)
-
-
-* Here’s how much international students contribute to the U.S. economy
-
-[https://www.washingtonpost.com/education/2025/05/28/international-students-economic-impact-trump-harvard/](https://www.washingtonpost.com/education/2025/05/28/international-students-economic-impact-trump-harvard/)
-
-
-<i class='bi bi-calendar2-range'></i> [4/18/2025](apr-18.qmd)
-
-
-* Some foreign students fear speaking out as visa cancellations rise
-
-[https://www.washingtonpost.com/education/2025/04/12/international-students-visas-revoke-fear/](https://www.washingtonpost.com/education/2025/04/12/international-students-visas-revoke-fear/)
-
-
-* NYTimes: A Columbia Activist Sought Middle Ground on Gaza. The U.S. Detained Him.
-
-[https://www.nytimes.com/2025/04/16/nyregion/columbia-activist-mahdawi-ice-palestinian.html](https://www.nytimes.com/2025/04/16/nyregion/columbia-activist-mahdawi-ice-palestinian.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-### NIH
-
-<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
-
-
-* NYTimes: ‘The Power of Science to Solve Problems Is Almost Limitless’
-
-[https://www.nytimes.com/2025/09/22/opinion/jay-bhattacharya-nih.html](https://www.nytimes.com/2025/09/22/opinion/jay-bhattacharya-nih.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-### NSF
-
-<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
-
-
-* Under Trump, NSF faces worst crisis in its 75-year history | Science | AAAS
-
-[https://www.science.org/content/article/under-trump-nsf-faces-worst-crisis-its-75-year-history](https://www.science.org/content/article/under-trump-nsf-faces-worst-crisis-its-75-year-history)
 
 
 ## Funding cuts
@@ -2221,6 +2030,127 @@ format:
 [https://www.insidehighered.com/news/government/politics-elections/2025/04/09/nih-freezes-millions-more-funding-columbia](https://www.insidehighered.com/news/government/politics-elections/2025/04/09/nih-freezes-millions-more-funding-columbia)
 
 
+### NSF
+
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* NSF Lowers Grant Review Requirements, NIH Hunts for Phrases
+
+[https://www.insidehighered.com/news/quick-takes/2025/12/17/nsf-lowers-grant-review-requirements-nih-hunts-phrases](https://www.insidehighered.com/news/quick-takes/2025/12/17/nsf-lowers-grant-review-requirements-nih-hunts-phrases)
+
+
+<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
+
+
+* Congress Shows Resistance to Trump’s Plan to Slash Science Budgets
+
+[https://www.insidehighered.com/news/government/science-research-policy/2025/07/21/congress-shows-resistance-trumps-science-budget](https://www.insidehighered.com/news/government/science-research-policy/2025/07/21/congress-shows-resistance-trumps-science-budget)
+[https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused](https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused)
+
+
+* Federal Grant Cuts Don’t Spare Red States, New Report Shows
+
+[https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds](https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds)
+
+
+<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
+
+
+* House Appropriators Propose 23% Cut to NSF
+
+[https://www.insidehighered.com/news/quick-takes/2025/07/15/house-appropriators-propose-23-cut-nsf](https://www.insidehighered.com/news/quick-takes/2025/07/15/house-appropriators-propose-23-cut-nsf)
+
+
+<i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
+
+
+* Senate Appropriators Reject Trump’s NSF Cuts
+
+[https://www.insidehighered.com/news/government/science-research-policy/2025/07/11/senate-rejects-trumps-cuts-nsf-other-science](https://www.insidehighered.com/news/government/science-research-policy/2025/07/11/senate-rejects-trumps-cuts-nsf-other-science)
+
+
+<i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
+
+
+* NSF Indirect Cost Cap Unlawful, Judge Rules
+
+[https://www.insidehighered.com/news/quick-takes/2025/06/24/federal-judge-vacates-nsf-indirect-cost-cap](https://www.insidehighered.com/news/quick-takes/2025/06/24/federal-judge-vacates-nsf-indirect-cost-cap)
+
+
+* Trump Administration Ousts National Science Foundation from Headquarters Building
+
+[https://www.scientificamerican.com/article/trump-administration-ousts-national-science-foundation-from-headquarters/](https://www.scientificamerican.com/article/trump-administration-ousts-national-science-foundation-from-headquarters/)
+[https://www.washingtonpost.com/dc-md-va/2025/06/25/housing-hud-relocation/](https://www.washingtonpost.com/dc-md-va/2025/06/25/housing-hud-relocation/)
+
+
+<i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
+
+
+* Trump is undermining U.S. science. Here’s why that’s dangerous.
+
+[https://www.washingtonpost.com/opinions/2025/06/18/trump-science-attacks-internet/](https://www.washingtonpost.com/opinions/2025/06/18/trump-science-attacks-internet/)
+
+
+<i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
+
+
+* NATIONAL SCIENCE FOUNDATION FY 2026 Budget Request to Congress
+
+[https://nsf-gov-resources.nsf.gov/files/00-NSF-FY26-CJ-Entire-Rollup.pdf](https://nsf-gov-resources.nsf.gov/files/00-NSF-FY26-CJ-Entire-Rollup.pdf)
+
+
+<i class='bi bi-calendar2-range'></i> [5/30/2025](may-30.qmd)
+
+
+* New York sues National Science Foundation over research funding restrictions
+
+
+
+<i class='bi bi-calendar2-range'></i> [5/23/2025](may-23.qmd)
+
+
+* NSF terminates huge number of grants and stops awarding new ones
+
+[https://www.nature.com/articles/d41586-025-01513-1](https://www.nature.com/articles/d41586-025-01513-1)
+
+
+<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
+
+
+* Why I’m Resigning from the NSF and Library of Congress | TIME
+
+[https://time.com/7285045/resigning-national-science-foundation-library-congress/](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
+
+
+* NYTimes: Trump Administration Cancels Scores of Grants to Study Online Misinformation
+
+[https://www.nytimes.com/2025/05/15/business/trump-online-misinformation-grants.html](https://www.nytimes.com/2025/05/15/business/trump-online-misinformation-grants.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
+
+
+* Under Trump, National Science Foundation Cuts Off All Funding to Scientists | Scientific American
+
+[https://www.nature.com/articles/d41586-025-01396-2](https://www.nature.com/articles/d41586-025-01396-2)
+
+
+* Trump Halts Grants, Caps Indirect Costs at the National Science Foundation
+
+[https://www.chronicle.com/article/trump-halts-grants-caps-indirect-costs-at-the-national-science-foundation](https://www.chronicle.com/article/trump-halts-grants-caps-indirect-costs-at-the-national-science-foundation)
+
+
+* Universities Sue NSF Over Indirect Research Cost Policy
+
+[https://www.insidehighered.com/news/quick-takes/2025/05/07/universities-sue-nsf-over-indirect-research-cost-policy](https://www.insidehighered.com/news/quick-takes/2025/05/07/universities-sue-nsf-over-indirect-research-cost-policy)
+
+
+* Exclusive: NSF faces radical shake-up as officials abolish its 37 divisions | Science | AAAS
+
+[https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
+
+
 ### NIH
 
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
@@ -2768,119 +2698,6 @@ format:
 [https://www.insidehighered.com/news/quick-takes/2025/08/27/hhs-ends-minority-biomedical-research-support-program](https://www.insidehighered.com/news/quick-takes/2025/08/27/hhs-ends-minority-biomedical-research-support-program)
 
 
-### NSF
-
-<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
-
-
-* Congress Shows Resistance to Trump’s Plan to Slash Science Budgets
-
-[https://www.insidehighered.com/news/government/science-research-policy/2025/07/21/congress-shows-resistance-trumps-science-budget](https://www.insidehighered.com/news/government/science-research-policy/2025/07/21/congress-shows-resistance-trumps-science-budget)
-[https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused](https://www.chronicle.com/article/trump-proposed-slashing-the-national-science-foundations-budget-a-key-senate-committee-just-refused)
-
-
-* Federal Grant Cuts Don’t Spare Red States, New Report Shows
-
-[https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds](https://www.insidehighered.com/news/faculty-issues/research/2025/07/23/feds-axed-grants-across-red-blue-states-report-finds)
-
-
-<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
-
-
-* House Appropriators Propose 23% Cut to NSF
-
-[https://www.insidehighered.com/news/quick-takes/2025/07/15/house-appropriators-propose-23-cut-nsf](https://www.insidehighered.com/news/quick-takes/2025/07/15/house-appropriators-propose-23-cut-nsf)
-
-
-<i class='bi bi-calendar2-range'></i> [7/11/2025](jul-11.qmd)
-
-
-* Senate Appropriators Reject Trump’s NSF Cuts
-
-[https://www.insidehighered.com/news/government/science-research-policy/2025/07/11/senate-rejects-trumps-cuts-nsf-other-science](https://www.insidehighered.com/news/government/science-research-policy/2025/07/11/senate-rejects-trumps-cuts-nsf-other-science)
-
-
-<i class='bi bi-calendar2-range'></i> [6/27/2025](jun-27.qmd)
-
-
-* NSF Indirect Cost Cap Unlawful, Judge Rules
-
-[https://www.insidehighered.com/news/quick-takes/2025/06/24/federal-judge-vacates-nsf-indirect-cost-cap](https://www.insidehighered.com/news/quick-takes/2025/06/24/federal-judge-vacates-nsf-indirect-cost-cap)
-
-
-* Trump Administration Ousts National Science Foundation from Headquarters Building
-
-[https://www.scientificamerican.com/article/trump-administration-ousts-national-science-foundation-from-headquarters/](https://www.scientificamerican.com/article/trump-administration-ousts-national-science-foundation-from-headquarters/)
-[https://www.washingtonpost.com/dc-md-va/2025/06/25/housing-hud-relocation/](https://www.washingtonpost.com/dc-md-va/2025/06/25/housing-hud-relocation/)
-
-
-<i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
-
-
-* Trump is undermining U.S. science. Here’s why that’s dangerous.
-
-[https://www.washingtonpost.com/opinions/2025/06/18/trump-science-attacks-internet/](https://www.washingtonpost.com/opinions/2025/06/18/trump-science-attacks-internet/)
-
-
-<i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
-
-
-* NATIONAL SCIENCE FOUNDATION FY 2026 Budget Request to Congress
-
-[https://nsf-gov-resources.nsf.gov/files/00-NSF-FY26-CJ-Entire-Rollup.pdf](https://nsf-gov-resources.nsf.gov/files/00-NSF-FY26-CJ-Entire-Rollup.pdf)
-
-
-<i class='bi bi-calendar2-range'></i> [5/30/2025](may-30.qmd)
-
-
-* New York sues National Science Foundation over research funding restrictions
-
-
-
-<i class='bi bi-calendar2-range'></i> [5/23/2025](may-23.qmd)
-
-
-* NSF terminates huge number of grants and stops awarding new ones
-
-[https://www.nature.com/articles/d41586-025-01513-1](https://www.nature.com/articles/d41586-025-01513-1)
-
-
-<i class='bi bi-calendar2-range'></i> [5/16/2025](may-16.qmd)
-
-
-* Why I’m Resigning from the NSF and Library of Congress | TIME
-
-[https://time.com/7285045/resigning-national-science-foundation-library-congress/](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
-
-
-* NYTimes: Trump Administration Cancels Scores of Grants to Study Online Misinformation
-
-[https://www.nytimes.com/2025/05/15/business/trump-online-misinformation-grants.html](https://www.nytimes.com/2025/05/15/business/trump-online-misinformation-grants.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-<i class='bi bi-calendar2-range'></i> [5/9/2025](may-9.qmd)
-
-
-* Under Trump, National Science Foundation Cuts Off All Funding to Scientists | Scientific American
-
-[https://www.nature.com/articles/d41586-025-01396-2](https://www.nature.com/articles/d41586-025-01396-2)
-
-
-* Trump Halts Grants, Caps Indirect Costs at the National Science Foundation
-
-[https://www.chronicle.com/article/trump-halts-grants-caps-indirect-costs-at-the-national-science-foundation](https://www.chronicle.com/article/trump-halts-grants-caps-indirect-costs-at-the-national-science-foundation)
-
-
-* Universities Sue NSF Over Indirect Research Cost Policy
-
-[https://www.insidehighered.com/news/quick-takes/2025/05/07/universities-sue-nsf-over-indirect-research-cost-policy](https://www.insidehighered.com/news/quick-takes/2025/05/07/universities-sue-nsf-over-indirect-research-cost-policy)
-
-
-* Exclusive: NSF faces radical shake-up as officials abolish its 37 divisions | Science | AAAS
-
-[https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
-
-
 ### EPA
 
 <i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
@@ -3040,6 +2857,14 @@ format:
 
 
 ### DOE/OCR
+
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* Pomona College, UC Settle Antisemitism Allegations
+
+[https://www.insidehighered.com/news/quick-takes/2025/12/15/pomona-college-uc-settle-antisemitism-allegations](https://www.insidehighered.com/news/quick-takes/2025/12/15/pomona-college-uc-settle-antisemitism-allegations)
+
 
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
 
@@ -3440,57 +3265,15 @@ format:
 [https://www.washingtonpost.com/sports/2025/06/12/congressional-hearing-on-college-sports/](https://www.washingtonpost.com/sports/2025/06/12/congressional-hearing-on-college-sports/)
 
 
-### Admissions
-
-<i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
-
-
-* Purdue Allegedly Rejecting Chinese, Other ‘Adversary Nation’ Grad Students
-
-[https://www.insidehighered.com/news/admissions/graduate/2025/12/12/purdue-allegedly-rejecting-chinese-other-grad-students](https://www.insidehighered.com/news/admissions/graduate/2025/12/12/purdue-allegedly-rejecting-chinese-other-grad-students)
-
-
-<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
-
-
-* Why Did College Board End Best Admissions Product? (opinion)
-
-[https://www.insidehighered.com/opinion/views/2025/09/22/why-did-college-board-end-best-admissions-product-opinion](https://www.insidehighered.com/opinion/views/2025/09/22/why-did-college-board-end-best-admissions-product-opinion)
-
-
-<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
-
-
-* The Trump administration is warning schools against using application essays, geography and other “unlawful proxies” for race to achieve diverse student bodies
-
-[https://www.wsj.com/us-news/education/trumps-next-fight-with-universities-racial-proxies-in-admissions-c8677633](https://www.wsj.com/us-news/education/trumps-next-fight-with-universities-racial-proxies-in-admissions-c8677633?st=c9YJRf&reflink=article_gmail_share)
-
-
-<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
-
-
-* Dept. of Ed Clarifies What Race-Based Data Must Be Reported
-
-[https://www.insidehighered.com/news/quick-takes/2025/08/14/dept-ed-clarifies-what-race-based-data-must-be-reported](https://www.insidehighered.com/news/quick-takes/2025/08/14/dept-ed-clarifies-what-race-based-data-must-be-reported)
-
-
-<i class='bi bi-calendar2-range'></i> [8/8/2025](aug-8.qmd)
-
-
-* NYTimes: Columbia and Brown to Disclose Admissions and Race Data in Trump Deal
-
-[https://www.nytimes.com/2025/08/05/nyregion/columbia-brown-admissions-trump.html](https://www.nytimes.com/2025/08/05/nyregion/columbia-brown-admissions-trump.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
-* NYTimes: Trump Administration Live Updates: President Orders Closer Scrutiny of College Admissions Data
-
-[https://www.nytimes.com/live/2025/08/07/us/trump-news](https://www.nytimes.com/live/2025/08/07/us/trump-news?smid=nytcore-ios-share&referringSource=articleShare)
-[https://www.nytimes.com/2025/08/07/us/politics/trump-schools-race-data.html](https://www.nytimes.com/2025/08/07/us/politics/trump-schools-race-data.html?smid=nytcore-ios-share&referringSource=articleShare)
-[https://www.insidehighered.com/news/admissions/traditional-age/2025/08/07/trump-orders-colleges-supply-data-race-admissions](https://www.insidehighered.com/news/admissions/traditional-age/2025/08/07/trump-orders-colleges-supply-data-race-admissions)
-[https://www.chronicle.com/article/trump-begins-hunt-for-bogeyman-in-admissions-data](https://www.chronicle.com/article/trump-begins-hunt-for-bogeyman-in-admissions-data)
-
-
 ### Accreditation
+
+<i class='bi bi-calendar2-range'></i> [12/19/2025](dec-19.qmd)
+
+
+* ‘Buckle Up’: Trump Official Pledges to Fix Accreditation
+
+[https://www.insidehighered.com/news/governance/accreditation/2025/12/17/kent-tells-accreditation-panel-buckle](https://www.insidehighered.com/news/governance/accreditation/2025/12/17/kent-tells-accreditation-panel-buckle)
+
 
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
 
@@ -3590,6 +3373,56 @@ format:
 * Despite Reservations, Florida Approves New Accreditor
 
 [https://www.insidehighered.com/news/government/state-policy/2025/07/11/despite-reservations-florida-bog-approves-new-accreditor](https://www.insidehighered.com/news/government/state-policy/2025/07/11/despite-reservations-florida-bog-approves-new-accreditor)
+
+
+### Admissions
+
+<i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
+
+
+* Purdue Allegedly Rejecting Chinese, Other ‘Adversary Nation’ Grad Students
+
+[https://www.insidehighered.com/news/admissions/graduate/2025/12/12/purdue-allegedly-rejecting-chinese-other-grad-students](https://www.insidehighered.com/news/admissions/graduate/2025/12/12/purdue-allegedly-rejecting-chinese-other-grad-students)
+
+
+<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
+
+
+* Why Did College Board End Best Admissions Product? (opinion)
+
+[https://www.insidehighered.com/opinion/views/2025/09/22/why-did-college-board-end-best-admissions-product-opinion](https://www.insidehighered.com/opinion/views/2025/09/22/why-did-college-board-end-best-admissions-product-opinion)
+
+
+<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
+
+
+* The Trump administration is warning schools against using application essays, geography and other “unlawful proxies” for race to achieve diverse student bodies
+
+[https://www.wsj.com/us-news/education/trumps-next-fight-with-universities-racial-proxies-in-admissions-c8677633](https://www.wsj.com/us-news/education/trumps-next-fight-with-universities-racial-proxies-in-admissions-c8677633?st=c9YJRf&reflink=article_gmail_share)
+
+
+<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
+
+
+* Dept. of Ed Clarifies What Race-Based Data Must Be Reported
+
+[https://www.insidehighered.com/news/quick-takes/2025/08/14/dept-ed-clarifies-what-race-based-data-must-be-reported](https://www.insidehighered.com/news/quick-takes/2025/08/14/dept-ed-clarifies-what-race-based-data-must-be-reported)
+
+
+<i class='bi bi-calendar2-range'></i> [8/8/2025](aug-8.qmd)
+
+
+* NYTimes: Columbia and Brown to Disclose Admissions and Race Data in Trump Deal
+
+[https://www.nytimes.com/2025/08/05/nyregion/columbia-brown-admissions-trump.html](https://www.nytimes.com/2025/08/05/nyregion/columbia-brown-admissions-trump.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+* NYTimes: Trump Administration Live Updates: President Orders Closer Scrutiny of College Admissions Data
+
+[https://www.nytimes.com/live/2025/08/07/us/trump-news](https://www.nytimes.com/live/2025/08/07/us/trump-news?smid=nytcore-ios-share&referringSource=articleShare)
+[https://www.nytimes.com/2025/08/07/us/politics/trump-schools-race-data.html](https://www.nytimes.com/2025/08/07/us/politics/trump-schools-race-data.html?smid=nytcore-ios-share&referringSource=articleShare)
+[https://www.insidehighered.com/news/admissions/traditional-age/2025/08/07/trump-orders-colleges-supply-data-race-admissions](https://www.insidehighered.com/news/admissions/traditional-age/2025/08/07/trump-orders-colleges-supply-data-race-admissions)
+[https://www.chronicle.com/article/trump-begins-hunt-for-bogeyman-in-admissions-data](https://www.chronicle.com/article/trump-begins-hunt-for-bogeyman-in-admissions-data)
 
 
 ### Harvard
@@ -5428,6 +5261,323 @@ format:
 [https://www.wsj.com/us-news/education/colleges-hope-to-stave-off-big-tax-hike-by-pledging-to-spend-more-endowment-cash-353606fb](https://www.wsj.com/us-news/education/colleges-hope-to-stave-off-big-tax-hike-by-pledging-to-spend-more-endowment-cash-353606fb?st=FTbBSQ&reflink=article_gmail_share)
 
 
+## Visas
+
+<i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
+
+
+* University, ICE Clash Over Details of Student’s Arrest
+
+[https://www.insidehighered.com/news/quick-takes/2025/12/10/university-ice-clash-over-details-students-arrest](https://www.insidehighered.com/news/quick-takes/2025/12/10/university-ice-clash-over-details-students-arrest)
+
+
+<i class='bi bi-calendar2-range'></i> [11/21/2025](nov-21.qmd)
+
+
+* NYTimes: New International Student Enrollments Plummeted This Fall, Survey Finds
+
+[https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html](https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html?smid=nytcore-ios-share&referringSource=articleShare)
+[https://insidehighered.com/news/global/international-students-us/2025/11/17/fewer-international-students-came-us-fall](https://insidehighered.com/news/global/international-students-us/2025/11/17/fewer-international-students-came-us-fall)
+[https://www.chronicle.com/article/international-students-were-already-shunning-u-s-colleges-before-trump-new-data-show](https://www.chronicle.com/article/international-students-were-already-shunning-u-s-colleges-before-trump-new-data-show)
+
+
+<i class='bi bi-calendar2-range'></i> [10/31/2025](oct-31.qmd)
+
+
+* ASSOCIATION OF AMERICAN UNIVERSITIES and CHAMBER OF COMMERCE OF THEUNITED STATES OF AMERICA join forces to sue over H1-B visa changes
+
+[https://www.documentcloud.org/documents/26197067-chamberaauamendcomp102425/](https://www.documentcloud.org/documents/26197067-chamberaauamendcomp102425/)
+
+
+* DeSantis to Fla. Universities: Pull the Plug on H-1B Workers
+
+[https://www.insidehighered.com/news/faculty-issues/2025/10/29/desantis-fla-universities-pull-plug-h-1b-workers](https://www.insidehighered.com/news/faculty-issues/2025/10/29/desantis-fla-universities-pull-plug-h-1b-workers)
+
+
+<i class='bi bi-calendar2-range'></i> [10/10/2025](oct-10.qmd)
+
+
+* International Student Arrivals Drop 19%
+
+[https://www.insidehighered.com/news/global/international-students-us/2025/10/07/international-student-arrivals-drop-19](https://www.insidehighered.com/news/global/international-students-us/2025/10/07/international-student-arrivals-drop-19)
+
+
+* AAUP, Other Unions Sue Trump Admin Over H-1B Fee
+
+[https://www.insidehighered.com/news/quick-takes/2025/10/08/aaup-other-unions-sue-trump-admin-over-h-1b-fee](https://www.insidehighered.com/news/quick-takes/2025/10/08/aaup-other-unions-sue-trump-admin-over-h-1b-fee)
+
+
+<i class='bi bi-calendar2-range'></i> [10/3/2025](oct-3.qmd)
+
+
+* Judge excoriates Trump in blistering decision calling efforts to deport pro-Palestinian academics illegal
+
+[https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114](https://www.politico.com/news/2025/09/30/judge-young-ruling-trump-deportation-free-speech-00588114)
+[https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf](https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0.pdf)
+[https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal](https://www.chronicle.com/article/students-and-scholars-faced-deportation-for-pro-palestinian-activism-a-judge-says-that-was-illegal)
+
+
+* U.S. assigned a specialized immigration team to target campus protesters
+
+[https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/](https://www.washingtonpost.com/nation/2025/10/02/trump-administration-university-pro-palestine-activists/)
+
+
+<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
+
+
+* Are CUNY visa applicants being told no?
+
+
+
+* Trump administration to add  100 ,000 fee for H-1B visas - CBS News
+
+[https://www.cbsnews.com/news/trump-h1b-visa-bill-100000-fee/](https://www.cbsnews.com/news/trump-h1b-visa-bill-100000-fee/)
+[https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html](https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html)
+[https://www.chronicle.com/article/what-trumps-100-000-fee-for-skilled-worker-visas-could-mean-for-higher-ed](https://www.chronicle.com/article/what-trumps-100-000-fee-for-skilled-worker-visas-could-mean-for-higher-ed)
+
+
+* International-student enrollment is sagging at many U.S. universities, particularly at the master’s level
+
+[https://www.wsj.com/us-news/education/international-student-enrollment-decline-college-ad13f943](https://www.wsj.com/us-news/education/international-student-enrollment-decline-college-ad13f943?st=FSLVfk&reflink=article_gmail_share)
+[https://www.insidehighered.com/news/global/international-students-us/2025/09/23/international-enrollment-down-small-regional](https://www.insidehighered.com/news/global/international-students-us/2025/09/23/international-enrollment-down-small-regional)
+
+
+<i class='bi bi-calendar2-range'></i> [9/12/2025](sep-12.qmd)
+
+
+* Even as Classes Begin, Some Foreign Students Are Still in Visa Limbo
+
+[https://www.chronicle.com/article/even-as-classes-begin-some-foreign-students-are-still-in-visa-limbo](https://www.chronicle.com/article/even-as-classes-begin-some-foreign-students-are-still-in-visa-limbo)
+
+
+* Supporting Our Students: Part Four
+
+[https://www1.cuny.edu/sites/cunyufs/2025/09/08/supporting-our-students-part-four/](https://www1.cuny.edu/sites/cunyufs/2025/09/08/supporting-our-students-part-four/)
+
+
+<i class='bi bi-calendar2-range'></i> [9/5/2025](sep-5.qmd)
+
+
+* DOJ Sues Illinois Over In-State Tuition for Noncitizens
+
+[https://www.insidehighered.com/news/quick-takes/2025/09/04/doj-sues-illinois-over-state-tuition-noncitizens](https://www.insidehighered.com/news/quick-takes/2025/09/04/doj-sues-illinois-over-state-tuition-noncitizens)
+
+
+<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
+
+
+* After Texas relents, Trump seeks to widen ban on in-state tuition for noncitizens
+
+[https://www.washingtonpost.com/education/2025/08/25/in-state-tuition-undocumented-students-texas/](https://www.washingtonpost.com/education/2025/08/25/in-state-tuition-undocumented-students-texas/)
+
+
+* Visa Delays Persist, Causing Some Students to Defer to Spring
+
+[https://www.insidehighered.com/news/global/international-students-us/2025/08/27/international-students-face-visa-issues-fall](https://www.insidehighered.com/news/global/international-students-us/2025/08/27/international-students-face-visa-issues-fall)
+
+
+* rump Deals A New Immigration Blow To International Students
+
+[https://www.forbes.com/sites/stuartanderson/2025/08/28/trump-deals-a-new-immigration-blow-to-international-students/](https://www.forbes.com/sites/stuartanderson/2025/08/28/trump-deals-a-new-immigration-blow-to-international-students/)
+
+
+* NYTimes: International Student Enrollments Stay Steady at Columbia and Princeton
+
+[https://www.nytimes.com/2025/08/29/us/international-students-race-affirmative-action-princeton-columbia.html](https://www.nytimes.com/2025/08/29/us/international-students-race-affirmative-action-princeton-columbia.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+<i class='bi bi-calendar2-range'></i> [8/22/2025](aug-22.qmd)
+
+
+* Many U.S. Colleges May Close Without Immigrants And International Students, Report Finds
+
+[https://www.forbes.com/sites/stuartanderson/2025/08/14/many-colleges-may-close-without-immigrants-and-international-students/](https://www.forbes.com/sites/stuartanderson/2025/08/14/many-colleges-may-close-without-immigrants-and-international-students/)
+
+
+* Trump administration has revoked 6,000 student visas, official says - The Washington Post
+
+[https://www.washingtonpost.com/education/2025/08/19/student-visas-revoked-6000-trump/](https://www.washingtonpost.com/education/2025/08/19/student-visas-revoked-6000-trump/)
+
+
+* NYTimes: Trump’s Tactics Mean Many International Students Won’t Make It to Campus
+
+[https://www.nytimes.com/2025/08/20/us/trump-visa-vetting-international-students.html](https://www.nytimes.com/2025/08/20/us/trump-visa-vetting-international-students.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+* More Barriers on the Horizon for International Students
+
+[https://www.insidehighered.com/news/global/international-students-us/2025/08/20/more-barriers-horizon-international-students](https://www.insidehighered.com/news/global/international-students-us/2025/08/20/more-barriers-horizon-international-students)
+
+
+<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
+
+
+* Trump “Chipping Away” at DACA and Other Protections
+
+[https://www.insidehighered.com/news/government/politics-elections/2025/08/14/trump-chipping-away-daca-and-other-protections](https://www.insidehighered.com/news/government/politics-elections/2025/08/14/trump-chipping-away-daca-and-other-protections)
+
+
+<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
+
+
+* This new  250  visa fee applies to international student visas too.
+
+[https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html](https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html)
+
+
+* A Trial Over Campus Protest Ends with Conflicting Views of Foreign Students’ Free-Speech Rights
+
+[https://www.chronicle.com/article/a-trial-over-campus-protest-ends-with-conflicting-views-of-foreign-students-free-speech-rights](https://www.chronicle.com/article/a-trial-over-campus-protest-ends-with-conflicting-views-of-foreign-students-free-speech-rights)
+
+
+* NYTimes: Trump’s Student Arrests, and the Lawsuit Fighting Them, Tread New Ground
+
+[https://www.nytimes.com/2025/07/22/us/politics/trump-student-arrests-immigration-trial.html](https://www.nytimes.com/2025/07/22/us/politics/trump-student-arrests-immigration-trial.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+* NYTimes: State Dept. Opens Investigation Into Harvard’s Use of International Visas
+
+[https://www.nytimes.com/2025/07/23/us/politics/state-department-trump-harvard.html](https://www.nytimes.com/2025/07/23/us/politics/state-department-trump-harvard.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
+
+
+* State Department official defends canceling visas of pro-Palestinian academics - POLITICO
+
+[https://www.politico.com/news/2025/07/11/state-official-testimony-trump-deportations-00449634](https://www.politico.com/news/2025/07/11/state-official-testimony-trump-deportations-00449634)
+[https://knightcolumbia.org/cases/aaup-v-rubio](https://knightcolumbia.org/cases/aaup-v-rubio)
+
+
+<i class='bi bi-calendar2-range'></i> [7/4/2025](jul-4.qmd)
+
+
+* Chinese Students’ Vulnerable Status Has a History — and an Impact on the Future
+
+[https://www.chronicle.com/article/chinese-students-vulnerable-status-has-a-history-and-an-impact-on-the-future](https://www.chronicle.com/article/chinese-students-vulnerable-status-has-a-history-and-an-impact-on-the-future)
+
+
+<i class='bi bi-calendar2-range'></i> [6/20/2025](jun-20.qmd)
+
+
+* How many international students attend NY colleges? Here’s what to know
+
+[https://www.democratandchronicle.com/story/news/2025/06/12/how-many-international-students-attend-ny-colleges-what-to-know/84050603007/](https://www.democratandchronicle.com/story/news/2025/06/12/how-many-international-students-attend-ny-colleges-what-to-know/84050603007/)
+
+
+* State Department pauses or delays interviews and approvals for student and exchange visitor visas
+
+[https://www.epi.org/policywatch/state-department-pauses-interviews-for-student-and-exchange-visitor-visas-to-do-additional-vetting-of-social-media-accounts/](https://www.epi.org/policywatch/state-department-pauses-interviews-for-student-and-exchange-visitor-visas-to-do-additional-vetting-of-social-media-accounts/)
+
+
+* State Dept. restarts student visa interviews with tougher social media rules
+
+[https://www.washingtonpost.com/national-security/2025/06/18/student-visas-social-media-vetting-state-department/](https://www.washingtonpost.com/national-security/2025/06/18/student-visas-social-media-vetting-state-department/)
+[https://www.politico.com/news/2025/06/18/social-media-screening-student-visas-00413160](https://www.politico.com/news/2025/06/18/social-media-screening-student-visas-00413160)
+[https://www.nytimes.com/2025/06/18/us/politics/student-visa-applications.html](https://www.nytimes.com/2025/06/18/us/politics/student-visa-applications.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+* DOJ Targets In-State Tuition for Noncitizens in Kentucky as Texas Students Fight Back
+
+[https://www.insidehighered.com/news/government/politics-elections/2025/06/20/after-texas-doj-targets-kentuckys-state-tuition](https://www.insidehighered.com/news/government/politics-elections/2025/06/20/after-texas-doj-targets-kentuckys-state-tuition)
+
+
+<i class='bi bi-calendar2-range'></i> [6/13/2025](jun-13.qmd)
+
+
+* NYTimes: Chinese Students Reconsider the U.S. as Republicans Threaten Their Visas
+
+[https://www.nytimes.com/2025/06/07/us/politics/trump-chinese-students-visas.html](https://www.nytimes.com/2025/06/07/us/politics/trump-chinese-students-visas.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+<i class='bi bi-calendar2-range'></i> [6/6/2025](jun-6.qmd)
+
+
+* Attacks on Chinese Students Could Wreak Havoc on Higher Ed
+
+[https://www.insidehighered.com/news/global/international-students-us/2025/05/30/trump-targets-chinese-students-harsh-blow-higher](https://www.insidehighered.com/news/global/international-students-us/2025/05/30/trump-targets-chinese-students-harsh-blow-higher)
+[https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students](https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students)
+
+
+* Trump administration claims Chinese students ‘exploit’ U.S. universities
+
+[https://www.washingtonpost.com/national-security/2025/06/01/china-us-students-national-security-threat/](https://www.washingtonpost.com/national-security/2025/06/01/china-us-students-national-security-threat/)
+
+
+* What the New Travel Ban Means for Higher Ed
+
+[https://www.chronicle.com/article/what-the-new-travel-ban-means-for-higher-ed](https://www.chronicle.com/article/what-the-new-travel-ban-means-for-higher-ed)
+
+
+<i class='bi bi-calendar2-range'></i> [5/30/2025](may-30.qmd)
+
+
+* The U.S. has more than 1 million foreign students. Here’s who they are.
+
+[https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/](https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/)
+
+
+* Trump team orders stop to new student visa interviews, as it weighs expanding social media vetting
+
+[https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501](https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501)
+
+
+* New Visa Policies Put America First, Not China - United States Department of State
+
+[https://www.state.gov/releases/office-of-the-spokesperson/2025/05/new-visa-policies-put-america-first-not-china/](https://www.state.gov/releases/office-of-the-spokesperson/2025/05/new-visa-policies-put-america-first-not-china/)
+[https://www.washingtonpost.com/immigration/2025/05/28/chinese-visas-applicants-trump-rubio/](https://www.washingtonpost.com/immigration/2025/05/28/chinese-visas-applicants-trump-rubio/)
+[https://www.nytimes.com/2025/05/28/us/politics/china-student-visas-revoke.html](https://www.nytimes.com/2025/05/28/us/politics/china-student-visas-revoke.html?smid=nytcore-ios-share&referringSource=articleShare)
+[https://www.wsj.com/us-news/education/state-department-marco-rubio-chinese-student-visas-fc8b7828](https://www.wsj.com/us-news/education/state-department-marco-rubio-chinese-student-visas-fc8b7828?st=StJhwo&reflink=article_gmail_share)
+
+
+* NYTimes: Trump Says Harvard Should Limit Acceptance of International Students
+
+[https://www.nytimes.com/2025/05/28/us/politics/trump-harvard-international-students.html](https://www.nytimes.com/2025/05/28/us/politics/trump-harvard-international-students.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+* Colleges Across U.S. Fear Chill on Enrollments of Foreign Students
+
+[https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students](https://www.chronicle.com/article/colleges-across-u-s-fear-chill-on-enrollments-of-foreign-students)
+
+
+* Here’s how much international students contribute to the U.S. economy
+
+[https://www.washingtonpost.com/education/2025/05/28/international-students-economic-impact-trump-harvard/](https://www.washingtonpost.com/education/2025/05/28/international-students-economic-impact-trump-harvard/)
+
+
+<i class='bi bi-calendar2-range'></i> [4/18/2025](apr-18.qmd)
+
+
+* Some foreign students fear speaking out as visa cancellations rise
+
+[https://www.washingtonpost.com/education/2025/04/12/international-students-visas-revoke-fear/](https://www.washingtonpost.com/education/2025/04/12/international-students-visas-revoke-fear/)
+
+
+* NYTimes: A Columbia Activist Sought Middle Ground on Gaza. The U.S. Detained Him.
+
+[https://www.nytimes.com/2025/04/16/nyregion/columbia-activist-mahdawi-ice-palestinian.html](https://www.nytimes.com/2025/04/16/nyregion/columbia-activist-mahdawi-ice-palestinian.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
+### NSF
+
+<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
+
+
+* Under Trump, NSF faces worst crisis in its 75-year history | Science | AAAS
+
+[https://www.science.org/content/article/under-trump-nsf-faces-worst-crisis-its-75-year-history](https://www.science.org/content/article/under-trump-nsf-faces-worst-crisis-its-75-year-history)
+
+
+### NIH
+
+<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
+
+
+* NYTimes: ‘The Power of Science to Solve Problems Is Almost Limitless’
+
+[https://www.nytimes.com/2025/09/22/opinion/jay-bhattacharya-nih.html](https://www.nytimes.com/2025/09/22/opinion/jay-bhattacharya-nih.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+
 ## Blowback
 
 <i class='bi bi-calendar2-range'></i> [12/12/2025](dec-12.qmd)
@@ -5920,11 +6070,6 @@ format:
 * To AI-proof exams, professors turn to the oldest technique of all
 
 [https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)
-
-
-* The LMS Is Dead; Long Live Online Teaching
-
-[https://www.insidehighered.com/opinion/career-advice/teaching/2025/12/12/lms-dead-long-live-online-teaching-opinion](https://www.insidehighered.com/opinion/career-advice/teaching/2025/12/12/lms-dead-long-live-online-teaching-opinion)
 
 
 <i class='bi bi-calendar2-range'></i> [12/5/2025](dec-5.qmd)
@@ -7044,78 +7189,6 @@ format:
 [https://us06web.zoom.us/webinar/register/WN_SwJINs5xRWOzxQarIH1OvA#/registration](https://us06web.zoom.us/webinar/register/WN_SwJINs5xRWOzxQarIH1OvA#/registration)
 
 
-## Shared governance
-
-<i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
-
-
-* On Title VI, Discrimination, and Academic Freedom
-
-[https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/title-vi-discrimination-and-academic](https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/title-vi-discrimination-and-academic?link_id=1&can_id=7972d9c8790a906a068fba11ce31c6a1&source=email-new-report-on-title-vi-out-today&email_referrer=email_2898804&email_subject=new-report-on-title-vi-out-today&&)
-
-
-* Is the AAUP Too Partisan? Its President Doesn’t Think So.
-
-[https://www.chronicle.com/article/is-the-aaup-too-partisan-its-president-doesnt-think-so](https://www.chronicle.com/article/is-the-aaup-too-partisan-its-president-doesnt-think-so)
-
-
-<i class='bi bi-calendar2-range'></i> [9/12/2025](sep-12.qmd)
-
-
-* After a Messy Shared-Governance Effort, U. of Oregon Spares Programs and Some Faculty
-
-[https://www.chronicle.com/article/after-a-messy-shared-governance-effort-u-of-oregon-spares-programs-and-some-faculty](https://www.chronicle.com/article/after-a-messy-shared-governance-effort-u-of-oregon-spares-programs-and-some-faculty)
-
-
-<i class='bi bi-calendar2-range'></i> [8/29/2025](aug-29.qmd)
-
-
-* University of Texas System ends faculty senates to comply with SB 37
-
-[https://www.statesman.com/news/education/article/university-texas-system-faculty-senate-abolish-20822502.php](https://www.statesman.com/news/education/article/university-texas-system-faculty-senate-abolish-20822502.php)
-
-
-<i class='bi bi-calendar2-range'></i> [8/22/2025](aug-22.qmd)
-
-
-* Tex. Boards Abolish Faculty Senates, Create Toothless Councils
-
-[https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/08/22/tex-boards-abolish-faculty-senates-create](https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/08/22/tex-boards-abolish-faculty-senates-create)
-
-
-<i class='bi bi-calendar2-range'></i> [8/15/2025](aug-15.qmd)
-
-
-* Texas State U System Lets Law End Faculty Senates, for Now
-
-[https://www.insidehighered.com/news/quick-takes/2025/08/11/texas-state-u-system-lets-law-end-faculty-senates-now](https://www.insidehighered.com/news/quick-takes/2025/08/11/texas-state-u-system-lets-law-end-faculty-senates-now)
-
-
-<i class='bi bi-calendar2-range'></i> [7/25/2025](jul-25.qmd)
-
-
-* Report: Faculty Often Missing From University Decisions on AI
-
-[https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/07/22/faculty-often-missing-university-decisions-ai](https://www.insidehighered.com/news/faculty-issues/shared-governance/2025/07/22/faculty-often-missing-university-decisions-ai)
-[https://engageai.org/wp-content/uploads/sites/125/2025/04/An-AI-Bill-of-Rights-for-Educators-Revision-2025.03.28-2.pdf](https://engageai.org/wp-content/uploads/sites/125/2025/04/An-AI-Bill-of-Rights-for-Educators-Revision-2025.03.28-2.pdf)
-
-
-<i class='bi bi-calendar2-range'></i> [7/18/2025](jul-18.qmd)
-
-
-* New Report on the State of Academic Governance in Community Colleges
-
-[https://www.aaup.org/news/new-report-state-academic-governance-community-colleges](https://www.aaup.org/news/new-report-state-academic-governance-community-colleges)
-
-
-<i class='bi bi-calendar2-range'></i> [4/11/2025](apr-11.qmd)
-
-
-* Ohio Budget Bill Could Enact Even More Higher Ed Changes
-
-[https://www.insidehighered.com/news/quick-takes/2025/04/08/ohio-budget-bill-could-enact-even-more-higher-ed-changes](https://www.insidehighered.com/news/quick-takes/2025/04/08/ohio-budget-bill-could-enact-even-more-higher-ed-changes)
-
-
 ## And just because it is fun
 
 <i class='bi bi-calendar2-range'></i> [9/26/2025](sep-26.qmd)
@@ -7196,16 +7269,6 @@ format:
 [https://www.insidehighered.com/news/government/student-aid-policy/2025/06/26/education-department-outlines-plan-change-pslf-rules](https://www.insidehighered.com/news/government/student-aid-policy/2025/06/26/education-department-outlines-plan-change-pslf-rules)
 
 
-### Admissions
-
-<i class='bi bi-calendar2-range'></i> [9/5/2025](sep-5.qmd)
-
-
-* NYTimes: The Excruciating Question Confronting Black College Applicants
-
-[https://www.nytimes.com/2025/09/01/opinion/college-essay-post-affirmative-action.html](https://www.nytimes.com/2025/09/01/opinion/college-essay-post-affirmative-action.html?smid=nytcore-ios-share&referringSource=articleShare)
-
-
 ### Accreditation
 
 <i class='bi bi-calendar2-range'></i> [9/5/2025](sep-5.qmd)
@@ -7214,6 +7277,16 @@ format:
 * How UNC Led a First-of-Its-Kind Plan to Shake Up College Accreditation
 
 [https://www.chronicle.com/article/how-unc-led-a-first-of-its-kind-plan-to-shake-up-college-accreditation](https://www.chronicle.com/article/how-unc-led-a-first-of-its-kind-plan-to-shake-up-college-accreditation)
+
+
+### Admissions
+
+<i class='bi bi-calendar2-range'></i> [9/5/2025](sep-5.qmd)
+
+
+* NYTimes: The Excruciating Question Confronting Black College Applicants
+
+[https://www.nytimes.com/2025/09/01/opinion/college-essay-post-affirmative-action.html](https://www.nytimes.com/2025/09/01/opinion/college-essay-post-affirmative-action.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 
 ### Harvard
