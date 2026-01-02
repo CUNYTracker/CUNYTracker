@@ -13,7 +13,9 @@ website:
       - text: "----"
       - href: jan-2-2025.qmd
         text: "Jan 2"
-      - text: "---- 2024 ...."
+      - text: "----"
+      - text: "**2024**"
+      - text: "----"
       - href: dec-19.qmd
         text: "Dec 19"
       - href: dec-12.qmd
