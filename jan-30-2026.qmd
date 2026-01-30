@@ -1,0 +1,330 @@
+# Jan 30
+
+Please find a partial summary of some of the actions taken by the federal government as relates to Higher Education in general and CUNY in specific in the past week.
+
+Thanks to VAC for contributions this week.
+
+
+## Shared governance
+
+* Tenure Under Threat
+
+[https://www.insidehighered.com/news/faculty-issues/tenure/2026/01/26/tenure-under-threat](https://www.insidehighered.com/news/faculty-issues/tenure/2026/01/26/tenure-under-threat)
+
+(Thanks VAC!)
+
+> A few years ago, this story—a tenured professor fired publicly without notice or due process for asking a rhetorical question during an unaffiliated talk—would have dominated the higher education news cycle for weeks. In fact, it was such a rare occurrence that the names of those removed for similar speech incidents gained legendary status in academic circles. I
+
+> But Alter’s story was quickly overshadowed by a bigger one: He was fired the same day that conservative commentator Charlie Kirk was shot and killed during a campus event at Utah Valley University, sparking a more dramatic wave of faculty removals. Like many Americans, faculty took to social media to voice their opinions on Kirk. Under pressure from right-wing politicians and online activists, universities in conservative states responded with academic Jedburgh justice: punish first, ask questions later.
+
+> Tenure was of little help. One of the most unusual and coveted perks of an academic career, tenure historically has come with two key benefits: job security and protection from dismissal or discipline over unpopular ideas, said Deepa Das Acevedo, a legal anthropologist and tenure researcher at Emory University. But the speed and ease with which universities dismissed their faculty for personal speech exposed the tenure system’s corroded foundation, worn away by years of encroaching state policies, administrative leadership changes and a cultural shift in how the American public thinks about academia. Now faculty are left to wonder: Has the drastic politicization of the country, combined with the Trump administration’s relentless attacks on higher ed, rendered tenure moot?
+
+> In 2014, then–Wisconsin governor Scott Walker challenged the “Wisconsin Idea,” the state’s century-old philosophy that all citizens should benefit from knowledge produced by the university system and that “basic to every purpose of the system is the search for truth.” He wanted the university to orient its mission toward meeting the state’s workforce needs
+
+> Between 2012 and 2022, state legislatures considered 13 tenure bans and 3,000 bills that addressed faculty or tenure in some way, according to a 2025 study by University of North Texas professor of higher education Barrett Taylor and Ph.D. student Kimberly Watts. The outright tenure bans proved largely unpopular—to date, no state has fully eliminated tenure for faculty—but many evolved into laws that sought to weaken tenure’s protections without getting rid of the status entirely.
+
+> In 2022, Florida enacted a law that green-lighted post-tenure review at public institutions. In 2023, while conservatives fumed over critical race theory, Texas enacted Senate Bill 18, which broadened the grounds for terminating a tenured professor to include “exhibit[ing] professional incompetence” and engaging in ill-defined “conduct involving moral turpitude,” among other reasons.
+
+>  Ohio’s Senate Bill 1 and Kentucky’s House Bill 4, which both took effect in 2025, implemented post-tenure review for public university faculty. In December, the South Dakota Board of Regents also adopted a post-tenure review policy.
+
+> William Paterson University in New Jersey laid off 13 tenured or tenure-track professors mid-pandemic in 2021 and proposed cutting an additional 150 professors over the course of three years, even though the institution never formally declared financial exigency. Also in 2021, the Kansas Board of Regents voted to allow its universities to terminate employees, including tenured professors, without declaring financial exigency. In 2024, the University of Wisconsin Board of Regents voted to lay off 35 tenured faculty members in University of Wisconsin–Milwaukee’s now-shuttered College of General Studies—a decision that Walker’s 2015 efforts allowed for.
+
+## Academic freedom
+
+* Lectures on Race Canceled at Arkansas-Little Rock
+
+[https://www.insidehighered.com/news/quick-takes/2026/01/27/lectures-race-canceled-arkansas-little-rock](https://www.insidehighered.com/news/quick-takes/2026/01/27/lectures-race-canceled-arkansas-little-rock)
+
+> Professors at the University of Arkansas at Little Rock have nixed plans to participate in history lectures on racism and racial equity, due to censorship concerns, the Arkansas Times reported.
+
+> The newspaper reported that professors first raised concerns last month when the university scrubbed mentions of an upcoming “Evenings with History” lecture series from the university website. Administrators were reportedly concerned that two of the lectures could prompt scrutiny from state officials, specifically a February lecture titled “Race, Ethnicity, Gender, and the Death Penalty in Arkansas and the United States,” and a discussion with David Roediger about his memoir, which is titled “An Ordinary White: My Antiracist Education” scheduled for April.
+
+> The move adds to academic freedom concerns in the University of Arkansas System after officials rescinded a job offer to Emily Suski, who was set to become dean of the law school, over political backlash. Officials pulled the offer after lawmakers raised concerns about the fact that Suski had signed an amicus brief supporting transgender athletes.
+
+* Florida Introduces ‘Sanitized’ Sociology Textbook
+
+[https://www.insidehighered.com/news/faculty-issues/academic-freedom/2026/01/29/florida-introduces-sanitized-sociology-textbook](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2026/01/29/florida-introduces-sanitized-sociology-textbook)
+
+> Sociology faculty at Florida International University are outraged that their department is requiring them to use a state-approved textbook to teach an introductory course as part of the university’s general education curriculum.
+
+> They say the state’s process for developing the textbook and new course framework was opaque, rushed and designed to pressure universities into adopting censored learning materials without a legal directive to do so.
+
+> Furthermore, the textbook—a heavily edited version of an open-source sociology textbook titled Introduction to Sociology 3e—now makes only cursory mentions of important sociological concepts regarding race, gender, sexuality and other topics that have drawn Republican ire. Faculty say it whitewashes the field’s key principles, diminishes the quality of education for students and intensifies the state’s attacks on academic freedom.
+
+> Inside Higher Ed reviewed a copy of both the original textbook and the new one and found numerous substantive changes.
+
+> Compared to the original 669-page textbook, the new version is just 267 pages. Unlike the original, the state-approved version doesn’t include chapters on media and technology, global inequality, race and ethnicity, social stratification, or gender, sex and sexuality. It also scraps a section on the government-led genocide of Native Americans. And while the original uses the word “transgender” 68 times and “racism” 115 times, the former term appears only once in the new textbook and the latter six times.
+
+> And based on what he [Robert Cassanello, president of the United Faculty of Florida] knows, Florida’s attempts to control university course content probably won’t stop with sociology.
+
+> “I have it on good authority that next year they’re going to look at the psychology and American history textbooks,” Cassanello said. “It’s an assault on critical thinking.”
+
+* UNC Plans to Define Academic Freedom—and Its Limits
+
+[https://www.insidehighered.com/news/faculty-issues/academic-freedom/2026/01/29/unc-plans-define-what-academic-freedom-and-isnt](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2026/01/29/unc-plans-define-what-academic-freedom-and-isnt)
+
+> In 2024, the chair of the statewide University of North Carolina Faculty Assembly and the UNC state system embarked on a fraught mission at a fraught time: writing “a consensus definition” of academic freedom for the entire university system.
+
+> Academic freedom scholars have themselves long disagreed over what academic freedom does and doesn’t protect. And UNC’s mission came at a time of increased attacks on the concept from the federal and state governments as well as institutions. (The UNC system itself has been accused of infringing academic freedom.)
+
+> Now, late next month—more than a year after the effort began—the UNC Board of Governors is set to vote on a lengthy definition. It promises many of the protections contained in other descriptions of academic freedom, but it’s drawn opposition from the state’s American Association of University Professors arm over both the express limits it places on that freedom and what the AAUP calls vague language that could be used to further restrict classroom teaching.
+
+[https://www.northcarolina.edu/apps/bog/doc.php?id=68628&code=bog](https://www.northcarolina.edu/apps/bog/doc.php?id=68628&code=bog)
+
+(Since space is cheap, I'll quote the three pages here:
+
+> SECTION 601. ACADEMIC FREEDOM AND RESPONSIBILITY.
+
+> SECTION 601 A. ACADEMIC FREEDOM AND RESPONSIBILITY OF FACULTY.
+
+> It is the policy of the University of North Carolina System to support and encourage full freedom, within the law, of inquiry, discourse, teaching, research, and publication for all members of the academic staffs of the constituent institutions. Members of the faculty are expected to recognize that accuracy, forthrightness, and dignity befit their association with the University and their position as faculty members. They should not represent themselves, without authorization, as spokespersons for the University of North Carolina System or any of its constituent institutions.
+
+
+> Academic Freedom Defined: Academic freedom is the foundational principle that
+protects the rights of all faculty to engage in teaching, research/creative activities, service, and scholarly inquiry without undue influence. It ensures that faculty can freely pursue knowledge; express, discuss and debate ideas; and contribute to knowledge and understanding related to their areas of expertise.
+
+> Academic freedom includes the following rights and responsibilities of faculty:
+
+> Classroom Practice: To determine pedagogical strategies, instructional materials, evaluation methods, and classroom discourse that support student learning, provided these methods align with professional standards.
+
+> Course Development: To design, revise, and implement curricular content and learning outcomes within their academic expertise, subject to departmental and institutional review processes.
+
+> Research: To pursue, design, conduct, disseminate, and publish research/ activities consistent with professional standards and in compliance with institutional policies, regulations, and rules.
+
+> Scholarly Inquiry: To teach and research ideas relevant to the subject matter or student skill development; to express scholarly opinions; and to present perspectives relevant to the subject matter that may be controversial or unpopular.
+
+> **Academic freedom is not absolute.** Faculty have the responsibility to exercise academic freedom within the parameters established by academic disciplines, professions, and in compliance with institutional policies, regulations, and rules. Administrators and faculty have the shared right and responsibility to implement the University’s mission as defined in G.S. 116-1, to discover, create, transmit, and apply knowledge to address the needs of individuals and society. This includes:
+
+> Ensuring Alignment with Institutional Mission: Ensure that faculty activities support the university's mission and meet accreditation standards.
+
+> Upholding Professional and Ethical Standards: Intervene when faculty conduct violates professional norms, creates a hostile learning environment as defined by policy and law, or undermines the institution's educational objectives.
+
+> Protecting Management Responsibilities: Management is responsible for resource allocation and program viability, including the authority to set broad curricular frameworks, approve or eliminate programs, and ensure compliance with UNC policy and legal and regulatory requirements.
+
+> The parameters of academic freedom include:
+
+> Teaching and researching controversial or unpopular ideas related to the discipline or subject matter.
+
+> Expressing scholarly opinions and presenting diverse perspectives related to the discipline or subject matter.
+
+> Assessing student performance based on academic criteria.
+
+> Engaging in shared governance related to such fundamental areas as curriculum, subject matter and methods of instruction, research, faculty status, and those aspects of student life which relate to the educational process.
+
+> The Parameters of Academic Freedom Do Not Include:
+
+> Teaching content clearly unrelated to the course description or unrelated to the discipline or subject matter.
+
+> Using university resources for political or ideological advocacy in violation of university policy.
+
+> Refusing to comply with institutional policies or accreditation standards to which the university is subject.
+
+> The University and its constituent institutions shall not penalize or discipline members of its faculties because of the exercise of academic freedom in the lawful pursuit of their respective areas of scholarly and professional interest and responsibility.
+
+> Academic freedom is distinct from, but consistent with, the separate freedoms of expression and association protected by the First Amendment to the United States Constitution benefitting all members of the University community when acting in their personal capacities.
+
+(With more on students and Academic Freedom)
+
+* Texas Tech Cancels Abortion Rights Advocate’s Speech After TPUSA Pressure
+
+[https://www.insidehighered.com/news/quick-takes/2026/01/30/abortion-rights-advocate-talk-canceled-after-tpusa-pressure](https://www.insidehighered.com/news/quick-takes/2026/01/30/abortion-rights-advocate-talk-canceled-after-tpusa-pressure)
+
+> Preston Parsons, president of the wider Texas Tech chapter of Turning Point USA and a Texas Tech University freshman, told Inside Higher Ed that his group, alongside “extremely pro-life” advocates in Lubbock, urged leaders of the university system—including system chancellor Brandon Creighton—to stop the speech. Before becoming chancellor in September, Creighton was a Republican state senator who successfully pushed sweeping statewide higher ed overhauls, and in 2017 he sponsored a bill “designed to prevent doctors from encouraging abortions,” according to The Texas Tribune.
+
+(Texas doesn't interpret this part of Academic Freedom like UNC: "Expressing scholarly opinions and presenting diverse perspectives related to the discipline or subject matter.")
+
+
+## Visas
+
+* (SBU) Removal of Yunseo Chung and Mahmoud Khalil, both U.S. LPRs, under Section 237(a)(4)(C) of the Immigration and Nationality Act (INA)
+
+[https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.315.18.pdf](https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.315.18.pdf)
+
+
+(The flimsy rational for deportation in memo format)
+
+* Two States Are Pausing H-1B Hiring at Public Universities. Here’s What That Could Mean.
+
+[https://www.chronicle.com/article/two-states-are-pausing-h-1b-hiring-heres-how-many-scholars-could-be-affected](https://www.chronicle.com/article/two-states-are-pausing-h-1b-hiring-heres-how-many-scholars-could-be-affected)
+
+> This week, Texas Gov. Greg Abbott, a Republican, ordered a pause on hiring new foreign employees at the state’s public universities until June 2027. The move followed a similar directive from another reform-minded Republican, Florida Gov. Ron DeSantis, who in October told public universities to end “H-1B abuse.” DeSantis was referring to the H-1B visas that allow international scholars to work in the United States.
+
+> Public universities in Texas and Florida had over 1,000 foreign-worker applications approved in 2025, including new petitions and renewals. The states’ pauses apply only to new H-1B employees, not existing visa-holders who renew their status or request a change in employment conditions, such as taking a job at a different university.
+
+* Florida Moves Toward Banning H-1B Visa Hires
+
+[https://www.insidehighered.com/news/faculty-issues/research/2026/01/29/florida-now-accepting-public-comment-h-1b-visa-hiring-ban](https://www.insidehighered.com/news/faculty-issues/research/2026/01/29/florida-now-accepting-public-comment-h-1b-visa-hiring-ban)
+
+> The state university system’s Board of Governors will now take public comments for two weeks on a proposed prohibition on hiring any new employees on H-1Bs through Jan. 5 of next year. The vote from a committee to further the proposal was a voice vote, with no nays heard from any committee member. The proposal will come back to the full board for a vote after the public comment period ends.
+
+
+## Federal Agencies
+
+### DOE/OCR
+
+
+* Education Dept. Accuses San José State of Violating Title IX
+
+[https://www.insidehighered.com/news/quick-takes/2026/01/29/education-dept-accuses-san-jose-state-violating-title-ix](https://www.insidehighered.com/news/quick-takes/2026/01/29/education-dept-accuses-san-jose-state-violating-title-ix)
+
+> The Education Department said Wednesday that San José State University’s decision to allow a transgender woman to compete on the women’s volleyball team violated Title IX of the Education Amendments of 1972.
+
+> San José State was at the center of a national controversy in 2024 when students on the volleyball team and competing teams objected to the presence of Blaire Fleming, a trans woman who had played for the Spartans since 2022. Fleming’s teammates sued and other teams forfeited games in protest of Fleming.
+
+
+
+## State actions
+
+* Another Red State Wants to Shake Up Higher Ed This Year
+
+[https://www.chronicle.com/article/another-red-state-wants-to-shake-up-higher-ed-this-year](https://www.chronicle.com/article/another-red-state-wants-to-shake-up-higher-ed-this-year)
+
+(Iowa)
+
+> More than 20 bills relating to higher education have been introduced in the Iowa Legislature this month — all sponsored by a handful of Republican lawmakers. Notably, some of the legislation would follow the lead of Texas, Utah, and Florida in regulating universities’ general-education curricula.
+
+> Another bill would limit membership on presidential search committees to board members, eliminating the opportunity for students and instructors to serve. Martin said this would undermine the concepts of faculty governance, and Democratic legislators on the committee have expressed similar concerns.
+
+> Another bill would mandate the creation of two new required courses — one on American history and one on American government, neither of which can “be exclusively or primarily devoted to the study of subgroups of Americans or other nationalities.” The Iowa Capital Dispatch reported that Collins sent letters to the state’s private universities urging them to adopt the same policy.
+
+## Institutional assaults
+
+* Trump's university settlements and what he wants to accomplish : NPR
+
+[https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities?utm_medium=social&utm_term=nprnews&utm_campaign=npr&utm_source=bsky.app](https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities?utm_medium=social&utm_term=nprnews&utm_campaign=npr&utm_source=bsky.app)
+
+> "What I find striking and disturbing about what's happened here," says Thomas Berry, the director of constitutional studies at the libertarian Cato Institute, "is that the federal government started by simply pausing all of this funding" without proving its allegations.
+
+> Berry says that Cato doesn't love the idea of private universities being dependent on federal funds. But he also says the government shouldn't use that relationship to meddle in how schools would normally operate.
+
+> "To me, it's a blatant violation of the unconstitutional conditions doctrine of the First Amendment," says Berry.
+
+> "To me, it's a blatant violation of the unconstitutional conditions doctrine of the First Amendment," says Berry.
+
+> The idea behind that doctrine is that a government can't say someone has to give up a constitutional right such as free speech or they won't get a benefit — like federal money.
+
+> Echoing Berry's point, Todd Wolfson, president of the American Association of University Professors, says, "Six or seven [Supreme Court] rulings from 1920 onwards all held that the federal government cannot use purse strings to control speech."
+
+* NYTimes: The Havoc That One Disgruntled Student Can Wreak on a University
+
+[https://www.nytimes.com/2026/01/28/opinion/conservative-campus-politics.html?smid=nytcore-ios-share](https://www.nytimes.com/2026/01/28/opinion/conservative-campus-politics.html?smid=nytcore-ios-share)
+
+> I have an update for you, and it’s not good. Fulnecky, who had already had the failing grade removed, has become a right-wing media darling. Curth was fired, and another instructor from the University of Oklahoma was placed on leave for a related controversy.
+
+> Fulnecky’s rush to get political actors on her side, and to make her own grading dispute national news, did not happen in a vacuum. The Trump administration and sympathetic state legislators like those in Oklahoma, in their zeal to end what they believe is “woke” gender and racial ideology, have chilled academic freedom. Fulnecky’s personal quest has **intersected with a broader, decades-long effort to turn Americans against higher education.**
+
+> The Trump administration’s war on truth and historical standards is, of course, not limited to universities. We see that the administration is willing to say basically anything about what is happening in Minneapolis, despite what we can all see on multiple angles of video. On Thursday, the National Park Service removed an exhibit from Independence National Historical Park in Philadelphia about the enslaved people owned by George and Martha Washington because of an executive order “restoring truth and sanity to American history,” according to The Associated Press.
+
+> I usually try to inject a bit of hope at the end of my newsletters, but on this topic I have none. I keep searching for the word that encapsulates the justified paranoia of some of the teachers I spoke to: It only takes one vindictive student in a sea of good eggs to ruin an entire career, because teaching opportunities are contracting.
+
+### Accreditation
+
+* ED Eyes Rewrite of Accreditation Rules
+
+[https://www.insidehighered.com/news/governance/accreditation/2026/01/27/education-dept-eyes-rewrite-accreditation-rules](https://www.insidehighered.com/news/governance/accreditation/2026/01/27/education-dept-eyes-rewrite-accreditation-rules)
+
+> The Department of Education is taking its next major step toward overhauling the college accreditation system, inviting higher ed policy experts to suggest nominees for an upcoming negotiating committee. But while the Monday announcement sheds more light on the Trump administration’s priorities, it provides no concrete plan on how they intend to make those goals a reality.
+
+> That committee will discuss up to 10 topics outlined in the Federal Register notice, though much of the attention is expected to focus on making it easier for new accreditors to join the market, increasing the agencies’ focus on data-driven student performance benchmarks, and scrubbing any existing diversity, equity and inclusion standards.
+
+
+### Brown
+
+* Trump Directed Brown U. to Ask Students About Antisemitism. The Survey Found Broader Disparities.
+
+[https://www.chronicle.com/blogs/the-trump-agenda/trump-directed-brown-to-ask-students-about-antisemitism-the-survey-found-broader-disparities](https://www.chronicle.com/blogs/the-trump-agenda/trump-directed-brown-to-ask-students-about-antisemitism-the-survey-found-broader-disparities)
+
+> Brian Clark, a Brown spokesperson, told The Chronicle of Higher Education that the survey results, along with proposed actions, were submitted to federal officials for review. The full report has not been released publicly, as it “constitutes Brown’s analysis while we await a comprehensive review from our external vendor,” Clark said via email. A more detailed report is expected later this spring. The Chronicle obtained a copy of the preliminary findings from a member of the Brown community.
+
+> Completed last fall by 57 percent of undergraduate, graduate, and medical students, the survey found that most students feel they belong at Brown and can succeed academically without suppressing their identities. Nearly 85 percent of undergraduates and 76 percent of graduate and medical students reported a sense of belonging, and over 90 percent of undergraduates said they would recommend Brown to “students like me.”
+
+> Brown conducted the survey under a July 2025 agreement with the Trump administration that restored hundreds of millions of dollars in frozen federal research funding and resolved a federal investigation into an alleged failure to combat antisemitism on campus. As part of the deal, the university was required to assess the campus climate for students of Jewish ancestry, as well as social-media harassment, and submit the results, along with a plan of action, to federal officials.
+
+
+### Minnesota
+
+* Remote Class and Escorts: Twin Cities Universities Respond to ICE, CBP, Protests
+
+[https://www.insidehighered.com/news/students/safety/2026/01/27/minneapolis-area-universities-respond-ice-cbp-protests](https://www.insidehighered.com/news/students/safety/2026/01/27/minneapolis-area-universities-respond-ice-cbp-protests)
+
+> The college [Minneapolis College of Art and Design] canceled classes this week, and it will conduct remote learning for the next two weeks, Gillette Cleveland said. While the public used to be able to access the college’s art gallery, art store and cafe, now all buildings are locked to those who don’t have badge access, she said.
+
+### UPenn
+
+* EEOC Accuses Penn of Defying Subpoena
+
+[https://www.insidehighered.com/news/quick-takes/2026/01/29/eeoc-accuses-penn-defying-subpoena](https://www.insidehighered.com/news/quick-takes/2026/01/29/eeoc-accuses-penn-defying-subpoena)
+
+
+> The U.S. Equal Employment Opportunity Commission accused the University of Pennsylvania of waging an “intensive and relentless public relations campaign” to avoid complying with a subpoena related to an investigation into antisemitism, The Philadelphia Inquirer reported.
+
+> The EEOC made the claim in a court filing on Monday, accusing the Ivy League university of impeding its investigation. The federal government is seeking information about Jewish students and employees, which the EEOC claims is necessary to identify potential victims and witnesses.
+
+### Yale
+
+* Yale to cut graduate student enrollment due to endowment tax hike
+
+[https://www.ctinsider.com/news/education/article/yale-graduate-enrollment-reductions-endowment-tax-21296549.php](https://www.ctinsider.com/news/education/article/yale-graduate-enrollment-reductions-endowment-tax-21296549.php)
+
+> Yale University will be admitting fewer graduate students in response to the looming federal endowment tax hike that university officials warn is creating a major budget shortfall.
+
+> Starting with the current admissions cycle, Yale will be decreasing graduate student enrollment in the humanities and social sciences by approximately 13%, and enrollment in the sciences and engineering by about 5%, she said.
+
+> “Recent increases to the federal tax rate on Yale’s investment income have reduced the Graduate School budget, of which 93% goes toward support for graduate students," Cooley said. "To address this significant budget shortfall, our only option is to reduce our graduate student population through lower admissions targets over the next three years."
+
+
+## How best to describe the times we are in
+
+* Autocracy in America: Defund Science - The Atlantic
+
+[https://www.theatlantic.com/podcasts/2026/01/reality-reshaped/685289/](https://www.theatlantic.com/podcasts/2026/01/reality-reshaped/685289/)
+
+> Joan Brugge has worked for nearly 50 years as a cancer scientist, studying the earliest signs that someone might become sick. Then the Trump administration canceled her lab’s funding. The administration’s attacks on medicine, culture, and education—which include verbal threats and funding cuts—are about more than just budgeting and bravado. Ruth Ben-Ghiat is a professor of history and Italian studies at New York University and the author of Strongmen: Mussolini to the Present. She argues that this effort is part of a larger autocratic project to maintain power.
+
+> Today’s episode examines the administration’s attacks on science, medicine, culture, and education—a combination of verbal threats and funding cuts that look very much like an attempt to control knowledge. Maybe there’s a broader goal, too: to build distrust, and, ultimately, to reshape all Americans’ perceptions of reality. I know that sounds dramatic, but I spent many years writing about authoritarian regimes, and almost all of them try to undermine admired institutions, in order to radically alter the way people think.
+
+> Ben-Ghiat: [Subject of interview, professor of history and Italian studies at New York University] Well, they only come out of the blue if you ignored what was going on during Trump 1.0. Many of these fanatic causes and the people involved in them, such as Stephen Miller and others, were active then. And it was simply that they were only able to push these things so far, and now they feel free and empowered to push this through. The speed at which these parallel wars on American institutions and science and knowledge are happening resemble not the aftermath of an election, but when people come to power via coup. And, in fact, in some areas, like the universities or science, the Trump administration has acted more swiftly than people did, for example, Pinochet’s regime after a coup. They didn’t start a lot of their large-scale changes to the economy and education for a year or two. So here we have something that’s been planned for a long time.
+
+> And then the other thing I would mention is that they used their power when they were out of office beautifully. And by partnering with the Heritage Foundation—Project 2025—when he won the election, they were able to hit the ground running.
+
+> Ben-Ghiat: It’s both. If we take the example of education institutions, of course you wanna go after individuals. And so every autocrat ends up purging any kind of critic. Certain fields of knowledge must go, and others are actually replaced. So you have a reform of institutions at the curricular level, such as Italy and Germany under the fascist period, made huge investments in demographics, in eugenics, racial engineering, and other subjects—and people who taught them had to go. But also, at a structural level, you want to change the tenor of the institution. You want to make educational institutions into places where you don’t have free thinking, critical thinking, and curiosity, as you would in democracies. Instead, the education institution itself becomes a place that breeds the values of authoritarianism: suspicion, hostility. And so every regime invests in having student informers.
+
+> And when I start my classes now at New York University, the first day, if they’re about authoritarianism or fascism, I look out at the students and I say, If this were an authoritarian state, one of you or two of you would be informing on each other. And another would be assigned to inform on me, as the instructor.
+
+> So it’s curriculum; it’s personnel. But the very conception of the institution must change, and it must become realigned and recast to fit in with the larger goals of that state.
+
+> Q: Can you think of an example, prior to this administration, of a very advanced society with very advanced scientific institutes, simply threatening to cut off funding?
+
+> Ben-Ghiat: The only example I can think of is China, during Mao. ... During Mao’s long-tenured Cultural Revolution, et cetera, science was put back by generations. Scientists were among the intellectuals and researchers who were killed and imprisoned and purged.
+
+
+## Blowback
+
+* The Accidental Winners of the War on Higher Ed - The Atlantic
+
+[https://www.theatlantic.com/technology/2026/01/liberal-arts-college-war-higher-ed/685800/](https://www.theatlantic.com/technology/2026/01/liberal-arts-college-war-higher-ed/685800/)
+
+(Behind the paywall you can find out why it says "Go to a small liberal-arts college if you can.")
+
+
+## And just because it is fun
+
+* Congress Is Asking Dozens of Prominent Universities About Students’ ‘Dismal’ Math Skills
+
+[https://www.chronicle.com/article/congress-is-asking-dozens-of-prominent-universities-about-students-dismal-math-skills](https://www.chronicle.com/article/congress-is-asking-dozens-of-prominent-universities-about-students-dismal-math-skills)
+
+> A prominent U.S. senator has sent letters to three dozen selective colleges seeking to find out why students are entering with such dismal math skills.
+
+> “The United States faces a crisis in student achievement at the K-12 level that has begun to spill over into higher education, especially in math,” wrote Sen. Bill Cassidy, a Louisiana Republican and physician who chairs the Senate Health, Education, Labor, and Pensions Committee. “This state of affairs is unacceptable and demands immediate corrective action.”
+
+> The concerns over college readiness come at a time when many colleges are moving away from free-standing remedial classes, opting instead to place more students directly in college-level offerings with support on the side. The shift has been particularly pronounced in California, where supporters view it as a way to remove barriers that trip up many low-income and minority students.
+
+> An October report prepared by the University of California system pointed out that early math preparation varies significantly across the state’s high schools, and that the students who are least likely to get adequate preparation for college courses come from low-income, rural, or underrepresented minority backgrounds.
+
+----
+
+Again, some links are behind paywalls. The shortened wapo links are gift articles; the Chronicle links should be available through a CUNY library. I have online access to the WSJ articles through CUNY.
+
+These digests are now archived at
+
+[https://cunytracker.github.io/CUNYTracker/](https://cunytracker.github.io/CUNYTracker/)
