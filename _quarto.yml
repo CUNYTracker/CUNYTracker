@@ -11,6 +11,9 @@ website:
       - href: bytopic.qmd
         text: "List by topic"
       - text: "----"
+      - href: feb-6-2026.qmd
+        text: "Feb 06"
+      - text: "----"
       - href: jan-30-2026.qmd
         text: "Jan 30"
       - href: jan-23-2026.qmd
